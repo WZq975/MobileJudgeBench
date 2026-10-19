@@ -34,7 +34,7 @@ from typing import Any, Callable, Optional
 
 import requests
 
-from ..loader import load_annotations
+from ..loader import load_annotations, trajectory_dir
 from . import METHODS
 from .common import get_api_config
 from .inputs import JudgeInput, load_judge_input
@@ -190,6 +190,11 @@ def main(argv: Optional[list[str]] = None) -> None:
     if args.trajectory_id:
         wanted = set(args.trajectory_id)
         rows = [r for r in rows if r["trajectory_id"] in wanted]
+    present = [r for r in rows if os.path.isdir(trajectory_dir(root, r["trajectory_id"]))]
+    if len(present) < len(rows):
+        print(f"{len(rows) - len(present)} of the {len(rows)} selected trajectories are not under {root} "
+              "(partial download) and are skipped", flush=True)
+        rows = present
     if args.limit:
         rows = rows[: args.limit]
     if not rows:

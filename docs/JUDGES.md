@@ -10,7 +10,8 @@ Every run writes `judge_results/<judge>_<model>_<timestamp>.json` (per-trajector
 summary metrics: accuracy, precision, recall, F1 and balanced accuracy, overall and per benchmark and
 agent; positive class = successful trajectory) and a `.csv` with the verdicts. `--resume` continues an
 interrupted run and retries its failed trajectories; `--benchmark`, `--agent`, `--trajectory_id`
-(repeatable) and `--limit` select a subset; `--max_workers` (default 4) judges trajectories in parallel.
+(repeatable) and `--limit` select a subset, and trajectories missing from a partial download are
+skipped; `--max_workers` (default 4) judges trajectories in parallel.
 `python -m mobilejudgebench.judges.compute_metrics <results.json>` recomputes the metrics of a run,
 optionally for a subset (`--benchmark`, `--agent`).
 
