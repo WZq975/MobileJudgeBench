@@ -79,7 +79,11 @@ python -m mobilejudgebench.judges.evaluate --root ./MobileJudgeBench \
 
 It writes the per-trajectory verdicts and the metrics (accuracy, precision, recall, F1 and balanced
 accuracy against the human labels; positive class = successful trajectory) to `judge_results/`.
-Options and how a trajectory is presented to the judge: [docs/JUDGES.md](docs/JUDGES.md).
+
+The same pipeline evaluates your own judge: write a function `judge(inp, **kw) -> bool` and pass it
+as `--judge_method my_judge.py:judge`. Verdicts produced outside the pipeline are scored with
+`python -m mobilejudgebench.judges.compute_metrics --predictions my_verdicts.csv --root ./MobileJudgeBench`.
+What a judge receives, the options and two complete example judges: [docs/JUDGES.md](docs/JUDGES.md).
 
 ## Data format
 
@@ -104,13 +108,14 @@ holds one row per trajectory (`success` = human label, plus task, app and step-c
 ```
 data/                      annotations.csv, tasks.csv
 docs/FORMAT.md             full schema documentation
-docs/JUDGES.md             running the Baseline judge
-mobilejudgebench/          loader (loader.py), downloader (download.py) and the Baseline judge (judges/)
+docs/JUDGES.md             evaluating judges: the Baseline judge, your own judge, verdict files
+mobilejudgebench/          loader (loader.py), downloader (download.py), judge pipeline and Baseline judge (judges/)
 scripts/convert_raw_to_release.py   provenance: raw collection pickles -> this format
 scripts/build_metadata.py           rebuilds the CSV index files from trajectory directories
 scripts/verify_release.py           structural / checksum validation of a downloaded copy
 scripts/package_release.py          builds the release archives + checksums
-examples/quickstart.py
+examples/quickstart.py     load the data, print statistics, render a contact sheet
+examples/custom_judge.py   two example judges for the evaluation pipeline
 ```
 
 ## License and attribution

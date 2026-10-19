@@ -16,9 +16,11 @@ OPENAI_BASE_URL = "https://api.openai.com/v1"
 RETRY_STATUS = {408, 409, 425, 429, 500, 502, 503, 504}
 
 
-def get_api_config(provider: str, api_key: Optional[str] = None, base_url: Optional[str] = None) -> tuple[str, str]:
+def get_api_config(provider: str, api_key: Optional[str] = None, base_url: Optional[str] = None,
+                   required: bool = True) -> tuple[Optional[str], str]:
     """Resolve ``(api_key, base_url)`` for ``provider`` (``openai`` or ``openrouter``). Explicit arguments
-    win; otherwise ``OPENAI_API_KEY``/``OPENAI_BASE_URL`` or ``OPENROUTER_API_KEY`` are used."""
+    win; otherwise ``OPENAI_API_KEY``/``OPENAI_BASE_URL`` or ``OPENROUTER_API_KEY`` are used. A missing key
+    raises ``ValueError``, or gives ``None`` when ``required`` is false."""
     if provider == "openrouter":
         key = api_key or os.getenv("OPENROUTER_API_KEY")
         url = base_url or OPENROUTER_BASE_URL
@@ -29,9 +31,9 @@ def get_api_config(provider: str, api_key: Optional[str] = None, base_url: Optio
         env = "OPENAI_API_KEY"
     else:
         raise ValueError(f"unknown provider {provider!r}")
-    if not key:
+    if not key and required:
         raise ValueError(f"no API key for provider {provider!r}: pass --api_key or set {env}")
-    return key, url
+    return key or None, url
 
 
 def is_gpt5(model: str) -> bool:

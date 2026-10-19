@@ -37,8 +37,9 @@ def _read_csv(path: str) -> list[dict[str, str]]:
 
 
 def load_annotations(root: str) -> list[dict[str, Any]]:
-    """Rows of ``annotations.csv`` with numeric columns converted to int/bool."""
-    rows = _read_csv(os.path.join(root, "annotations.csv"))
+    """Rows of ``annotations.csv`` with numeric columns converted to int/bool. ``root`` is the release
+    root or the path of an ``annotations.csv``."""
+    rows = _read_csv(root if os.path.isfile(root) else os.path.join(root, "annotations.csv"))
     for r in rows:
         r["success"] = bool(int(r["success"]))
         for k in ("n_steps", "n_screenshots"):

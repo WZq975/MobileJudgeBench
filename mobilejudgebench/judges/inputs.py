@@ -7,11 +7,13 @@ The judge takes the representation used by the paper's pipeline:
   renders as e.g. ``click at (540, 1200)``, ``type: hello`` or ``task complete: Task completed.``;
 * ``observations``: one text block per screenshot listing the accessibility-tree elements, or
   ``[No UI elements]`` when no element list is available;
-* ``reasonings``: the agent's stated reasoning per step (None when absent).
+* ``reasonings``: the agent's stated reasoning per step (None when absent);
+* ``trajectory``: the loaded ``Trajectory`` itself, for judges that want the raw actions, the UI element
+  lists or the images.
 """
 from __future__ import annotations
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Any, Optional
 
 from ..loader import Trajectory, load_trajectory
@@ -125,6 +127,7 @@ class JudgeInput:
     actions: list[dict[str, Any]]   # one per step
     observations: list[str]         # one per screenshot
     reasonings: list[Optional[str]]  # one per step
+    trajectory: Trajectory = field(repr=False)  # raw actions, UI element lists, load_images()
 
     @property
     def has_ui(self) -> bool:
@@ -148,6 +151,7 @@ def build_judge_input(traj: Trajectory) -> JudgeInput:
         trajectory_id=traj.trajectory_id, benchmark=traj.benchmark, agent=traj.agent, task_id=traj.task_id,
         goal=traj.goal, success=traj.success, n_steps=traj.n_steps, image_paths=list(traj.screenshot_paths),
         actions=actions, observations=observations, reasonings=[s.reasoning or None for s in traj.steps],
+        trajectory=traj,
     )
 
 
