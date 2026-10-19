@@ -27,8 +27,7 @@ The trajectory data is 4.6 GiB (PNG screenshots), distributed as 24 tar archives
 benchmark x agent, each under 1 GiB) listed in `manifest.json` with SHA-256 sums. The archives are
 hosted on the Hugging Face Hub at
 [huggingface.co/datasets/WesleyWzq/MobileJudgeBench](https://huggingface.co/datasets/WesleyWzq/MobileJudgeBench).
-The index files (`annotations.csv`, `tasks.csv`) also live in this repository under [`data/`](data/);
-work that only needs the human labels and task metadata can use them without downloading the archives.
+The index files (`annotations.csv`, `tasks.csv`) also live in this repository under [`data/`](data/).
 
 ```bash
 git clone https://github.com/WZq975/MobileJudgeBench.git
