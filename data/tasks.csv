@@ -1,0 +1,334 @@
+benchmark,task_id,task_category,app,goal
+spa_bench,General_Tool_2_ENG,cross_app,settings;clock,"In the Settings app, enable 'Data Saver' mode. Open the Clock app and set an alarm for 6:00 AM."
+spa_bench,Information_Management_2_ENG,cross_app,chrome;spotify,"Open Chrome, search for the top Country songs of 2023, identify a song from the search results, then switch to Spotify and add that song to your playlist."
+spa_bench,Media_Entertainment_2_ENG,cross_app,youtube;clock,"Search for a relaxing soundscape video on YouTube, use the Clock app to set a timer for 3 hours, then go back to YouTube and play the video."
+spa_bench,Multi_Apps_4_ENG,cross_app,expedia;evernote;accuweather,"Utilize Expedia to search for Things to do in Beijing on 18-20th, choose one and record the sharing text using Evernote, open AccuWeather to check daily weather in Beijing."
+spa_bench,Social_Sharing_1_ENG,cross_app,bbc;gmail,"Use the BBC News app to search for Artificial Intelligence news, read an article, share it via Gmail, send to agent.benchmark.2024@gmail.com."
+spa_bench,airbnb_1,single_app,airbnb,"This is the opened app ""airbnb"". Get the search results for stay tonight near 'wembley stadium' for 1 adult."
+spa_bench,airbnb_2,single_app,airbnb,"This is the opened app ""airbnb"". Get the search results for stay tonight near 'wembley stadium' for 1 adult. Add one result to wishlist. Confirm that this item is in the wishlist."
+spa_bench,amazon_1,single_app,amazon,"This is the opened app ""amazon"". Get the search results for 'sunglasses'. Filter with 'kids'. Add one result to cart. Confirm that this item is in the cart."
+spa_bench,amazon_2,single_app,amazon,"This is the opened app ""amazon"". Get the search results for 'goggles'. Filter with 'adult'. Add one result to cart. Confirm that this item is in the cart. Compare with similar items. Add one of the similar items to cart."
+spa_bench,bbc_1,single_app,bbc,"This is the opened app ""bbc"". Go to app settings. Change the Text size to 'Smaller'. Navigate to 'Innovation' section. Select 'Technology' tab. Open any news article."
+spa_bench,bbc_2,single_app,bbc,"This is the opened app ""bbc"". Go to app settings. Change the Text size to 'Larger'. Navigate to 'Business' block. Select 'Technology of Business' tab. Open any news article. Save this article. Go to Saved Items to confirm the article was added."
+spa_bench,bolt_1,single_app,bolt,"This is the opened app ""bolt"". Select Louvre museum Paris as my pick-up location. Select Eiffel Tower as my destination."
+spa_bench,bolt_2,single_app,bolt,"This is the opened app ""bolt"". Select Louvre museum Paris as my pick-up location. Select Eiffel Tower as my destination. Add 'Arc de Triomphe' as the final destination and Eiffel Tower as stopping point."
+spa_bench,booking.com_4,single_app,booking,"This is the opened app ""booking.com"". Navigate to app settings. Change Temperature to 'Degrees in Celsius'. Change Units to 'Metric (km, m)'."
+spa_bench,booking.com_5,single_app,booking,"This is the opened app ""booking.com"". Navigate to app settings. Change Currency to 'Pound Sterling'. Disable all notifications."
+spa_bench,calculator_1,single_app,calculator,"This is the opened app ""calculator"". Get the result for 'log(20)+ln(e)'."
+spa_bench,calculator_2,single_app,calculator,"This is the opened app ""calculator"". Get the result for 'log(20)+ln(e)'. Clear the results. Get the result for factorial 7."
+spa_bench,calendar_1,single_app,google_calendar,"This is the opened app ""calendar"". Set up an all-day event titled 'Haircut' on the 16th of any month."
+spa_bench,calendar_2,single_app,google_calendar,"This is the opened app ""calendar"". Set up an event titled 'Dental Check' on the 17th of any month. Set the time to from 7pm to 9pm."
+spa_bench,chrome_1,single_app,chrome,"This is the opened app ""chrome"". Get the search results for Taylor Swift. Go to her Wikipedia page. Add it to bookmarks. Check the Bookmarks for confirmation."
+spa_bench,chrome_2,single_app,chrome,"This is the opened app ""chrome"". Get the search results for Taylor Swift. Go to her Wikipedia page. Add it to bookmarks. Move this bookmark to Reading List. Check the Reading List for confirmation."
+spa_bench,clock_4,single_app,clock,"This is the opened app ""clock"". Set Home time zone to 'Hong Kong'."
+spa_bench,clock_5,single_app,clock,"This is the opened app ""clock"". Add current time at Melbourne (Australia) to clock. Change style to Analog for clock. Change style to Analog for screen saver."
+spa_bench,contacts_1,single_app,contacts,"This is the opened app ""contacts"". Create a contact named 'Agent Two'. The phone number is +44 1234 567 890. The email is benchmark@gmail.com"
+spa_bench,contacts_2,single_app,contacts,"This is the opened app ""contacts"". Modify the last name of one of the contacts to 'Three'. Update the label for the contact's phone number to Work. Set the company to 'Huawei'. Add an email agent.benchmark.2024@gmail.com. Label the email as Work."
+spa_bench,dictionary_merriam_webster_1,single_app,dictionary_merriam_webster,"This is the opened app ""dictionary_merriam_webster"". Look up the definition of the word 'agent'. Switch to Thesaurus tab to find its synonyms. Click on one of its synonyms. Switch back to Dictionary tab."
+spa_bench,dictionary_merriam_webster_2,single_app,dictionary_merriam_webster,"This is the opened app ""dictionary_merriam_webster"". Look up the definition of the word 'agent'. Switch to Thesaurus tab to find its synonyms. Click on one of its synonyms. Switch back to Dictionary tab. Save this synonym. Confirm that synonym is in the saved words."
+spa_bench,espn_1,single_app,espn,"This is the opened app ""espn"". Get the search results for 'Klay Thompson'. See all the articles. Open one of the articles."
+spa_bench,espn_2,single_app,espn,"This is the opened app ""espn"". Get the search results for 'Klay Thompson'. See all the articles. Open one of the articles. Return to the player's search results. Select the player. Turn on player news notification. Follow the player."
+spa_bench,evernote_4,single_app,evernote,"This is the opened app ""evernote"". Create a new task 'Paper Writing'.Set the due date to tomorrow. Navigate to the Tasks tab for confirmation."
+spa_bench,evernote_5,single_app,evernote,"This is the opened app ""evernote"". Create a new task 'Maintain Git Repo'.Set it to repeat daily. Navigate to the Tasks tab. Apply the recurring tasks filter. Confirm that task exists."
+spa_bench,expedia_4,single_app,expedia,"This is the opened app ""expedia"". Check things to do in Rome. Get the search results for 26th to 29th of any month. Save it to my trips."
+spa_bench,expedia_5,single_app,expedia,"This is the opened app ""expedia"". Check things to do in Paris. Get the search results for 25th to 28th of any month. Save it to my trips. Confirm that by checking the saved Paris trip."
+spa_bench,files_1,single_app,files,"This is the opened app ""files"". Go to the 'DCIM' folder in the internal storage. Create a subfolder named 'Agent_created'."
+spa_bench,files_2,single_app,files,"This is the opened app ""files"". Go to the 'DCIM' folder in the internal storage. Create a subfolder named 'Agent_created_2'. Create another subfolder named 'Agent_created_3'. Then move the folder 'Agent_created_2' into the 'Documents' folder in the internal storage."
+spa_bench,gmail_4,single_app,gmail,"This is the opened app ""gmail"". Navigate to settings. Check current setting for notifications. Turn off notification for Attachments."
+spa_bench,gmail_5,single_app,gmail,"This is the opened app ""gmail"". Navigate to settings. Check current setting for notifications. Turn off notification for Miscellaneous. Disable 'notification dot'. Return to Inbox."
+spa_bench,google_maps_4,single_app,google_maps,"This is the opened app ""google_maps"". Get the search results for a nearby gas station that is open now. Get a driving route to it."
+spa_bench,google_maps_5,single_app,google_maps,"This is the opened app ""google_maps"". Get the search results for a nearby gas station that is open now. Get a driving route with the gas station as the first stop. Set McDonald's as the final destination."
+spa_bench,google_play_4,single_app,google_play,"This is the opened app ""google_play"". Check the details of General settings. Switch to dark theme."
+spa_bench,google_play_5,single_app,google_play,"This is the opened app ""google_play"". Check the details of General settings. Turn off all notifications. Confirm that all notification settings for this device are off."
+spa_bench,google_tasks_1,single_app,google_tasks,"This is the opened app ""google_tasks"". Create a new list 'Weekend'. Add new task 'Buy groceries'."
+spa_bench,instagram_4,single_app,instagram,"This is the opened app ""instagram"". Navigate to the page to edit my profile. Add bio 'Hello World!'. Change pronouns to 'it'."
+spa_bench,instagram_5,single_app,instagram,"This is the opened app ""instagram"". Navigate to the page to edit my profile. Add link 'https://github.com'. Change gender to Custom 'Them'. Switch to private account."
+spa_bench,keep_notes_1,single_app,keep_notes,"This is the opened app ""keep_notes"". Create a new note. Write 'Hello this is a note2' in the content. Write 'Written by Agent2' as the note title."
+spa_bench,keep_notes_2,single_app,keep_notes,"This is the opened app ""keep_notes"". Create a new checklist. Add two items 'Learn Python' and 'Learn Java'. Write 'Goal of agent' as the checklist title. Label this checklist as 'Agent'."
+spa_bench,linkedin_4,single_app,linkedin,"This is the opened app ""linkedin"". Get the search results for 'Engineer' job in Spain."
+spa_bench,linkedin_5,single_app,linkedin,"This is the opened app ""linkedin"". Get the search results for 'Engineer' jobs in Spain. Save one of the jobs. Confirm it is saved in My Jobs."
+spa_bench,onenote_1,single_app,onenote,"This is the opened app ""onenote"". Create a new page with title 'Benchmark2' and content TODO 'AppAgent' and 'Mobile Agent'."
+spa_bench,quora_4,single_app,quora,"This is the opened app ""quora"". Discover any Space. Follow that space. Go to questions in the space. Filter unanswered questions. Follow one question."
+spa_bench,quora_5,single_app,quora,"This is the opened app ""quora"". Discover any Technology Spaces. Follow that space. Also follow one of the suggested spaces. Turn off notification for the suggested space. Follow one of the contributors of the suggested space."
+spa_bench,reddit_1,single_app,reddit,"This is the opened app ""reddit"". Get the search results for 'r/PremierLeague'. Filter posts for Liverpool. Join the group. Click on one of the posts."
+spa_bench,reddit_2,single_app,reddit,"This is the opened app ""reddit"". Get the search results for 'r/BlackMythWukong'. Join the group. Set community alerts to frequent. Click on one of the posts."
+spa_bench,settings_4,single_app,settings,"This is the opened app ""settings"". Go to notification settings. Turn off the notification from Google Play Store."
+spa_bench,settings_5,single_app,settings,"This is the opened app ""settings"". Go to notification settings. Turn off the 'Alerts' and 'Likes' notification from Instagram. Clear the cache from storage."
+spa_bench,spotify_1,single_app,spotify,"This is the opened app ""spotify"". Get the search results for the artist Taylor Swift. Enter her artist page. Shuffle play her playlist."
+spa_bench,spotify_2,single_app,spotify,"This is the opened app ""spotify"". Get the search results for the song 'Love Story' by Taylor Swift. Add this song to the new playlist namely 'Agent Playlist'. Then add another song 'The Scientist' by Coldplay to the same playlist. Check the playlist for confirmation."
+spa_bench,tiktok_1,single_app,tiktok,"This is the opened app ""tiktok"". Get the search results for videos about pet cats. Comment on a video with 'Such a cute cat.'"
+spa_bench,tiktok_2,single_app,tiktok,"This is the opened app ""tiktok"". Get the search results for videos about pet cats. Comment on a video with 'Such a cute cat.' Swipe through another two videos and like them."
+spa_bench,x_4,single_app,x,"This is the opened app ""x"". Search for the account @Nintendo. Follow it. Search its post about 'Super Mario'."
+spa_bench,x_5,single_app,x,"This is the opened app ""x"". Search for the account @animalcrossing. Follow it. Search its post about 'Timmy and Tommy'. Repost one result. Check it from the profile for confirmation."
+spa_bench,yelp_1,single_app,yelp,"This is the opened app ""yelp"". Get the search results for nearby restaurants. Filter to include only Chinese restaurants that offer takeout. Sort them by distance."
+spa_bench,yelp_2,single_app,yelp,"This is the opened app ""yelp"". Get the search results for nearby restaurants. Filter to include only Chinese restaurants that offer takeout. Sort them by distance. Select one result. Filter for 5-star reviews."
+spa_bench,youtube_4,single_app,youtube,"This is the opened app ""youtube"". Get the search results for videos about LeBron James. Filter videos under 4 minutes."
+spa_bench,youtube_5,single_app,youtube,"This is the opened app ""youtube"". Get the search results for videos about LeBron James. Filter videos under 4 minutes. Select any one of the results. Leave a comment 'great performance!'."
+spa_bench,zoom_1,single_app,zoom,"This is the opened app ""zoom"". Schedule a meeting titled 'Smartphone Agent Benchmark'. Use personal meeting ID. Change the timezone to Hawaii. Repeat the meeting every day."
+spa_bench,zoom_2,single_app,zoom,"This is the opened app ""zoom"". Schedule a meeting titled 'Smartphone Agent Benchmark'. Use personal meeting ID. Change the timezone to Hawaii. Repeat the meeting every day. Disable waiting room. Turn on host and participant video."
+spa_bench,Web_Shopping_2_ENG,cross_app,instagram;airbnb,"Use Instagram to search for an itinerary for Venice, Italy, and then proceed Airbnb, book accommodations at Venice, Italy."
+spa_bench,google_tasks_2,single_app,google_tasks,"This is the opened app ""google_tasks"". Create a new list 'Travel'. Add new task 'Visa'. Set date to the 12th of any month."
+android_world,ClockStopWatchRunning,single_app,clock,Run the stopwatch.
+android_world,ClockTimerEntry,single_app,clock,"Create a timer with 0 hours, 16 minutes, and 35 seconds. Do not start the timer."
+android_world,ContactsAddContact,single_app,contacts,Create a new contact for Hugo Pereira. Their number is +13920741751.
+android_world,ContactsNewContactDraft,single_app,contacts,"Go to the new contact screen and enter the following details: First Name: Grace, Last Name: Taylor, Phone: 799-802-1530, Phone Label: Work. Do NOT hit save."
+android_world,ExpenseAddMultiple,single_app,pro_expense,"Add the following expenses into the pro expense:
+Expense: Social Club Dues
+ amount_dollars: $67.41
+ category_name: Social
+ note: Monthly recurring
+
+Expense: Legal Fees
+ amount_dollars: $10.14
+ category_name: Others
+ note: Monthly recurring
+
+Expense: Stationery
+ amount_dollars: $118.93
+ category_name: Others
+ note: Remember to transfer funds"
+android_world,ExpenseAddMultipleFromGallery,single_app,pro_expense,Add the expenses from expenses.jpg in Simple Gallery Pro to pro expense.
+android_world,ExpenseAddMultipleFromMarkor,single_app,pro_expense,Go through the transactions in my_expenses.txt in Markor. Log the reimbursable transactions in the pro expense.
+android_world,ExpenseAddSingle,single_app,pro_expense,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this"
+android_world,ExpenseDeleteDuplicates,single_app,pro_expense,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains."
+android_world,ExpenseDeleteDuplicates2,single_app,pro_expense,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains."
+android_world,ExpenseDeleteMultiple,single_app,pro_expense,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare."
+android_world,ExpenseDeleteMultiple2,single_app,pro_expense,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies."
+android_world,ExpenseDeleteSingle,single_app,pro_expense,Delete the following expenses from pro expense: Rental Income.
+android_world,FilesDeleteFile,single_app,files,Delete the file q2a8_fancy_banana.mp3 from the Android filesystem located in the Notifications folder within the sdk_gphone_x86_64 storage area.
+android_world,FilesMoveFile,single_app,files,Move the file holiday_photos.jpg from Podcasts within the sdk_gphone_x86_64 storage area to the DCIM within the same sdk_gphone_x86_64 storage area in the Android filesystem.
+android_world,MarkorAddNoteHeader,single_app,markor,"Update the Markor note 2023_08_10_neat_wolf.txt by adding the following text, along with a new blank line before the existing content: ""RnI8sP34yDzJQbvkfplR"", and rename it to busy_wolf_2023_07_23.txt."
+android_world,MarkorChangeNoteContent,single_app,markor,"Update the content of strong_jacket_h1hZ.txt to ""inNqu8UNNtyXBHCZpYp7"" in Markor and change its name to lively_fox_2023_03_22.md."
+android_world,MarkorCreateFolder,single_app,markor,Create a new folder in Markor named folder_20251111_195342.
+android_world,MarkorCreateNote,single_app,markor,Create a new note in Markor named 2023_01_26_wise_yacht.md with the following text: Ignorance is bliss.
+android_world,MarkorCreateNoteAndSms,single_app,markor,Create a new note in Markor named fair_ant_XOdi.txt with the following text: Actions speak louder than words.. Share the entire content of the note with the phone number +13192815309 via SMS using Simple SMS Messenger
+android_world,MarkorCreateNoteFromClipboard,single_app,markor,Create a note in Markor named 2023_09_08_active_umbrella.txt. Perform a paste operation in the note and save the note.
+android_world,MarkorDeleteAllNotes,single_app,markor,Delete all my notes in Markor.
+android_world,MarkorDeleteNewestNote,single_app,markor,Delete the newest note in Markor.
+android_world,MarkorDeleteNote,single_app,markor,Delete the note in Markor named bold_king_edited.
+android_world,MarkorEditNote,single_app,markor,"Edit note_SiFbv.txt in Markor. Add to the top of the note Hello, World!"
+android_world,MarkorMergeNotes,single_app,markor,"Merge the contents of Markor notes tough_frog_2023_08_05.txt, proud_cat_edited.txt and 2023_08_21_friendly_koala.md (in the same order) into a new Markor note named mIObBbo4 and save it. Add a new line between the content of each note."
+android_world,MarkorMoveNote,single_app,markor,"In Markor, move the note shy_king_copy.md from StudyGuides to MeetingMinutes."
+android_world,MarkorTranscribeReceipt,single_app,markor,"Create a file in Markor, called receipt.md with the transactions from the receipt.png. Use Simple Gallery to view the receipt. Please enter transactions in csv format including the header ""Date, Item, Amount""."
+android_world,MarkorTranscribeVideo,single_app,markor,"Transcribe the contents of video ZwUN_moment_70_.mp4 by watching it in VLC player (located in Download) and writing the sequence of strings shown on each frame to the text file ZwUN_moment_70__transcription.txt in Markor as a comma separated list. For example, if the first frame shows the text ""edna"" and the second frame shows the text ""pineapple"", then the text file should contain only the following text: ""edna, pineapple""."
+android_world,NotesIsTodo,single_app,joplin,Is the note titled 'To-Do List' in the Joplin app marked as a todo item? Respond with either 'True' if it is a todo or 'False' if not.
+android_world,NotesMeetingAttendeeCount,single_app,joplin,How many attendees were present in the meeting titled 'Employee Performance Evaluation' in the Joplin app? Express your answer as just a single number.
+android_world,NotesRecipeIngredientCount,single_app,joplin,What quantity of spirulina do I need for the recipe 'Chicken Alfredo' in the Joplin app? Express your answer in the format <amount> <unit> where both the amount and unit exactly match the format in the recipe.
+android_world,NotesTodoItemCount,single_app,joplin,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.
+android_world,OpenAppTaskEval,single_app,contacts,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.
+android_world,OsmAndFavorite,single_app,osmand,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app."
+android_world,OsmAndMarker,single_app,osmand,"Add a location marker for Planken, Liechtenstein in the OsmAnd maps app."
+android_world,OsmAndTrack,single_app,osmand,"Save a track with waypoints Schönberg, Liechtenstein, Triesen, Liechtenstein, Bendern, Liechtenstein in the OsmAnd maps app in the same order as listed."
+android_world,RecipeAddMultipleRecipes,single_app,broccoli,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Alfredo Pasta
+ description: A delicious and healthy choice for any time of the day.
+ servings: 2 servings
+ preparationTime: 10 mins
+ ingredients: as desired
+ directions: Cook fettuccine pasta, toss with Alfredo sauce and grilled chicken strips. Serve with a sprinkle of Parmesan cheese. Try adding a pinch of your favorite spices for extra flavor.
+
+Recipe: Quinoa Salad with Vegetables
+ description: A quick and easy meal, perfect for busy weekdays.
+ servings: 8 servings
+ preparationTime: 30 mins
+ ingredients: to your liking
+ directions: Mix cooked quinoa with diced vegetables, feta cheese, and a lemon olive oil dressing. Try adding a pinch of your favorite spices for extra flavor.
+
+Recipe: Butternut Squash Soup
+ description: A delicious and healthy choice for any time of the day.
+ servings: 1 serving
+ preparationTime: 45 mins
+ ingredients: per individual taste
+ directions: Sauté onions and garlic, add cubed butternut squash and broth. Puree until smooth and season with nutmeg, salt, and pepper. Feel free to substitute with ingredients you have on hand."
+android_world,RecipeAddMultipleRecipesFromImage,single_app,broccoli,Add the recipes from recipes.jpg in Simple Gallery Pro to the Broccoli recipe app.
+android_world,RecipeAddMultipleRecipesFromMarkor,single_app,broccoli,Add the recipes from recipes.txt in Markor to the Broccoli recipe app.
+android_world,RecipeAddMultipleRecipesFromMarkor2,single_app,broccoli,Add the recipes from recipes.txt in Markor that take 10 mins to prepare into the Broccoli recipe app.
+android_world,RecipeAddSingleRecipe,single_app,broccoli,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand."
+android_world,RecipeDeleteDuplicateRecipes,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains"
+android_world,RecipeDeleteDuplicateRecipes2,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains"
+android_world,RecipeDeleteDuplicateRecipes3,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains"
+android_world,RecipeDeleteMultipleRecipes,single_app,broccoli,"Delete the following recipes from Broccoli app: Zucchini Noodles with Pesto, Garlic Butter Shrimp, Lentil Soup."
+android_world,RecipeDeleteMultipleRecipesWithConstraint,single_app,broccoli,Delete the recipes from Broccoli app that use black garlic in the directions.
+android_world,RecipeDeleteMultipleRecipesWithNoise,single_app,broccoli,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil."
+android_world,RecipeDeleteSingleRecipe,single_app,broccoli,Delete the following recipes from Broccoli app: Thai Peanut Noodle Salad.
+android_world,RecipeDeleteSingleWithRecipeWithNoise,single_app,broccoli,Delete the following recipes from Broccoli app: Classic Margherita Pizza.
+android_world,RetroCreatePlaylist,single_app,retro_music,"Create a playlist in Retro Music titled ""Hip Hop Bangers 270"" with the following songs, in order: Golden Days, Dreamer's Awake, Hidden Paths"
+android_world,RetroPlayingQueue,single_app,retro_music,"Add the following songs, in order, Through the Storm, Hidden Paths, Forever Young, Whispers of the Past, Heartbeat Away to my playing queue in Retro music."
+a3,CNN_task3,single_app,cnn,What is the current headline in the top news.
+a3,CNN_task4,single_app,cnn,What is the current headline in U.S. politics.
+a3,CNN_task5,single_app,cnn,Open the current headline in U.S. politics in CNN.
+a3,Gmail_task7,single_app,gmail,Open the Settings in Gmail and tell me all email accounts.
+a3,Gmail_task8,single_app,gmail,Open the first e-mail in Gmail and retrieve its content.
+a3,Gmail_task9,single_app,gmail,"View the first email in Gmail, open the sender's profile, and retrieve their email address."
+a3,GooglePlayBooks_task7,single_app,google_play_books,Open wishlist in Google Play Books and sort items by price
+a3,GooglePlayBooks_task8,single_app,google_play_books,Open 'shelves' in Google Play Books.
+a3,GooglePlayBooks_task9,single_app,google_play_books,"Open Google play books and tell me what is the top selling book now, who is the author, what is its overall rating and how much is it."
+a3,YTmusic_task12,single_app,youtube_music,"Search for the song 'Bad Guy' in YouTube Music. Tell me who is the singer, how long it lasts, and how many times it has been played."
+a3,YTmusic_task13,single_app,youtube_music,Find the Top Song on the YouTube Music 'Video Global Chart'
+a3,YTmusic_task14,single_app,youtube_music,How long is the duration of the current playing song on YouTube Music.
+a3,YTmusic_task15,single_app,youtube_music,"In Youtube music, evaluates the top 3 songs from Taylor Swift's '1989' album with their comment counts, tell me which one is the highest"
+a3,bluecoins_task10,single_app,bluecoins,Clear the 'Trash' section in bluecoins app.
+a3,bluecoins_task11,single_app,bluecoins,Find settings in bluecoins app.
+a3,bluecoins_task9,single_app,bluecoins,What is the most recently deleted transaction in the bluecoins app?
+a3,booking_task11,single_app,booking,"Open booking.com and search for one-way flights for 1 adault, economy class from Hong Kong to London on Aug 31. Which flight is the cheapest? How much is it?"
+a3,booking_task12,single_app,booking,"In Booking.com, search for one night stay for one-bed room at Hilton Gardon Inn Hong Kong in the next week. Which day is the cheapest? How much is it?"
+a3,coursera_task11,single_app,coursera,Open 'Downloads' section tab in coursera. How much storage does it take.
+a3,coursera_task12,single_app,coursera,"Open 'Downloads' section tab in coursera, and delete all downloaded items to ensure the 'download' tab is empty."
+a3,fitbit_task10,single_app,fitbit,"Start an exercise in Fitbit, then select 'Walk' to begin the activity."
+a3,fitbit_task11,single_app,fitbit,Report today's calorie consumption from Fitbit.
+a3,fitbit_task12,single_app,fitbit,Report today's running distance in kilometers from Fitbit.
+a3,google_calendar_task8,single_app,google_calendar,Check the number of scheduled items for December 25 in Google Calendar.
+a3,google_play_task6,single_app,google_play,what is the number of new notifications in the Google Play Notifications section.
+a3,google_play_task7,single_app,google_play,What is the top-ranked app in Google Play's paid Top Charts.
+a3,google_play_task8,single_app,google_play,Retrieve the download counts of the top 3 paid apps from the Google Play charts
+a3,instagram_task6,single_app,instagram,"In Instagram, go to 'my following' section and then select 'Taylor Swift' and like her latest post. How many likes are there for the post?"
+a3,instagram_task7,single_app,instagram,"In Instagram, post a photo in the album with any text."
+a3,quora_task5,single_app,quora,"On the Quora space page, select all spaces I might like."
+a3,quora_task8,single_app,quora,"In Quora, navigate to Adam D'Angelo's profile and follow him"
+a3,smart_news_task6,single_app,smart_news,What is the release time of the headline of the top news in SmartNews
+a3,smart_news_task9,single_app,smart_news,Retrieve the names of all sections in the SmartNews personalized news section.
+a3,target_task8,single_app,target,"After sorting by 'Best selling', retrieve the name and price of the first sausage in Target."
+a3,wish_task6,single_app,wish,Navigate to 'recently viewed' in Wish app
+a3,wish_task7,single_app,wish,"In wish app, go to 'best sellers'. Choose the first item and view comments, then tell me the overall rating"
+a3,wish_task8,single_app,wish,Go to 'best sellers' in Wish app and then choose the first item. Finally go to 'related items'.
+a3,yelp_task4,single_app,yelp,"IN Yelp, search for 'burger' at current location. Then sort results by distance and filter by 'open at 11:00 pm'"
+a3,yelp_task5,single_app,yelp,"Search for burger at current location in Yelp, and filter results by 'good for kids'"
+a3,yelp_task6,single_app,yelp,"In yelp, find home cleanning around current location. What is the overall rating of first result?"
+a3,yelp_task7,single_app,yelp,Open the 'collections' section tab in Yelp
+a3,youtube_task10,single_app,youtube,Get the latest video titles of the top 3 YouTubers from the subscriptions page
+a3,youtube_task7,single_app,youtube,Open the comments section in a YouTube Shorts video and like the first comment.
+a3,youtube_task8,single_app,youtube,Provide details about the most recent video from my YouTube subscriptions.
+a3,youtube_task9,single_app,youtube,Open the Shorts section on YouTube and tell me the number of comments on the currently playing video.
+a3,booking_task10,single_app,booking,"In booking.com, search for one-way flights for 1 adault, economy class from Hong Kong to Beijing for the next 3 days starting from Aug 30. What is the lowest price and on which date?"
+a3,google_calendar_task10,single_app,google_calendar,Count the total number of tasks and events for December in Google Calendar.
+a3,google_maps_task7,single_app,google_maps,Tell me where is and how far is the nearest McDonald's on Google Maps.
+a3,google_maps_task8,single_app,google_maps,Search for 'cafe' in Google Maps and tell me the store names sorted by both Distance and Relevance
+a3,quora_task6,single_app,quora,Search for 'Artificial Intelligence' in Quora. And set filter to show topics only.
+a3,quora_task7,single_app,quora,Search for 'Artificial Intelligence' on Quora and set filter to show topics only. Then follow the topic 'Artificial Intellegence'.
+a3,smart_news_task7,single_app,smart_news,What is the headline of the top news in the Sports section in SmartNews.
+a3,target_task7,single_app,target,Display the barcode in the wallet section for checkout in Target.
+a3,wish_task9,single_app,wish,Navigate to 'best sellers' on Wish app and choose the first item.
+a3,GoogleTasks_task8,single_app,google_tasks,Delete the 'Python Assignment1' task under 'Homework' list in Google Tasks.
+a3,target_task6,single_app,target,"In Target, remove all items from the Delivery section of the shopping cart."
+a3,smart_news_task8,single_app,smart_news,Search for 'Trump' in SmartNews and retrieves the publishers of the top 3 news articles
+a3,target_task9,single_app,target,Retrieve the subtotal and item count from the Cart in Target shopping cart page.
+android_arena,calendar_3,single_app,google_calendar,"Change the start date of an existing event on Google Calendar with the title ""meeting"" to the 12th of next month."
+android_arena,calendar_5,single_app,google_calendar,Present all events on Google Calendar for this week.
+android_arena,calendar_6,single_app,google_calendar,Present all events on Google Calendar for this month.
+android_arena,camera_11,single_app,camera,"Set the resolution to ""HD 720p"" for the Camera."
+android_arena,camera_12,single_app,camera,"Set the resolution to ""QVGA"" for the Camera."
+android_arena,camera_13,single_app,camera,Change the timer to 10 seconds for the Camera.
+android_arena,camera_14,single_app,camera,Change the timer to 3 seconds for the Camera.
+android_arena,clock_11,single_app,clock,Reset the stopwatch using Google Clock.
+android_arena,clock_12,single_app,clock,View the current time in London in Google Clock.
+android_arena,clock_13,single_app,clock,Add a new city Beijing to World Clock in Google Clock.
+android_arena,clock_14,single_app,clock,Delete the city Beijing to World Clock in Google Clock.
+android_arena,contacts_11,single_app,contacts,Sort contacts by first name in Google Contacts.
+android_arena,contacts_8,single_app,contacts,"Search for contacts with the name ""John"" in Google Contacts."
+android_arena,contacts_9,single_app,contacts,Merge duplicate contacts in Google Contacts.
+android_arena,cross_app_13,cross_app,contacts;google_maps,"Find the company address of a Google contact of ""John"" and create a Google Maps route to their location."
+android_arena,firefox_2,single_app,firefox,"Navigate to the webpage ""https://www.wikipedia.org/""."
+android_arena,firefox_3,single_app,firefox,"Search the key word ""GPT"" in website ""https://openai.com/blog""."
+android_arena,firefox_4,single_app,firefox,View my bookmarks in Firefox.
+android_arena,firefox_5,single_app,firefox,View my history in Firefox.
+android_arena,gmail_15,single_app,gmail,Open Gmail settings.
+android_arena,gmail_16,single_app,gmail,Turn off notifications of the current account for Gmail.
+android_arena,gmail_17,single_app,gmail,"Change the conversation list density of emails to ""Comfortable"" in Gmail."
+android_arena,gmail_18,single_app,gmail,"Change the theme to ""Dark"" of Gmail."
+android_arena,google_drive_10,single_app,google_drive,"Delete the ""test"" folder on Google Drive."
+android_arena,google_drive_11,single_app,google_drive,Set the layout of Google Drive to dark theme.
+android_arena,google_drive_12,single_app,google_drive,Set the layout of Google Drive to light theme.
+android_arena,google_drive_3,single_app,google_drive,"Create a new folder ""test"" on Google Drive."
+android_arena,google_maps_11,single_app,google_maps,Find the nearest ATM.
+android_arena,google_maps_12,single_app,google_maps,Find the nearest parking lot.
+android_arena,google_maps_13,single_app,google_maps,Find the nearest hospital.
+android_arena,google_maps_14,single_app,google_maps,Find the nearest hotel.
+android_arena,messages_11,single_app,messages,"Pin the specific chat ""work"" to the top of my chat list using Google Messages."
+android_arena,messages_12,single_app,messages,"Delete the chat group called ""work"" in Google Messages."
+android_arena,messages_13,single_app,messages,Mute notifications for all chats using Google Messages.
+android_arena,messages_14,single_app,messages,Unmute notifications for all chats using Google Messages.
+android_arena,photos_6,single_app,photos,"View my Google Photos information, including storage usage and account settings."
+android_arena,settings_17,single_app,settings,Check for system updates on my Android device.
+android_arena,settings_18,single_app,settings,Change the default web browser to chrome on my Android device.
+android_arena,settings_19,single_app,settings,Change the default web browser to firefox on my Android device.
+android_arena,weather_12,single_app,the_weather_channel,"Get the weather for ""London"" by searching for it."
+android_arena,weather_13,single_app,the_weather_channel,Turn on significant weather forecast alerts for severe weather conditions.
+android_arena,weather_14,single_app,the_weather_channel,Turn off significant weather forecast alerts for severe weather conditions.
+android_arena,youtube_10,single_app,youtube,"Remove the video titled ""ChatGPT Explained Completely"" from the YouTube playlist ""work""."
+android_arena,youtube_11,single_app,youtube,"Rename the YouTube playlist ""work"" to ""test""."
+android_arena,calendar_4,single_app,google_calendar,"Invite ""bob@example.com"" to the existing event with the title ""meeting"" on Google Calendar."
+android_arena,contacts_10,single_app,contacts,"Delete ""John"" from Google Contacts."
+android_arena,cross_app_14,cross_app,contacts;the_weather_channel,"Check the current weather forecast for the location of ""John"" in Google Contacts."
+android_arena,cross_app_15,cross_app,google_maps;messages,"Search for the nearest gas station in Google Maps and send the address to the ""john@example.com"" in Google Messages."
+android_arena,photos_3,single_app,photos,"Delete the album named ""animals"" in Photos."
+android_arena,photos_4,single_app,photos,Create a quick video from first two photos using the animation feature.
+android_arena,youtube_12,single_app,youtube,"Delete the YouTube playlist ""test""."
+bmoca,calculator_15,single_app,calculator,input square root of 25 in Calculator
+bmoca,calculator_16,single_app,calculator,input the formula for computing sum of the first 5 Fibonacci numbers in Calculator
+bmoca,calculator_17,single_app,calculator,input the formula for computing sum of the first 5 prime numbers in Calculator
+bmoca,calculator_18,single_app,calculator,input the formula for converting 45 degrees to radians ('45xπ÷180') in Calculator
+bmoca,chrome_3,single_app,chrome,open a new tab in Chrome
+bmoca,clock_21,single_app,clock,go to the timer page in clock
+bmoca,clock_23,single_app,clock,start the stopwatch in clock
+bmoca,clock_24,single_app,clock,turn on alarm at 9 am
+bmoca,clock_25,single_app,clock,turn on alarm at 9 am in clock and increase alarm volume in setting
+bmoca,contacts_2,single_app,contacts,activate the insert page in contact
+bmoca,files_2,single_app,files,list download files in file manager
+bmoca,files_3,single_app,files,list image files in file manager
+bmoca,files_4,single_app,files,list video files in file manager
+bmoca,instagram_2,single_app,instagram,go to reels tab in Instagram
+bmoca,instagram_3,single_app,instagram,go to search tab in Instagram
+bmoca,messages_2,single_app,messages,start chatting in message
+bmoca,phone_10,single_app,phone,call the US national contact center (800-333-4636)
+bmoca,phone_11,single_app,phone,call the national weather service (301-713-0622)
+bmoca,phone_12,single_app,phone,call the social security administration (800-772-1213)
+bmoca,phone_13,single_app,phone,call the white house (202-456-1111)
+bmoca,settings_13,single_app,settings,turn off wifi
+bmoca,settings_14,single_app,settings,turn on airplane mode
+bmoca,settings_15,single_app,settings,turn on wifi
+bmoca,snapseed_10,single_app,snapseed,set format quality to JPG 100% in Snapseed
+bmoca,snapseed_8,single_app,snapseed,open image in Snapseed
+bmoca,snapseed_9,single_app,snapseed,set dark theme in Snapseed
+bmoca,wikipedia_11,single_app,wikipedia,disable the topics with odd-numbered indices in the feed customization settings on Wikipedia and go back to the feed
+bmoca,wikipedia_12,single_app,wikipedia,disable the topics with prime-numbered indices in the feed customization settings on Wikipedia and go back to the feed
+bmoca,wikipedia_13,single_app,wikipedia,go to saved tab in Wikipedia
+bmoca,wikipedia_14,single_app,wikipedia,go to search tab in Wikipedia
+bmoca,wikipedia_15,single_app,wikipedia,increase the text size to 180% in Wikipedia
+bmoca,settings_12,single_app,settings,turn off airplane mode
+bmoca,walmart_4,single_app,walmart,go to my items tab in Walmart
+bmoca,walmart_5,single_app,walmart,go to search tab in Walmart
+bmoca,walmart_6,single_app,walmart,go to services tab in Walmart
+android_lab,bluecoins_10,single_app,bluecoins,"You should use bluecoins to complete the following task: For May 14, 2024, record an expenditure of 256 CNY, marked as 'eating'."
+android_lab,bluecoins_8,single_app,bluecoins,"You should use bluecoins to complete the following task: Note down an expense of 768 CNY for May 11, 2024."
+android_lab,bluecoins_9,single_app,bluecoins,"You should use bluecoins to complete the following task: For March 8, 2024, jot down an income of 3.14 CNY with 'Weixin red packet' as the note."
+android_lab,calendar_13,single_app,google_calendar,"You should use calendar to complete the following task: Arrange an event titled ""exam""."
+android_lab,calendar_14,single_app,google_calendar,"You should use calendar to complete the following task: Edit the event titled ""exam"" and make it an all-day event."
+android_lab,clock_22,single_app,clock,You should use clock to complete the following task: Set alarm style to Analog
+android_lab,clock_23,single_app,clock,You should use clock to complete the following task: Change home time zone to Tokyo in clock
+android_lab,clock_24,single_app,clock,You should use clock to complete the following task: Modify silence after to 5 minutes
+android_lab,clock_27,single_app,clock,You should use clock to complete the following task: Set an alarm at 3PM
+android_lab,contacts_2,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts whose first name is ""John"", last name is ""Smith"", mobile phone number is 12345678, and working email as 123456@gmail.com"
+android_lab,contacts_3,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts whose name is Xu, set the working phone number to be 12345678 and mobile phone number to be 87654321"
+android_lab,contacts_4,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts named Chen, whose company is Tsinghua University"
+android_lab,pimusic_9,single_app,pi_music_player,You should use Pi Music Player to complete the following task: Create a playlist named 'Creepy' for me.
+android_lab,setting_17,single_app,settings,You should use Settings to complete the following task: Check Android Version
+android_lab,setting_18,single_app,settings,You should use Settings to complete the following task: Disable Contacts' APP notifications
+android_lab,zoom_1,single_app,zoom,"You should use zoom to complete the following task: Join meeting 1234567890. (You should not click join button, and leave it to user)"
+android_lab,zoom_2,single_app,zoom,"You should use zoom to complete the following task: Join meeting 0987654321, and set my name as 'Alice'. (You should not click join button, and leave it to user)"
+android_lab,zoom_3,single_app,zoom,"You should use zoom to complete the following task: I need to join meeting 1234567890 without audio and video. (You should not click join button, and leave it to user)"
+android_lab,zoom_4,single_app,zoom,You should use zoom to complete the following task: Set auto connect to audio when wifi is connected in zoom settings.
+android_lab,zoom_5,single_app,zoom,You should use zoom to complete the following task: Change my reaction skin to Medium-light in zoom settings.
+android_lab,calendar_12,single_app,google_calendar,"You should use calendar to complete the following task: Help me add a note ""Hello"" to the event titled ""Today""."
+android_lab,clock_25,single_app,clock,You should use clock to complete the following task: Open clock app
+android_lab,setting_22,single_app,settings,You should use Settings to complete the following task: Does my airplane mode open or not
+android_lab,bluecoins_11,single_app,bluecoins,"You should use bluecoins to complete the following task: Adjust the expenditure on May 15, 2024, to 500 CNY."

@@ -1,0 +1,4 @@
+# scripts/, examples/ and the judges; the loader itself has no third-party dependency
+Pillow>=9
+numpy>=1.23
+requests>=2.28

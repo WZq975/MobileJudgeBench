@@ -1,0 +1,19 @@
+# bulk data never goes into git (see README: download instructions)
+trajectories/
+_downloads/
+*.tar
+*.tar.gz
+*.zip
+*.pkl.gz
+contact_sheet.png
+judge_results/
+saved_messages/
+
+__pycache__/
+*.pyc
+.DS_Store
+._*
+*.egg-info/
+build/
+dist/
+.venv/

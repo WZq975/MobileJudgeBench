@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use MobileJudgeBench, please cite the paper (preferred-citation below)."
+title: "MobileJudgeBench"
+type: dataset
+version: 1.0.0
+authors:
+  - family-names: Wang
+    given-names: Ziqiang
+  - family-names: Gu
+    given-names: Li
+  - family-names: Chi
+    given-names: Zhixiang
+  - family-names: Liu
+    given-names: Zhi
+  - family-names: Ayyoubzadeh
+    given-names: Seyed Mehdi
+  - family-names: Yu
+    given-names: Yuanhao
+  - family-names: Wang
+    given-names: Yang
+repository-code: "https://github.com/WZq975/MobileJudgeBench"
+url: "https://huggingface.co/datasets/WesleyWzq/MobileJudgeBench"
+license:
+  - CC-BY-4.0
+  - MIT
+preferred-citation:
+  type: generic
+  title: "Benchmarking LLM Judges for Mobile Agent Evaluation"
+  authors:
+    - family-names: Wang
+      given-names: Ziqiang
+    - family-names: Gu
+      given-names: Li
+    - family-names: Chi
+      given-names: Zhixiang
+    - family-names: Liu
+      given-names: Zhi
+    - family-names: Ayyoubzadeh
+      given-names: Seyed Mehdi
+    - family-names: Yu
+      given-names: Yuanhao
+    - family-names: Wang
+      given-names: Yang
+  year: 2026
+  doi: 10.48550/arXiv.2608.11434
+  url: "https://arxiv.org/abs/2608.11434"
+  notes: "arXiv preprint arXiv:2608.11434"

@@ -1,0 +1,1108 @@
+trajectory_id,benchmark,agent,task_id,task_category,app,goal,success,n_steps,n_screenshots
+spa_bench/gpt-5-mini/General_Tool_2_ENG,spa_bench,gpt-5-mini,General_Tool_2_ENG,cross_app,settings;clock,"In the Settings app, enable 'Data Saver' mode. Open the Clock app and set an alarm for 6:00 AM.",1,10,10
+spa_bench/gpt-5-mini/Information_Management_2_ENG,spa_bench,gpt-5-mini,Information_Management_2_ENG,cross_app,chrome;spotify,"Open Chrome, search for the top Country songs of 2023, identify a song from the search results, then switch to Spotify and add that song to your playlist.",1,20,20
+spa_bench/gpt-5-mini/Media_Entertainment_2_ENG,spa_bench,gpt-5-mini,Media_Entertainment_2_ENG,cross_app,youtube;clock,"Search for a relaxing soundscape video on YouTube, use the Clock app to set a timer for 3 hours, then go back to YouTube and play the video.",1,14,14
+spa_bench/gpt-5-mini/Multi_Apps_4_ENG,spa_bench,gpt-5-mini,Multi_Apps_4_ENG,cross_app,expedia;evernote;accuweather,"Utilize Expedia to search for Things to do in Beijing on 18-20th, choose one and record the sharing text using Evernote, open AccuWeather to check daily weather in Beijing.",1,29,29
+spa_bench/gpt-5-mini/Social_Sharing_1_ENG,spa_bench,gpt-5-mini,Social_Sharing_1_ENG,cross_app,bbc;gmail,"Use the BBC News app to search for Artificial Intelligence news, read an article, share it via Gmail, send to agent.benchmark.2024@gmail.com.",1,9,9
+spa_bench/gpt-5-mini/airbnb_1,spa_bench,gpt-5-mini,airbnb_1,single_app,airbnb,"This is the opened app ""airbnb"". Get the search results for stay tonight near 'wembley stadium' for 1 adult.",0,21,21
+spa_bench/gpt-5-mini/airbnb_2,spa_bench,gpt-5-mini,airbnb_2,single_app,airbnb,"This is the opened app ""airbnb"". Get the search results for stay tonight near 'wembley stadium' for 1 adult. Add one result to wishlist. Confirm that this item is in the wishlist.",0,32,33
+spa_bench/gpt-5-mini/amazon_1,spa_bench,gpt-5-mini,amazon_1,single_app,amazon,"This is the opened app ""amazon"". Get the search results for 'sunglasses'. Filter with 'kids'. Add one result to cart. Confirm that this item is in the cart.",0,19,19
+spa_bench/gpt-5-mini/amazon_2,spa_bench,gpt-5-mini,amazon_2,single_app,amazon,"This is the opened app ""amazon"". Get the search results for 'goggles'. Filter with 'adult'. Add one result to cart. Confirm that this item is in the cart. Compare with similar items. Add one of the similar items to cart.",0,28,29
+spa_bench/gpt-5-mini/bbc_1,spa_bench,gpt-5-mini,bbc_1,single_app,bbc,"This is the opened app ""bbc"". Go to app settings. Change the Text size to 'Smaller'. Navigate to 'Innovation' section. Select 'Technology' tab. Open any news article.",1,17,17
+spa_bench/gpt-5-mini/bbc_2,spa_bench,gpt-5-mini,bbc_2,single_app,bbc,"This is the opened app ""bbc"". Go to app settings. Change the Text size to 'Larger'. Navigate to 'Business' block. Select 'Technology of Business' tab. Open any news article. Save this article. Go to Saved Items to confirm the article was added.",0,2,2
+spa_bench/gpt-5-mini/bolt_1,spa_bench,gpt-5-mini,bolt_1,single_app,bolt,"This is the opened app ""bolt"". Select Louvre museum Paris as my pick-up location. Select Eiffel Tower as my destination.",1,8,8
+spa_bench/gpt-5-mini/bolt_2,spa_bench,gpt-5-mini,bolt_2,single_app,bolt,"This is the opened app ""bolt"". Select Louvre museum Paris as my pick-up location. Select Eiffel Tower as my destination. Add 'Arc de Triomphe' as the final destination and Eiffel Tower as stopping point.",0,26,27
+spa_bench/gpt-5-mini/booking.com_4,spa_bench,gpt-5-mini,booking.com_4,single_app,booking,"This is the opened app ""booking.com"". Navigate to app settings. Change Temperature to 'Degrees in Celsius'. Change Units to 'Metric (km, m)'.",1,8,8
+spa_bench/gpt-5-mini/booking.com_5,spa_bench,gpt-5-mini,booking.com_5,single_app,booking,"This is the opened app ""booking.com"". Navigate to app settings. Change Currency to 'Pound Sterling'. Disable all notifications.",1,6,6
+spa_bench/gpt-5-mini/calculator_1,spa_bench,gpt-5-mini,calculator_1,single_app,calculator,"This is the opened app ""calculator"". Get the result for 'log(20)+ln(e)'.",0,2,2
+spa_bench/gpt-5-mini/calculator_2,spa_bench,gpt-5-mini,calculator_2,single_app,calculator,"This is the opened app ""calculator"". Get the result for 'log(20)+ln(e)'. Clear the results. Get the result for factorial 7.",0,11,11
+spa_bench/gpt-5-mini/calendar_1,spa_bench,gpt-5-mini,calendar_1,single_app,google_calendar,"This is the opened app ""calendar"". Set up an all-day event titled 'Haircut' on the 16th of any month.",1,21,21
+spa_bench/gpt-5-mini/calendar_2,spa_bench,gpt-5-mini,calendar_2,single_app,google_calendar,"This is the opened app ""calendar"". Set up an event titled 'Dental Check' on the 17th of any month. Set the time to from 7pm to 9pm.",1,17,17
+spa_bench/gpt-5-mini/chrome_1,spa_bench,gpt-5-mini,chrome_1,single_app,chrome,"This is the opened app ""chrome"". Get the search results for Taylor Swift. Go to her Wikipedia page. Add it to bookmarks. Check the Bookmarks for confirmation.",1,15,15
+spa_bench/gpt-5-mini/chrome_2,spa_bench,gpt-5-mini,chrome_2,single_app,chrome,"This is the opened app ""chrome"". Get the search results for Taylor Swift. Go to her Wikipedia page. Add it to bookmarks. Move this bookmark to Reading List. Check the Reading List for confirmation.",1,17,17
+spa_bench/gpt-5-mini/clock_4,spa_bench,gpt-5-mini,clock_4,single_app,clock,"This is the opened app ""clock"". Set Home time zone to 'Hong Kong'.",1,13,13
+spa_bench/gpt-5-mini/clock_5,spa_bench,gpt-5-mini,clock_5,single_app,clock,"This is the opened app ""clock"". Add current time at Melbourne (Australia) to clock. Change style to Analog for clock. Change style to Analog for screen saver.",0,22,22
+spa_bench/gpt-5-mini/contacts_1,spa_bench,gpt-5-mini,contacts_1,single_app,contacts,"This is the opened app ""contacts"". Create a contact named 'Agent Two'. The phone number is +44 1234 567 890. The email is benchmark@gmail.com",1,8,8
+spa_bench/gpt-5-mini/contacts_2,spa_bench,gpt-5-mini,contacts_2,single_app,contacts,"This is the opened app ""contacts"". Modify the last name of one of the contacts to 'Three'. Update the label for the contact's phone number to Work. Set the company to 'Huawei'. Add an email agent.benchmark.2024@gmail.com. Label the email as Work.",1,13,13
+spa_bench/gpt-5-mini/dictionary_merriam_webster_1,spa_bench,gpt-5-mini,dictionary_merriam_webster_1,single_app,dictionary_merriam_webster,"This is the opened app ""dictionary_merriam_webster"". Look up the definition of the word 'agent'. Switch to Thesaurus tab to find its synonyms. Click on one of its synonyms. Switch back to Dictionary tab.",1,18,19
+spa_bench/gpt-5-mini/dictionary_merriam_webster_2,spa_bench,gpt-5-mini,dictionary_merriam_webster_2,single_app,dictionary_merriam_webster,"This is the opened app ""dictionary_merriam_webster"". Look up the definition of the word 'agent'. Switch to Thesaurus tab to find its synonyms. Click on one of its synonyms. Switch back to Dictionary tab. Save this synonym. Confirm that synonym is in the saved words.",0,24,25
+spa_bench/gpt-5-mini/espn_1,spa_bench,gpt-5-mini,espn_1,single_app,espn,"This is the opened app ""espn"". Get the search results for 'Klay Thompson'. See all the articles. Open one of the articles.",1,7,7
+spa_bench/gpt-5-mini/espn_2,spa_bench,gpt-5-mini,espn_2,single_app,espn,"This is the opened app ""espn"". Get the search results for 'Klay Thompson'. See all the articles. Open one of the articles. Return to the player's search results. Select the player. Turn on player news notification. Follow the player.",1,19,19
+spa_bench/gpt-5-mini/evernote_4,spa_bench,gpt-5-mini,evernote_4,single_app,evernote,"This is the opened app ""evernote"". Create a new task 'Paper Writing'.Set the due date to tomorrow. Navigate to the Tasks tab for confirmation.",1,13,13
+spa_bench/gpt-5-mini/evernote_5,spa_bench,gpt-5-mini,evernote_5,single_app,evernote,"This is the opened app ""evernote"". Create a new task 'Maintain Git Repo'.Set it to repeat daily. Navigate to the Tasks tab. Apply the recurring tasks filter. Confirm that task exists.",1,22,22
+spa_bench/gpt-5-mini/expedia_4,spa_bench,gpt-5-mini,expedia_4,single_app,expedia,"This is the opened app ""expedia"". Check things to do in Rome. Get the search results for 26th to 29th of any month. Save it to my trips.",1,21,21
+spa_bench/gpt-5-mini/expedia_5,spa_bench,gpt-5-mini,expedia_5,single_app,expedia,"This is the opened app ""expedia"". Check things to do in Paris. Get the search results for 25th to 28th of any month. Save it to my trips. Confirm that by checking the saved Paris trip.",0,32,33
+spa_bench/gpt-5-mini/files_1,spa_bench,gpt-5-mini,files_1,single_app,files,"This is the opened app ""files"". Go to the 'DCIM' folder in the internal storage. Create a subfolder named 'Agent_created'.",1,7,7
+spa_bench/gpt-5-mini/files_2,spa_bench,gpt-5-mini,files_2,single_app,files,"This is the opened app ""files"". Go to the 'DCIM' folder in the internal storage. Create a subfolder named 'Agent_created_2'. Create another subfolder named 'Agent_created_3'. Then move the folder 'Agent_created_2' into the 'Documents' folder in the internal storage.",1,42,43
+spa_bench/gpt-5-mini/gmail_4,spa_bench,gpt-5-mini,gmail_4,single_app,gmail,"This is the opened app ""gmail"". Navigate to settings. Check current setting for notifications. Turn off notification for Attachments.",1,16,16
+spa_bench/gpt-5-mini/gmail_5,spa_bench,gpt-5-mini,gmail_5,single_app,gmail,"This is the opened app ""gmail"". Navigate to settings. Check current setting for notifications. Turn off notification for Miscellaneous. Disable 'notification dot'. Return to Inbox.",0,28,29
+spa_bench/gpt-5-mini/google_maps_4,spa_bench,gpt-5-mini,google_maps_4,single_app,google_maps,"This is the opened app ""google_maps"". Get the search results for a nearby gas station that is open now. Get a driving route to it.",1,10,10
+spa_bench/gpt-5-mini/google_maps_5,spa_bench,gpt-5-mini,google_maps_5,single_app,google_maps,"This is the opened app ""google_maps"". Get the search results for a nearby gas station that is open now. Get a driving route with the gas station as the first stop. Set McDonald's as the final destination.",1,20,20
+spa_bench/gpt-5-mini/google_play_4,spa_bench,gpt-5-mini,google_play_4,single_app,google_play,"This is the opened app ""google_play"". Check the details of General settings. Switch to dark theme.",1,7,7
+spa_bench/gpt-5-mini/google_play_5,spa_bench,gpt-5-mini,google_play_5,single_app,google_play,"This is the opened app ""google_play"". Check the details of General settings. Turn off all notifications. Confirm that all notification settings for this device are off.",1,15,15
+spa_bench/gpt-5-mini/google_tasks_1,spa_bench,gpt-5-mini,google_tasks_1,single_app,google_tasks,"This is the opened app ""google_tasks"". Create a new list 'Weekend'. Add new task 'Buy groceries'.",1,15,15
+spa_bench/gpt-5-mini/instagram_4,spa_bench,gpt-5-mini,instagram_4,single_app,instagram,"This is the opened app ""instagram"". Navigate to the page to edit my profile. Add bio 'Hello World!'. Change pronouns to 'it'.",0,26,27
+spa_bench/gpt-5-mini/instagram_5,spa_bench,gpt-5-mini,instagram_5,single_app,instagram,"This is the opened app ""instagram"". Navigate to the page to edit my profile. Add link 'https://github.com'. Change gender to Custom 'Them'. Switch to private account.",1,16,16
+spa_bench/gpt-5-mini/keep_notes_1,spa_bench,gpt-5-mini,keep_notes_1,single_app,keep_notes,"This is the opened app ""keep_notes"". Create a new note. Write 'Hello this is a note2' in the content. Write 'Written by Agent2' as the note title.",1,6,6
+spa_bench/gpt-5-mini/keep_notes_2,spa_bench,gpt-5-mini,keep_notes_2,single_app,keep_notes,"This is the opened app ""keep_notes"". Create a new checklist. Add two items 'Learn Python' and 'Learn Java'. Write 'Goal of agent' as the checklist title. Label this checklist as 'Agent'.",0,7,7
+spa_bench/gpt-5-mini/linkedin_4,spa_bench,gpt-5-mini,linkedin_4,single_app,linkedin,"This is the opened app ""linkedin"". Get the search results for 'Engineer' job in Spain.",1,9,9
+spa_bench/gpt-5-mini/linkedin_5,spa_bench,gpt-5-mini,linkedin_5,single_app,linkedin,"This is the opened app ""linkedin"". Get the search results for 'Engineer' jobs in Spain. Save one of the jobs. Confirm it is saved in My Jobs.",1,22,22
+spa_bench/gpt-5-mini/onenote_1,spa_bench,gpt-5-mini,onenote_1,single_app,onenote,"This is the opened app ""onenote"". Create a new page with title 'Benchmark2' and content TODO 'AppAgent' and 'Mobile Agent'.",1,5,5
+spa_bench/gpt-5-mini/quora_4,spa_bench,gpt-5-mini,quora_4,single_app,quora,"This is the opened app ""quora"". Discover any Space. Follow that space. Go to questions in the space. Filter unanswered questions. Follow one question.",1,10,10
+spa_bench/gpt-5-mini/quora_5,spa_bench,gpt-5-mini,quora_5,single_app,quora,"This is the opened app ""quora"". Discover any Technology Spaces. Follow that space. Also follow one of the suggested spaces. Turn off notification for the suggested space. Follow one of the contributors of the suggested space.",1,16,16
+spa_bench/gpt-5-mini/reddit_1,spa_bench,gpt-5-mini,reddit_1,single_app,reddit,"This is the opened app ""reddit"". Get the search results for 'r/PremierLeague'. Filter posts for Liverpool. Join the group. Click on one of the posts.",1,10,10
+spa_bench/gpt-5-mini/reddit_2,spa_bench,gpt-5-mini,reddit_2,single_app,reddit,"This is the opened app ""reddit"". Get the search results for 'r/BlackMythWukong'. Join the group. Set community alerts to frequent. Click on one of the posts.",1,15,15
+spa_bench/gpt-5-mini/settings_4,spa_bench,gpt-5-mini,settings_4,single_app,settings,"This is the opened app ""settings"". Go to notification settings. Turn off the notification from Google Play Store.",1,4,4
+spa_bench/gpt-5-mini/settings_5,spa_bench,gpt-5-mini,settings_5,single_app,settings,"This is the opened app ""settings"". Go to notification settings. Turn off the 'Alerts' and 'Likes' notification from Instagram. Clear the cache from storage.",1,17,17
+spa_bench/gpt-5-mini/spotify_1,spa_bench,gpt-5-mini,spotify_1,single_app,spotify,"This is the opened app ""spotify"". Get the search results for the artist Taylor Swift. Enter her artist page. Shuffle play her playlist.",1,11,11
+spa_bench/gpt-5-mini/spotify_2,spa_bench,gpt-5-mini,spotify_2,single_app,spotify,"This is the opened app ""spotify"". Get the search results for the song 'Love Story' by Taylor Swift. Add this song to the new playlist namely 'Agent Playlist'. Then add another song 'The Scientist' by Coldplay to the same playlist. Check the playlist for confirmation.",1,14,14
+spa_bench/gpt-5-mini/tiktok_1,spa_bench,gpt-5-mini,tiktok_1,single_app,tiktok,"This is the opened app ""tiktok"". Get the search results for videos about pet cats. Comment on a video with 'Such a cute cat.'",1,6,6
+spa_bench/gpt-5-mini/tiktok_2,spa_bench,gpt-5-mini,tiktok_2,single_app,tiktok,"This is the opened app ""tiktok"". Get the search results for videos about pet cats. Comment on a video with 'Such a cute cat.' Swipe through another two videos and like them.",1,10,10
+spa_bench/gpt-5-mini/x_4,spa_bench,gpt-5-mini,x_4,single_app,x,"This is the opened app ""x"". Search for the account @Nintendo. Follow it. Search its post about 'Super Mario'.",1,9,9
+spa_bench/gpt-5-mini/x_5,spa_bench,gpt-5-mini,x_5,single_app,x,"This is the opened app ""x"". Search for the account @animalcrossing. Follow it. Search its post about 'Timmy and Tommy'. Repost one result. Check it from the profile for confirmation.",1,19,19
+spa_bench/gpt-5-mini/yelp_1,spa_bench,gpt-5-mini,yelp_1,single_app,yelp,"This is the opened app ""yelp"". Get the search results for nearby restaurants. Filter to include only Chinese restaurants that offer takeout. Sort them by distance.",0,18,19
+spa_bench/gpt-5-mini/yelp_2,spa_bench,gpt-5-mini,yelp_2,single_app,yelp,"This is the opened app ""yelp"". Get the search results for nearby restaurants. Filter to include only Chinese restaurants that offer takeout. Sort them by distance. Select one result. Filter for 5-star reviews.",0,26,27
+spa_bench/gpt-5-mini/youtube_4,spa_bench,gpt-5-mini,youtube_4,single_app,youtube,"This is the opened app ""youtube"". Get the search results for videos about LeBron James. Filter videos under 4 minutes.",1,7,7
+spa_bench/gpt-5-mini/youtube_5,spa_bench,gpt-5-mini,youtube_5,single_app,youtube,"This is the opened app ""youtube"". Get the search results for videos about LeBron James. Filter videos under 4 minutes. Select any one of the results. Leave a comment 'great performance!'.",1,26,26
+spa_bench/gpt-5-mini/zoom_1,spa_bench,gpt-5-mini,zoom_1,single_app,zoom,"This is the opened app ""zoom"". Schedule a meeting titled 'Smartphone Agent Benchmark'. Use personal meeting ID. Change the timezone to Hawaii. Repeat the meeting every day.",1,9,9
+spa_bench/gpt-5-mini/zoom_2,spa_bench,gpt-5-mini,zoom_2,single_app,zoom,"This is the opened app ""zoom"". Schedule a meeting titled 'Smartphone Agent Benchmark'. Use personal meeting ID. Change the timezone to Hawaii. Repeat the meeting every day. Disable waiting room. Turn on host and participant video.",1,11,11
+spa_bench/qwen2.5-vl-72b/General_Tool_2_ENG,spa_bench,qwen2.5-vl-72b,General_Tool_2_ENG,cross_app,settings;clock,"In the Settings app, enable 'Data Saver' mode. Open the Clock app and set an alarm for 6:00 AM.",0,25,25
+spa_bench/qwen2.5-vl-72b/Media_Entertainment_2_ENG,spa_bench,qwen2.5-vl-72b,Media_Entertainment_2_ENG,cross_app,youtube;clock,"Search for a relaxing soundscape video on YouTube, use the Clock app to set a timer for 3 hours, then go back to YouTube and play the video.",0,23,23
+spa_bench/qwen2.5-vl-72b/Multi_Apps_4_ENG,spa_bench,qwen2.5-vl-72b,Multi_Apps_4_ENG,cross_app,expedia;evernote;accuweather,"Utilize Expedia to search for Things to do in Beijing on 18-20th, choose one and record the sharing text using Evernote, open AccuWeather to check daily weather in Beijing.",0,51,51
+spa_bench/qwen2.5-vl-72b/Social_Sharing_1_ENG,spa_bench,qwen2.5-vl-72b,Social_Sharing_1_ENG,cross_app,bbc;gmail,"Use the BBC News app to search for Artificial Intelligence news, read an article, share it via Gmail, send to agent.benchmark.2024@gmail.com.",0,21,22
+spa_bench/qwen2.5-vl-72b/Web_Shopping_2_ENG,spa_bench,qwen2.5-vl-72b,Web_Shopping_2_ENG,cross_app,instagram;airbnb,"Use Instagram to search for an itinerary for Venice, Italy, and then proceed Airbnb, book accommodations at Venice, Italy.",0,39,39
+spa_bench/qwen2.5-vl-72b/airbnb_1,spa_bench,qwen2.5-vl-72b,airbnb_1,single_app,airbnb,"This is the opened app ""airbnb"". Get the search results for stay tonight near 'wembley stadium' for 1 adult.",0,19,19
+spa_bench/qwen2.5-vl-72b/airbnb_2,spa_bench,qwen2.5-vl-72b,airbnb_2,single_app,airbnb,"This is the opened app ""airbnb"". Get the search results for stay tonight near 'wembley stadium' for 1 adult. Add one result to wishlist. Confirm that this item is in the wishlist.",0,27,28
+spa_bench/qwen2.5-vl-72b/amazon_1,spa_bench,qwen2.5-vl-72b,amazon_1,single_app,amazon,"This is the opened app ""amazon"". Get the search results for 'sunglasses'. Filter with 'kids'. Add one result to cart. Confirm that this item is in the cart.",0,17,17
+spa_bench/qwen2.5-vl-72b/amazon_2,spa_bench,qwen2.5-vl-72b,amazon_2,single_app,amazon,"This is the opened app ""amazon"". Get the search results for 'goggles'. Filter with 'adult'. Add one result to cart. Confirm that this item is in the cart. Compare with similar items. Add one of the similar items to cart.",0,17,17
+spa_bench/qwen2.5-vl-72b/bbc_1,spa_bench,qwen2.5-vl-72b,bbc_1,single_app,bbc,"This is the opened app ""bbc"". Go to app settings. Change the Text size to 'Smaller'. Navigate to 'Innovation' section. Select 'Technology' tab. Open any news article.",0,21,22
+spa_bench/qwen2.5-vl-72b/bbc_2,spa_bench,qwen2.5-vl-72b,bbc_2,single_app,bbc,"This is the opened app ""bbc"". Go to app settings. Change the Text size to 'Larger'. Navigate to 'Business' block. Select 'Technology of Business' tab. Open any news article. Save this article. Go to Saved Items to confirm the article was added.",0,31,31
+spa_bench/qwen2.5-vl-72b/bolt_1,spa_bench,qwen2.5-vl-72b,bolt_1,single_app,bolt,"This is the opened app ""bolt"". Select Louvre museum Paris as my pick-up location. Select Eiffel Tower as my destination.",0,13,13
+spa_bench/qwen2.5-vl-72b/bolt_2,spa_bench,qwen2.5-vl-72b,bolt_2,single_app,bolt,"This is the opened app ""bolt"". Select Louvre museum Paris as my pick-up location. Select Eiffel Tower as my destination. Add 'Arc de Triomphe' as the final destination and Eiffel Tower as stopping point.",0,21,21
+spa_bench/qwen2.5-vl-72b/calculator_1,spa_bench,qwen2.5-vl-72b,calculator_1,single_app,calculator,"This is the opened app ""calculator"". Get the result for 'log(20)+ln(e)'.",0,21,21
+spa_bench/qwen2.5-vl-72b/calculator_2,spa_bench,qwen2.5-vl-72b,calculator_2,single_app,calculator,"This is the opened app ""calculator"". Get the result for 'log(20)+ln(e)'. Clear the results. Get the result for factorial 7.",0,29,29
+spa_bench/qwen2.5-vl-72b/calendar_1,spa_bench,qwen2.5-vl-72b,calendar_1,single_app,google_calendar,"This is the opened app ""calendar"". Set up an all-day event titled 'Haircut' on the 16th of any month.",0,19,19
+spa_bench/qwen2.5-vl-72b/calendar_2,spa_bench,qwen2.5-vl-72b,calendar_2,single_app,google_calendar,"This is the opened app ""calendar"". Set up an event titled 'Dental Check' on the 17th of any month. Set the time to from 7pm to 9pm.",0,29,29
+spa_bench/qwen2.5-vl-72b/chrome_1,spa_bench,qwen2.5-vl-72b,chrome_1,single_app,chrome,"This is the opened app ""chrome"". Get the search results for Taylor Swift. Go to her Wikipedia page. Add it to bookmarks. Check the Bookmarks for confirmation.",0,21,22
+spa_bench/qwen2.5-vl-72b/chrome_2,spa_bench,qwen2.5-vl-72b,chrome_2,single_app,chrome,"This is the opened app ""chrome"". Get the search results for Taylor Swift. Go to her Wikipedia page. Add it to bookmarks. Move this bookmark to Reading List. Check the Reading List for confirmation.",0,27,27
+spa_bench/qwen2.5-vl-72b/clock_4,spa_bench,qwen2.5-vl-72b,clock_4,single_app,clock,"This is the opened app ""clock"". Set Home time zone to 'Hong Kong'.",0,13,13
+spa_bench/qwen2.5-vl-72b/clock_5,spa_bench,qwen2.5-vl-72b,clock_5,single_app,clock,"This is the opened app ""clock"". Add current time at Melbourne (Australia) to clock. Change style to Analog for clock. Change style to Analog for screen saver.",0,25,25
+spa_bench/qwen2.5-vl-72b/contacts_1,spa_bench,qwen2.5-vl-72b,contacts_1,single_app,contacts,"This is the opened app ""contacts"". Create a contact named 'Agent Two'. The phone number is +44 1234 567 890. The email is benchmark@gmail.com",1,10,10
+spa_bench/qwen2.5-vl-72b/contacts_2,spa_bench,qwen2.5-vl-72b,contacts_2,single_app,contacts,"This is the opened app ""contacts"". Modify the last name of one of the contacts to 'Three'. Update the label for the contact's phone number to Work. Set the company to 'Huawei'. Add an email agent.benchmark.2024@gmail.com. Label the email as Work.",0,31,31
+spa_bench/qwen2.5-vl-72b/dictionary_merriam_webster_1,spa_bench,qwen2.5-vl-72b,dictionary_merriam_webster_1,single_app,dictionary_merriam_webster,"This is the opened app ""dictionary_merriam_webster"". Look up the definition of the word 'agent'. Switch to Thesaurus tab to find its synonyms. Click on one of its synonyms. Switch back to Dictionary tab.",0,13,14
+spa_bench/qwen2.5-vl-72b/dictionary_merriam_webster_2,spa_bench,qwen2.5-vl-72b,dictionary_merriam_webster_2,single_app,dictionary_merriam_webster,"This is the opened app ""dictionary_merriam_webster"". Look up the definition of the word 'agent'. Switch to Thesaurus tab to find its synonyms. Click on one of its synonyms. Switch back to Dictionary tab. Save this synonym. Confirm that synonym is in the saved words.",0,19,20
+spa_bench/qwen2.5-vl-72b/files_1,spa_bench,qwen2.5-vl-72b,files_1,single_app,files,"This is the opened app ""files"". Go to the 'DCIM' folder in the internal storage. Create a subfolder named 'Agent_created'.",1,7,7
+spa_bench/qwen2.5-vl-72b/files_2,spa_bench,qwen2.5-vl-72b,files_2,single_app,files,"This is the opened app ""files"". Go to the 'DCIM' folder in the internal storage. Create a subfolder named 'Agent_created_2'. Create another subfolder named 'Agent_created_3'. Then move the folder 'Agent_created_2' into the 'Documents' folder in the internal storage.",0,25,25
+spa_bench/qwen2.5-vl-72b/gmail_4,spa_bench,qwen2.5-vl-72b,gmail_4,single_app,gmail,"This is the opened app ""gmail"". Navigate to settings. Check current setting for notifications. Turn off notification for Attachments.",1,8,8
+spa_bench/qwen2.5-vl-72b/gmail_5,spa_bench,qwen2.5-vl-72b,gmail_5,single_app,gmail,"This is the opened app ""gmail"". Navigate to settings. Check current setting for notifications. Turn off notification for Miscellaneous. Disable 'notification dot'. Return to Inbox.",1,14,14
+spa_bench/qwen2.5-vl-72b/google_maps_4,spa_bench,qwen2.5-vl-72b,google_maps_4,single_app,google_maps,"This is the opened app ""google_maps"". Get the search results for a nearby gas station that is open now. Get a driving route to it.",0,13,13
+spa_bench/qwen2.5-vl-72b/google_maps_5,spa_bench,qwen2.5-vl-72b,google_maps_5,single_app,google_maps,"This is the opened app ""google_maps"". Get the search results for a nearby gas station that is open now. Get a driving route with the gas station as the first stop. Set McDonald's as the final destination.",0,25,25
+spa_bench/qwen2.5-vl-72b/google_play_4,spa_bench,qwen2.5-vl-72b,google_play_4,single_app,google_play,"This is the opened app ""google_play"". Check the details of General settings. Switch to dark theme.",1,9,9
+spa_bench/qwen2.5-vl-72b/google_play_5,spa_bench,qwen2.5-vl-72b,google_play_5,single_app,google_play,"This is the opened app ""google_play"". Check the details of General settings. Turn off all notifications. Confirm that all notification settings for this device are off.",0,21,22
+spa_bench/qwen2.5-vl-72b/google_tasks_1,spa_bench,qwen2.5-vl-72b,google_tasks_1,single_app,google_tasks,"This is the opened app ""google_tasks"". Create a new list 'Weekend'. Add new task 'Buy groceries'.",0,1,1
+spa_bench/qwen2.5-vl-72b/google_tasks_2,spa_bench,qwen2.5-vl-72b,google_tasks_2,single_app,google_tasks,"This is the opened app ""google_tasks"". Create a new list 'Travel'. Add new task 'Visa'. Set date to the 12th of any month.",0,3,3
+spa_bench/qwen2.5-vl-72b/instagram_4,spa_bench,qwen2.5-vl-72b,instagram_4,single_app,instagram,"This is the opened app ""instagram"". Navigate to the page to edit my profile. Add bio 'Hello World!'. Change pronouns to 'it'.",0,2,2
+spa_bench/qwen2.5-vl-72b/keep_notes_1,spa_bench,qwen2.5-vl-72b,keep_notes_1,single_app,keep_notes,"This is the opened app ""keep_notes"". Create a new note. Write 'Hello this is a note2' in the content. Write 'Written by Agent2' as the note title.",1,5,5
+spa_bench/qwen2.5-vl-72b/keep_notes_2,spa_bench,qwen2.5-vl-72b,keep_notes_2,single_app,keep_notes,"This is the opened app ""keep_notes"". Create a new checklist. Add two items 'Learn Python' and 'Learn Java'. Write 'Goal of agent' as the checklist title. Label this checklist as 'Agent'.",0,20,20
+spa_bench/qwen2.5-vl-72b/linkedin_4,spa_bench,qwen2.5-vl-72b,linkedin_4,single_app,linkedin,"This is the opened app ""linkedin"". Get the search results for 'Engineer' job in Spain.",1,4,4
+spa_bench/qwen2.5-vl-72b/linkedin_5,spa_bench,qwen2.5-vl-72b,linkedin_5,single_app,linkedin,"This is the opened app ""linkedin"". Get the search results for 'Engineer' jobs in Spain. Save one of the jobs. Confirm it is saved in My Jobs.",1,5,5
+spa_bench/qwen2.5-vl-72b/onenote_1,spa_bench,qwen2.5-vl-72b,onenote_1,single_app,onenote,"This is the opened app ""onenote"". Create a new page with title 'Benchmark2' and content TODO 'AppAgent' and 'Mobile Agent'.",1,4,4
+spa_bench/qwen2.5-vl-72b/reddit_2,spa_bench,qwen2.5-vl-72b,reddit_2,single_app,reddit,"This is the opened app ""reddit"". Get the search results for 'r/BlackMythWukong'. Join the group. Set community alerts to frequent. Click on one of the posts.",1,12,12
+spa_bench/qwen2.5-vl-72b/settings_4,spa_bench,qwen2.5-vl-72b,settings_4,single_app,settings,"This is the opened app ""settings"". Go to notification settings. Turn off the notification from Google Play Store.",1,7,7
+spa_bench/qwen2.5-vl-72b/settings_5,spa_bench,qwen2.5-vl-72b,settings_5,single_app,settings,"This is the opened app ""settings"". Go to notification settings. Turn off the 'Alerts' and 'Likes' notification from Instagram. Clear the cache from storage.",0,13,13
+spa_bench/qwen2.5-vl-72b/spotify_1,spa_bench,qwen2.5-vl-72b,spotify_1,single_app,spotify,"This is the opened app ""spotify"". Get the search results for the artist Taylor Swift. Enter her artist page. Shuffle play her playlist.",0,13,14
+spa_bench/qwen2.5-vl-72b/tiktok_1,spa_bench,qwen2.5-vl-72b,tiktok_1,single_app,tiktok,"This is the opened app ""tiktok"". Get the search results for videos about pet cats. Comment on a video with 'Such a cute cat.'",0,17,17
+spa_bench/qwen2.5-vl-72b/x_4,spa_bench,qwen2.5-vl-72b,x_4,single_app,x,"This is the opened app ""x"". Search for the account @Nintendo. Follow it. Search its post about 'Super Mario'.",0,17,18
+spa_bench/qwen2.5-vl-72b/yelp_1,spa_bench,qwen2.5-vl-72b,yelp_1,single_app,yelp,"This is the opened app ""yelp"". Get the search results for nearby restaurants. Filter to include only Chinese restaurants that offer takeout. Sort them by distance.",0,4,4
+spa_bench/qwen2.5-vl-72b/youtube_4,spa_bench,qwen2.5-vl-72b,youtube_4,single_app,youtube,"This is the opened app ""youtube"". Get the search results for videos about LeBron James. Filter videos under 4 minutes.",1,21,22
+spa_bench/llama-3.3-70b/General_Tool_2_ENG,spa_bench,llama-3.3-70b,General_Tool_2_ENG,cross_app,settings;clock,"In the Settings app, enable 'Data Saver' mode. Open the Clock app and set an alarm for 6:00 AM.",0,11,11
+spa_bench/llama-3.3-70b/Information_Management_2_ENG,spa_bench,llama-3.3-70b,Information_Management_2_ENG,cross_app,chrome;spotify,"Open Chrome, search for the top Country songs of 2023, identify a song from the search results, then switch to Spotify and add that song to your playlist.",1,27,27
+spa_bench/llama-3.3-70b/Media_Entertainment_2_ENG,spa_bench,llama-3.3-70b,Media_Entertainment_2_ENG,cross_app,youtube;clock,"Search for a relaxing soundscape video on YouTube, use the Clock app to set a timer for 3 hours, then go back to YouTube and play the video.",0,23,24
+spa_bench/llama-3.3-70b/Social_Sharing_1_ENG,spa_bench,llama-3.3-70b,Social_Sharing_1_ENG,cross_app,bbc;gmail,"Use the BBC News app to search for Artificial Intelligence news, read an article, share it via Gmail, send to agent.benchmark.2024@gmail.com.",0,21,22
+spa_bench/llama-3.3-70b/airbnb_1,spa_bench,llama-3.3-70b,airbnb_1,single_app,airbnb,"This is the opened app ""airbnb"". Get the search results for stay tonight near 'wembley stadium' for 1 adult.",0,15,15
+spa_bench/llama-3.3-70b/airbnb_2,spa_bench,llama-3.3-70b,airbnb_2,single_app,airbnb,"This is the opened app ""airbnb"". Get the search results for stay tonight near 'wembley stadium' for 1 adult. Add one result to wishlist. Confirm that this item is in the wishlist.",0,27,28
+spa_bench/llama-3.3-70b/amazon_1,spa_bench,llama-3.3-70b,amazon_1,single_app,amazon,"This is the opened app ""amazon"". Get the search results for 'sunglasses'. Filter with 'kids'. Add one result to cart. Confirm that this item is in the cart.",0,14,14
+spa_bench/llama-3.3-70b/amazon_2,spa_bench,llama-3.3-70b,amazon_2,single_app,amazon,"This is the opened app ""amazon"". Get the search results for 'goggles'. Filter with 'adult'. Add one result to cart. Confirm that this item is in the cart. Compare with similar items. Add one of the similar items to cart.",0,23,24
+spa_bench/llama-3.3-70b/bbc_1,spa_bench,llama-3.3-70b,bbc_1,single_app,bbc,"This is the opened app ""bbc"". Go to app settings. Change the Text size to 'Smaller'. Navigate to 'Innovation' section. Select 'Technology' tab. Open any news article.",0,9,9
+spa_bench/llama-3.3-70b/bolt_1,spa_bench,llama-3.3-70b,bolt_1,single_app,bolt,"This is the opened app ""bolt"". Select Louvre museum Paris as my pick-up location. Select Eiffel Tower as my destination.",0,5,5
+spa_bench/llama-3.3-70b/bolt_2,spa_bench,llama-3.3-70b,bolt_2,single_app,bolt,"This is the opened app ""bolt"". Select Louvre museum Paris as my pick-up location. Select Eiffel Tower as my destination. Add 'Arc de Triomphe' as the final destination and Eiffel Tower as stopping point.",0,21,22
+spa_bench/llama-3.3-70b/booking.com_4,spa_bench,llama-3.3-70b,booking.com_4,single_app,booking,"This is the opened app ""booking.com"". Navigate to app settings. Change Temperature to 'Degrees in Celsius'. Change Units to 'Metric (km, m)'.",0,14,14
+spa_bench/llama-3.3-70b/booking.com_5,spa_bench,llama-3.3-70b,booking.com_5,single_app,booking,"This is the opened app ""booking.com"". Navigate to app settings. Change Currency to 'Pound Sterling'. Disable all notifications.",0,13,13
+spa_bench/llama-3.3-70b/calculator_1,spa_bench,llama-3.3-70b,calculator_1,single_app,calculator,"This is the opened app ""calculator"". Get the result for 'log(20)+ln(e)'.",1,5,5
+spa_bench/llama-3.3-70b/calculator_2,spa_bench,llama-3.3-70b,calculator_2,single_app,calculator,"This is the opened app ""calculator"". Get the result for 'log(20)+ln(e)'. Clear the results. Get the result for factorial 7.",0,7,7
+spa_bench/llama-3.3-70b/calendar_1,spa_bench,llama-3.3-70b,calendar_1,single_app,google_calendar,"This is the opened app ""calendar"". Set up an all-day event titled 'Haircut' on the 16th of any month.",1,13,13
+spa_bench/llama-3.3-70b/calendar_2,spa_bench,llama-3.3-70b,calendar_2,single_app,google_calendar,"This is the opened app ""calendar"". Set up an event titled 'Dental Check' on the 17th of any month. Set the time to from 7pm to 9pm.",0,6,6
+spa_bench/llama-3.3-70b/chrome_1,spa_bench,llama-3.3-70b,chrome_1,single_app,chrome,"This is the opened app ""chrome"". Get the search results for Taylor Swift. Go to her Wikipedia page. Add it to bookmarks. Check the Bookmarks for confirmation.",1,14,14
+spa_bench/llama-3.3-70b/chrome_2,spa_bench,llama-3.3-70b,chrome_2,single_app,chrome,"This is the opened app ""chrome"". Get the search results for Taylor Swift. Go to her Wikipedia page. Add it to bookmarks. Move this bookmark to Reading List. Check the Reading List for confirmation.",0,33,34
+spa_bench/llama-3.3-70b/clock_4,spa_bench,llama-3.3-70b,clock_4,single_app,clock,"This is the opened app ""clock"". Set Home time zone to 'Hong Kong'.",1,13,13
+spa_bench/llama-3.3-70b/clock_5,spa_bench,llama-3.3-70b,clock_5,single_app,clock,"This is the opened app ""clock"". Add current time at Melbourne (Australia) to clock. Change style to Analog for clock. Change style to Analog for screen saver.",0,25,26
+spa_bench/llama-3.3-70b/contacts_1,spa_bench,llama-3.3-70b,contacts_1,single_app,contacts,"This is the opened app ""contacts"". Create a contact named 'Agent Two'. The phone number is +44 1234 567 890. The email is benchmark@gmail.com",0,23,24
+spa_bench/llama-3.3-70b/contacts_2,spa_bench,llama-3.3-70b,contacts_2,single_app,contacts,"This is the opened app ""contacts"". Modify the last name of one of the contacts to 'Three'. Update the label for the contact's phone number to Work. Set the company to 'Huawei'. Add an email agent.benchmark.2024@gmail.com. Label the email as Work.",0,22,22
+spa_bench/llama-3.3-70b/dictionary_merriam_webster_1,spa_bench,llama-3.3-70b,dictionary_merriam_webster_1,single_app,dictionary_merriam_webster,"This is the opened app ""dictionary_merriam_webster"". Look up the definition of the word 'agent'. Switch to Thesaurus tab to find its synonyms. Click on one of its synonyms. Switch back to Dictionary tab.",0,13,13
+spa_bench/llama-3.3-70b/dictionary_merriam_webster_2,spa_bench,llama-3.3-70b,dictionary_merriam_webster_2,single_app,dictionary_merriam_webster,"This is the opened app ""dictionary_merriam_webster"". Look up the definition of the word 'agent'. Switch to Thesaurus tab to find its synonyms. Click on one of its synonyms. Switch back to Dictionary tab. Save this synonym. Confirm that synonym is in the saved words.",0,19,20
+spa_bench/llama-3.3-70b/expedia_5,spa_bench,llama-3.3-70b,expedia_5,single_app,expedia,"This is the opened app ""expedia"". Check things to do in Paris. Get the search results for 25th to 28th of any month. Save it to my trips. Confirm that by checking the saved Paris trip.",0,27,28
+spa_bench/llama-3.3-70b/files_1,spa_bench,llama-3.3-70b,files_1,single_app,files,"This is the opened app ""files"". Go to the 'DCIM' folder in the internal storage. Create a subfolder named 'Agent_created'.",0,10,10
+spa_bench/llama-3.3-70b/files_2,spa_bench,llama-3.3-70b,files_2,single_app,files,"This is the opened app ""files"". Go to the 'DCIM' folder in the internal storage. Create a subfolder named 'Agent_created_2'. Create another subfolder named 'Agent_created_3'. Then move the folder 'Agent_created_2' into the 'Documents' folder in the internal storage.",0,35,35
+spa_bench/llama-3.3-70b/gmail_5,spa_bench,llama-3.3-70b,gmail_5,single_app,gmail,"This is the opened app ""gmail"". Navigate to settings. Check current setting for notifications. Turn off notification for Miscellaneous. Disable 'notification dot'. Return to Inbox.",0,23,24
+spa_bench/llama-3.3-70b/google_maps_4,spa_bench,llama-3.3-70b,google_maps_4,single_app,google_maps,"This is the opened app ""google_maps"". Get the search results for a nearby gas station that is open now. Get a driving route to it.",1,13,14
+spa_bench/llama-3.3-70b/google_maps_5,spa_bench,llama-3.3-70b,google_maps_5,single_app,google_maps,"This is the opened app ""google_maps"". Get the search results for a nearby gas station that is open now. Get a driving route with the gas station as the first stop. Set McDonald's as the final destination.",0,25,26
+spa_bench/llama-3.3-70b/google_play_5,spa_bench,llama-3.3-70b,google_play_5,single_app,google_play,"This is the opened app ""google_play"". Check the details of General settings. Turn off all notifications. Confirm that all notification settings for this device are off.",1,11,11
+spa_bench/llama-3.3-70b/google_tasks_1,spa_bench,llama-3.3-70b,google_tasks_1,single_app,google_tasks,"This is the opened app ""google_tasks"". Create a new list 'Weekend'. Add new task 'Buy groceries'.",0,3,3
+spa_bench/llama-3.3-70b/google_tasks_2,spa_bench,llama-3.3-70b,google_tasks_2,single_app,google_tasks,"This is the opened app ""google_tasks"". Create a new list 'Travel'. Add new task 'Visa'. Set date to the 12th of any month.",1,10,10
+spa_bench/llama-3.3-70b/keep_notes_1,spa_bench,llama-3.3-70b,keep_notes_1,single_app,keep_notes,"This is the opened app ""keep_notes"". Create a new note. Write 'Hello this is a note2' in the content. Write 'Written by Agent2' as the note title.",0,11,12
+spa_bench/llama-3.3-70b/keep_notes_2,spa_bench,llama-3.3-70b,keep_notes_2,single_app,keep_notes,"This is the opened app ""keep_notes"". Create a new checklist. Add two items 'Learn Python' and 'Learn Java'. Write 'Goal of agent' as the checklist title. Label this checklist as 'Agent'.",0,11,11
+spa_bench/llama-3.3-70b/quora_4,spa_bench,llama-3.3-70b,quora_4,single_app,quora,"This is the opened app ""quora"". Discover any Space. Follow that space. Go to questions in the space. Filter unanswered questions. Follow one question.",0,15,16
+spa_bench/llama-3.3-70b/quora_5,spa_bench,llama-3.3-70b,quora_5,single_app,quora,"This is the opened app ""quora"". Discover any Technology Spaces. Follow that space. Also follow one of the suggested spaces. Turn off notification for the suggested space. Follow one of the contributors of the suggested space.",0,23,24
+spa_bench/llama-3.3-70b/reddit_2,spa_bench,llama-3.3-70b,reddit_2,single_app,reddit,"This is the opened app ""reddit"". Get the search results for 'r/BlackMythWukong'. Join the group. Set community alerts to frequent. Click on one of the posts.",0,14,14
+spa_bench/llama-3.3-70b/settings_4,spa_bench,llama-3.3-70b,settings_4,single_app,settings,"This is the opened app ""settings"". Go to notification settings. Turn off the notification from Google Play Store.",0,13,14
+spa_bench/llama-3.3-70b/settings_5,spa_bench,llama-3.3-70b,settings_5,single_app,settings,"This is the opened app ""settings"". Go to notification settings. Turn off the 'Alerts' and 'Likes' notification from Instagram. Clear the cache from storage.",1,22,22
+spa_bench/llama-3.3-70b/spotify_1,spa_bench,llama-3.3-70b,spotify_1,single_app,spotify,"This is the opened app ""spotify"". Get the search results for the artist Taylor Swift. Enter her artist page. Shuffle play her playlist.",1,12,12
+spa_bench/llama-3.3-70b/spotify_2,spa_bench,llama-3.3-70b,spotify_2,single_app,spotify,"This is the opened app ""spotify"". Get the search results for the song 'Love Story' by Taylor Swift. Add this song to the new playlist namely 'Agent Playlist'. Then add another song 'The Scientist' by Coldplay to the same playlist. Check the playlist for confirmation.",0,31,31
+spa_bench/llama-3.3-70b/tiktok_1,spa_bench,llama-3.3-70b,tiktok_1,single_app,tiktok,"This is the opened app ""tiktok"". Get the search results for videos about pet cats. Comment on a video with 'Such a cute cat.'",0,6,6
+spa_bench/llama-3.3-70b/tiktok_2,spa_bench,llama-3.3-70b,tiktok_2,single_app,tiktok,"This is the opened app ""tiktok"". Get the search results for videos about pet cats. Comment on a video with 'Such a cute cat.' Swipe through another two videos and like them.",1,27,28
+spa_bench/llama-3.3-70b/x_4,spa_bench,llama-3.3-70b,x_4,single_app,x,"This is the opened app ""x"". Search for the account @Nintendo. Follow it. Search its post about 'Super Mario'.",1,17,18
+spa_bench/llama-3.3-70b/yelp_1,spa_bench,llama-3.3-70b,yelp_1,single_app,yelp,"This is the opened app ""yelp"". Get the search results for nearby restaurants. Filter to include only Chinese restaurants that offer takeout. Sort them by distance.",0,8,8
+spa_bench/llama-3.3-70b/youtube_4,spa_bench,llama-3.3-70b,youtube_4,single_app,youtube,"This is the opened app ""youtube"". Get the search results for videos about LeBron James. Filter videos under 4 minutes.",1,17,17
+spa_bench/llama-3.3-70b/youtube_5,spa_bench,llama-3.3-70b,youtube_5,single_app,youtube,"This is the opened app ""youtube"". Get the search results for videos about LeBron James. Filter videos under 4 minutes. Select any one of the results. Leave a comment 'great performance!'.",0,29,30
+spa_bench/llama-3.3-70b/zoom_1,spa_bench,llama-3.3-70b,zoom_1,single_app,zoom,"This is the opened app ""zoom"". Schedule a meeting titled 'Smartphone Agent Benchmark'. Use personal meeting ID. Change the timezone to Hawaii. Repeat the meeting every day.",1,13,13
+spa_bench/llama-3.3-70b/zoom_2,spa_bench,llama-3.3-70b,zoom_2,single_app,zoom,"This is the opened app ""zoom"". Schedule a meeting titled 'Smartphone Agent Benchmark'. Use personal meeting ID. Change the timezone to Hawaii. Repeat the meeting every day. Disable waiting room. Turn on host and participant video.",1,16,16
+spa_bench/ui-tars-72b/General_Tool_2_ENG,spa_bench,ui-tars-72b,General_Tool_2_ENG,cross_app,settings;clock,"In the Settings app, enable 'Data Saver' mode. Open the Clock app and set an alarm for 6:00 AM.",0,6,7
+spa_bench/ui-tars-72b/Media_Entertainment_2_ENG,spa_bench,ui-tars-72b,Media_Entertainment_2_ENG,cross_app,youtube;clock,"Search for a relaxing soundscape video on YouTube, use the Clock app to set a timer for 3 hours, then go back to YouTube and play the video.",1,18,19
+spa_bench/ui-tars-72b/Social_Sharing_1_ENG,spa_bench,ui-tars-72b,Social_Sharing_1_ENG,cross_app,bbc;gmail,"Use the BBC News app to search for Artificial Intelligence news, read an article, share it via Gmail, send to agent.benchmark.2024@gmail.com.",0,21,22
+spa_bench/ui-tars-72b/airbnb_1,spa_bench,ui-tars-72b,airbnb_1,single_app,airbnb,"This is the opened app ""airbnb"". Get the search results for stay tonight near 'wembley stadium' for 1 adult.",1,12,13
+spa_bench/ui-tars-72b/airbnb_2,spa_bench,ui-tars-72b,airbnb_2,single_app,airbnb,"This is the opened app ""airbnb"". Get the search results for stay tonight near 'wembley stadium' for 1 adult. Add one result to wishlist. Confirm that this item is in the wishlist.",1,15,16
+spa_bench/ui-tars-72b/amazon_1,spa_bench,ui-tars-72b,amazon_1,single_app,amazon,"This is the opened app ""amazon"". Get the search results for 'sunglasses'. Filter with 'kids'. Add one result to cart. Confirm that this item is in the cart.",0,17,18
+spa_bench/ui-tars-72b/amazon_2,spa_bench,ui-tars-72b,amazon_2,single_app,amazon,"This is the opened app ""amazon"". Get the search results for 'goggles'. Filter with 'adult'. Add one result to cart. Confirm that this item is in the cart. Compare with similar items. Add one of the similar items to cart.",0,23,24
+spa_bench/ui-tars-72b/bbc_1,spa_bench,ui-tars-72b,bbc_1,single_app,bbc,"This is the opened app ""bbc"". Go to app settings. Change the Text size to 'Smaller'. Navigate to 'Innovation' section. Select 'Technology' tab. Open any news article.",1,11,12
+spa_bench/ui-tars-72b/bolt_1,spa_bench,ui-tars-72b,bolt_1,single_app,bolt,"This is the opened app ""bolt"". Select Louvre museum Paris as my pick-up location. Select Eiffel Tower as my destination.",1,9,10
+spa_bench/ui-tars-72b/bolt_2,spa_bench,ui-tars-72b,bolt_2,single_app,bolt,"This is the opened app ""bolt"". Select Louvre museum Paris as my pick-up location. Select Eiffel Tower as my destination. Add 'Arc de Triomphe' as the final destination and Eiffel Tower as stopping point.",0,21,22
+spa_bench/ui-tars-72b/booking.com_4,spa_bench,ui-tars-72b,booking.com_4,single_app,booking,"This is the opened app ""booking.com"". Navigate to app settings. Change Temperature to 'Degrees in Celsius'. Change Units to 'Metric (km, m)'.",0,4,5
+spa_bench/ui-tars-72b/booking.com_5,spa_bench,ui-tars-72b,booking.com_5,single_app,booking,"This is the opened app ""booking.com"". Navigate to app settings. Change Currency to 'Pound Sterling'. Disable all notifications.",0,12,13
+spa_bench/ui-tars-72b/calculator_1,spa_bench,ui-tars-72b,calculator_1,single_app,calculator,"This is the opened app ""calculator"". Get the result for 'log(20)+ln(e)'.",0,21,22
+spa_bench/ui-tars-72b/calculator_2,spa_bench,ui-tars-72b,calculator_2,single_app,calculator,"This is the opened app ""calculator"". Get the result for 'log(20)+ln(e)'. Clear the results. Get the result for factorial 7.",0,29,30
+spa_bench/ui-tars-72b/calendar_1,spa_bench,ui-tars-72b,calendar_1,single_app,google_calendar,"This is the opened app ""calendar"". Set up an all-day event titled 'Haircut' on the 16th of any month.",1,10,11
+spa_bench/ui-tars-72b/calendar_2,spa_bench,ui-tars-72b,calendar_2,single_app,google_calendar,"This is the opened app ""calendar"". Set up an event titled 'Dental Check' on the 17th of any month. Set the time to from 7pm to 9pm.",0,15,16
+spa_bench/ui-tars-72b/chrome_1,spa_bench,ui-tars-72b,chrome_1,single_app,chrome,"This is the opened app ""chrome"". Get the search results for Taylor Swift. Go to her Wikipedia page. Add it to bookmarks. Check the Bookmarks for confirmation.",1,13,14
+spa_bench/ui-tars-72b/clock_4,spa_bench,ui-tars-72b,clock_4,single_app,clock,"This is the opened app ""clock"". Set Home time zone to 'Hong Kong'.",1,9,10
+spa_bench/ui-tars-72b/clock_5,spa_bench,ui-tars-72b,clock_5,single_app,clock,"This is the opened app ""clock"". Add current time at Melbourne (Australia) to clock. Change style to Analog for clock. Change style to Analog for screen saver.",1,11,12
+spa_bench/ui-tars-72b/contacts_1,spa_bench,ui-tars-72b,contacts_1,single_app,contacts,"This is the opened app ""contacts"". Create a contact named 'Agent Two'. The phone number is +44 1234 567 890. The email is benchmark@gmail.com",1,12,13
+spa_bench/ui-tars-72b/contacts_2,spa_bench,ui-tars-72b,contacts_2,single_app,contacts,"This is the opened app ""contacts"". Modify the last name of one of the contacts to 'Three'. Update the label for the contact's phone number to Work. Set the company to 'Huawei'. Add an email agent.benchmark.2024@gmail.com. Label the email as Work.",1,15,16
+spa_bench/ui-tars-72b/dictionary_merriam_webster_1,spa_bench,ui-tars-72b,dictionary_merriam_webster_1,single_app,dictionary_merriam_webster,"This is the opened app ""dictionary_merriam_webster"". Look up the definition of the word 'agent'. Switch to Thesaurus tab to find its synonyms. Click on one of its synonyms. Switch back to Dictionary tab.",1,8,9
+spa_bench/ui-tars-72b/dictionary_merriam_webster_2,spa_bench,ui-tars-72b,dictionary_merriam_webster_2,single_app,dictionary_merriam_webster,"This is the opened app ""dictionary_merriam_webster"". Look up the definition of the word 'agent'. Switch to Thesaurus tab to find its synonyms. Click on one of its synonyms. Switch back to Dictionary tab. Save this synonym. Confirm that synonym is in the saved words.",1,12,13
+spa_bench/ui-tars-72b/evernote_4,spa_bench,ui-tars-72b,evernote_4,single_app,evernote,"This is the opened app ""evernote"". Create a new task 'Paper Writing'.Set the due date to tomorrow. Navigate to the Tasks tab for confirmation.",0,13,14
+spa_bench/ui-tars-72b/evernote_5,spa_bench,ui-tars-72b,evernote_5,single_app,evernote,"This is the opened app ""evernote"". Create a new task 'Maintain Git Repo'.Set it to repeat daily. Navigate to the Tasks tab. Apply the recurring tasks filter. Confirm that task exists.",0,25,26
+spa_bench/ui-tars-72b/expedia_4,spa_bench,ui-tars-72b,expedia_4,single_app,expedia,"This is the opened app ""expedia"". Check things to do in Rome. Get the search results for 26th to 29th of any month. Save it to my trips.",0,13,14
+spa_bench/ui-tars-72b/expedia_5,spa_bench,ui-tars-72b,expedia_5,single_app,expedia,"This is the opened app ""expedia"". Check things to do in Paris. Get the search results for 25th to 28th of any month. Save it to my trips. Confirm that by checking the saved Paris trip.",1,15,16
+spa_bench/ui-tars-72b/files_1,spa_bench,ui-tars-72b,files_1,single_app,files,"This is the opened app ""files"". Go to the 'DCIM' folder in the internal storage. Create a subfolder named 'Agent_created'.",0,15,16
+spa_bench/ui-tars-72b/files_2,spa_bench,ui-tars-72b,files_2,single_app,files,"This is the opened app ""files"". Go to the 'DCIM' folder in the internal storage. Create a subfolder named 'Agent_created_2'. Create another subfolder named 'Agent_created_3'. Then move the folder 'Agent_created_2' into the 'Documents' folder in the internal storage.",0,37,38
+spa_bench/ui-tars-72b/gmail_4,spa_bench,ui-tars-72b,gmail_4,single_app,gmail,"This is the opened app ""gmail"". Navigate to settings. Check current setting for notifications. Turn off notification for Attachments.",1,6,7
+spa_bench/ui-tars-72b/gmail_5,spa_bench,ui-tars-72b,gmail_5,single_app,gmail,"This is the opened app ""gmail"". Navigate to settings. Check current setting for notifications. Turn off notification for Miscellaneous. Disable 'notification dot'. Return to Inbox.",1,19,20
+spa_bench/ui-tars-72b/google_maps_4,spa_bench,ui-tars-72b,google_maps_4,single_app,google_maps,"This is the opened app ""google_maps"". Get the search results for a nearby gas station that is open now. Get a driving route to it.",0,8,9
+spa_bench/ui-tars-72b/google_maps_5,spa_bench,ui-tars-72b,google_maps_5,single_app,google_maps,"This is the opened app ""google_maps"". Get the search results for a nearby gas station that is open now. Get a driving route with the gas station as the first stop. Set McDonald's as the final destination.",0,8,9
+spa_bench/ui-tars-72b/google_play_4,spa_bench,ui-tars-72b,google_play_4,single_app,google_play,"This is the opened app ""google_play"". Check the details of General settings. Switch to dark theme.",1,8,9
+spa_bench/ui-tars-72b/google_play_5,spa_bench,ui-tars-72b,google_play_5,single_app,google_play,"This is the opened app ""google_play"". Check the details of General settings. Turn off all notifications. Confirm that all notification settings for this device are off.",0,21,22
+spa_bench/ui-tars-72b/google_tasks_1,spa_bench,ui-tars-72b,google_tasks_1,single_app,google_tasks,"This is the opened app ""google_tasks"". Create a new list 'Weekend'. Add new task 'Buy groceries'.",0,5,6
+spa_bench/ui-tars-72b/google_tasks_2,spa_bench,ui-tars-72b,google_tasks_2,single_app,google_tasks,"This is the opened app ""google_tasks"". Create a new list 'Travel'. Add new task 'Visa'. Set date to the 12th of any month.",1,9,10
+spa_bench/ui-tars-72b/instagram_5,spa_bench,ui-tars-72b,instagram_5,single_app,instagram,"This is the opened app ""instagram"". Navigate to the page to edit my profile. Add link 'https://github.com'. Change gender to Custom 'Them'. Switch to private account.",1,23,24
+spa_bench/ui-tars-72b/keep_notes_1,spa_bench,ui-tars-72b,keep_notes_1,single_app,keep_notes,"This is the opened app ""keep_notes"". Create a new note. Write 'Hello this is a note2' in the content. Write 'Written by Agent2' as the note title.",0,7,8
+spa_bench/ui-tars-72b/keep_notes_2,spa_bench,ui-tars-72b,keep_notes_2,single_app,keep_notes,"This is the opened app ""keep_notes"". Create a new checklist. Add two items 'Learn Python' and 'Learn Java'. Write 'Goal of agent' as the checklist title. Label this checklist as 'Agent'.",1,14,15
+spa_bench/ui-tars-72b/onenote_1,spa_bench,ui-tars-72b,onenote_1,single_app,onenote,"This is the opened app ""onenote"". Create a new page with title 'Benchmark2' and content TODO 'AppAgent' and 'Mobile Agent'.",0,6,7
+spa_bench/ui-tars-72b/quora_5,spa_bench,ui-tars-72b,quora_5,single_app,quora,"This is the opened app ""quora"". Discover any Technology Spaces. Follow that space. Also follow one of the suggested spaces. Turn off notification for the suggested space. Follow one of the contributors of the suggested space.",1,23,24
+spa_bench/ui-tars-72b/reddit_1,spa_bench,ui-tars-72b,reddit_1,single_app,reddit,"This is the opened app ""reddit"". Get the search results for 'r/PremierLeague'. Filter posts for Liverpool. Join the group. Click on one of the posts.",0,8,9
+spa_bench/ui-tars-72b/reddit_2,spa_bench,ui-tars-72b,reddit_2,single_app,reddit,"This is the opened app ""reddit"". Get the search results for 'r/BlackMythWukong'. Join the group. Set community alerts to frequent. Click on one of the posts.",0,23,24
+spa_bench/ui-tars-72b/settings_4,spa_bench,ui-tars-72b,settings_4,single_app,settings,"This is the opened app ""settings"". Go to notification settings. Turn off the notification from Google Play Store.",1,4,5
+spa_bench/ui-tars-72b/settings_5,spa_bench,ui-tars-72b,settings_5,single_app,settings,"This is the opened app ""settings"". Go to notification settings. Turn off the 'Alerts' and 'Likes' notification from Instagram. Clear the cache from storage.",0,23,24
+spa_bench/ui-tars-72b/tiktok_1,spa_bench,ui-tars-72b,tiktok_1,single_app,tiktok,"This is the opened app ""tiktok"". Get the search results for videos about pet cats. Comment on a video with 'Such a cute cat.'",1,8,9
+spa_bench/ui-tars-72b/tiktok_2,spa_bench,ui-tars-72b,tiktok_2,single_app,tiktok,"This is the opened app ""tiktok"". Get the search results for videos about pet cats. Comment on a video with 'Such a cute cat.' Swipe through another two videos and like them.",0,10,11
+spa_bench/ui-tars-72b/x_4,spa_bench,ui-tars-72b,x_4,single_app,x,"This is the opened app ""x"". Search for the account @Nintendo. Follow it. Search its post about 'Super Mario'.",0,12,13
+spa_bench/ui-tars-72b/x_5,spa_bench,ui-tars-72b,x_5,single_app,x,"This is the opened app ""x"". Search for the account @animalcrossing. Follow it. Search its post about 'Timmy and Tommy'. Repost one result. Check it from the profile for confirmation.",0,23,24
+spa_bench/ui-tars-72b/yelp_1,spa_bench,ui-tars-72b,yelp_1,single_app,yelp,"This is the opened app ""yelp"". Get the search results for nearby restaurants. Filter to include only Chinese restaurants that offer takeout. Sort them by distance.",1,7,8
+spa_bench/ui-tars-72b/zoom_1,spa_bench,ui-tars-72b,zoom_1,single_app,zoom,"This is the opened app ""zoom"". Schedule a meeting titled 'Smartphone Agent Benchmark'. Use personal meeting ID. Change the timezone to Hawaii. Repeat the meeting every day.",1,11,12
+spa_bench/ui-tars-72b/zoom_2,spa_bench,ui-tars-72b,zoom_2,single_app,zoom,"This is the opened app ""zoom"". Schedule a meeting titled 'Smartphone Agent Benchmark'. Use personal meeting ID. Change the timezone to Hawaii. Repeat the meeting every day. Disable waiting room. Turn on host and participant video.",1,13,14
+android_world/gpt-5-mini/ClockStopWatchRunning,android_world,gpt-5-mini,ClockStopWatchRunning,single_app,clock,Run the stopwatch.,1,4,4
+android_world/gpt-5-mini/ClockTimerEntry,android_world,gpt-5-mini,ClockTimerEntry,single_app,clock,"Create a timer with 0 hours, 16 minutes, and 35 seconds. Do not start the timer.",1,10,10
+android_world/gpt-5-mini/ContactsAddContact,android_world,gpt-5-mini,ContactsAddContact,single_app,contacts,Create a new contact for Hugo Pereira. Their number is +13920741751.,1,8,8
+android_world/gpt-5-mini/ContactsNewContactDraft,android_world,gpt-5-mini,ContactsNewContactDraft,single_app,contacts,"Go to the new contact screen and enter the following details: First Name: Grace, Last Name: Taylor, Phone: 799-802-1530, Phone Label: Work. Do NOT hit save.",1,8,8
+android_world/gpt-5-mini/ExpenseAddMultiple,android_world,gpt-5-mini,ExpenseAddMultiple,single_app,pro_expense,"Add the following expenses into the pro expense:
+Expense: Social Club Dues
+ amount_dollars: $67.41
+ category_name: Social
+ note: Monthly recurring
+
+Expense: Legal Fees
+ amount_dollars: $10.14
+ category_name: Others
+ note: Monthly recurring
+
+Expense: Stationery
+ amount_dollars: $118.93
+ category_name: Others
+ note: Remember to transfer funds",1,25,25
+android_world/gpt-5-mini/ExpenseAddMultipleFromGallery,android_world,gpt-5-mini,ExpenseAddMultipleFromGallery,single_app,pro_expense,Add the expenses from expenses.jpg in Simple Gallery Pro to pro expense.,1,30,30
+android_world/gpt-5-mini/ExpenseAddMultipleFromMarkor,android_world,gpt-5-mini,ExpenseAddMultipleFromMarkor,single_app,pro_expense,Go through the transactions in my_expenses.txt in Markor. Log the reimbursable transactions in the pro expense.,0,60,61
+android_world/gpt-5-mini/ExpenseAddSingle,android_world,gpt-5-mini,ExpenseAddSingle,single_app,pro_expense,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this",1,9,9
+android_world/gpt-5-mini/ExpenseDeleteDuplicates,android_world,gpt-5-mini,ExpenseDeleteDuplicates,single_app,pro_expense,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains.",1,10,10
+android_world/gpt-5-mini/ExpenseDeleteDuplicates2,android_world,gpt-5-mini,ExpenseDeleteDuplicates2,single_app,pro_expense,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains.",0,18,19
+android_world/gpt-5-mini/ExpenseDeleteMultiple,android_world,gpt-5-mini,ExpenseDeleteMultiple,single_app,pro_expense,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.",1,12,12
+android_world/gpt-5-mini/ExpenseDeleteMultiple2,android_world,gpt-5-mini,ExpenseDeleteMultiple2,single_app,pro_expense,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.",1,14,14
+android_world/gpt-5-mini/ExpenseDeleteSingle,android_world,gpt-5-mini,ExpenseDeleteSingle,single_app,pro_expense,Delete the following expenses from pro expense: Rental Income.,1,6,6
+android_world/gpt-5-mini/FilesDeleteFile,android_world,gpt-5-mini,FilesDeleteFile,single_app,files,Delete the file q2a8_fancy_banana.mp3 from the Android filesystem located in the Notifications folder within the sdk_gphone_x86_64 storage area.,1,22,23
+android_world/gpt-5-mini/FilesMoveFile,android_world,gpt-5-mini,FilesMoveFile,single_app,files,Move the file holiday_photos.jpg from Podcasts within the sdk_gphone_x86_64 storage area to the DCIM within the same sdk_gphone_x86_64 storage area in the Android filesystem.,1,20,20
+android_world/gpt-5-mini/MarkorAddNoteHeader,android_world,gpt-5-mini,MarkorAddNoteHeader,single_app,markor,"Update the Markor note 2023_08_10_neat_wolf.txt by adding the following text, along with a new blank line before the existing content: ""RnI8sP34yDzJQbvkfplR"", and rename it to busy_wolf_2023_07_23.txt.",0,12,13
+android_world/gpt-5-mini/MarkorChangeNoteContent,android_world,gpt-5-mini,MarkorChangeNoteContent,single_app,markor,"Update the content of strong_jacket_h1hZ.txt to ""inNqu8UNNtyXBHCZpYp7"" in Markor and change its name to lively_fox_2023_03_22.md.",0,12,13
+android_world/gpt-5-mini/MarkorCreateFolder,android_world,gpt-5-mini,MarkorCreateFolder,single_app,markor,Create a new folder in Markor named folder_20251111_195342.,1,5,5
+android_world/gpt-5-mini/MarkorCreateNote,android_world,gpt-5-mini,MarkorCreateNote,single_app,markor,Create a new note in Markor named 2023_01_26_wise_yacht.md with the following text: Ignorance is bliss.,1,7,7
+android_world/gpt-5-mini/MarkorCreateNoteAndSms,android_world,gpt-5-mini,MarkorCreateNoteAndSms,single_app,markor,Create a new note in Markor named fair_ant_XOdi.txt with the following text: Actions speak louder than words.. Share the entire content of the note with the phone number +13192815309 via SMS using Simple SMS Messenger,0,18,19
+android_world/gpt-5-mini/MarkorCreateNoteFromClipboard,android_world,gpt-5-mini,MarkorCreateNoteFromClipboard,single_app,markor,Create a note in Markor named 2023_09_08_active_umbrella.txt. Perform a paste operation in the note and save the note.,0,13,13
+android_world/gpt-5-mini/MarkorDeleteAllNotes,android_world,gpt-5-mini,MarkorDeleteAllNotes,single_app,markor,Delete all my notes in Markor.,1,7,7
+android_world/gpt-5-mini/MarkorDeleteNewestNote,android_world,gpt-5-mini,MarkorDeleteNewestNote,single_app,markor,Delete the newest note in Markor.,1,5,5
+android_world/gpt-5-mini/MarkorDeleteNote,android_world,gpt-5-mini,MarkorDeleteNote,single_app,markor,Delete the note in Markor named bold_king_edited.,1,5,5
+android_world/gpt-5-mini/MarkorEditNote,android_world,gpt-5-mini,MarkorEditNote,single_app,markor,"Edit note_SiFbv.txt in Markor. Add to the top of the note Hello, World!",0,12,13
+android_world/gpt-5-mini/MarkorMergeNotes,android_world,gpt-5-mini,MarkorMergeNotes,single_app,markor,"Merge the contents of Markor notes tough_frog_2023_08_05.txt, proud_cat_edited.txt and 2023_08_21_friendly_koala.md (in the same order) into a new Markor note named mIObBbo4 and save it. Add a new line between the content of each note.",0,65,65
+android_world/gpt-5-mini/MarkorMoveNote,android_world,gpt-5-mini,MarkorMoveNote,single_app,markor,"In Markor, move the note shy_king_copy.md from StudyGuides to MeetingMinutes.",1,11,11
+android_world/gpt-5-mini/MarkorTranscribeReceipt,android_world,gpt-5-mini,MarkorTranscribeReceipt,single_app,markor,"Create a file in Markor, called receipt.md with the transactions from the receipt.png. Use Simple Gallery to view the receipt. Please enter transactions in csv format including the header ""Date, Item, Amount"".",1,10,10
+android_world/gpt-5-mini/MarkorTranscribeVideo,android_world,gpt-5-mini,MarkorTranscribeVideo,single_app,markor,"Transcribe the contents of video ZwUN_moment_70_.mp4 by watching it in VLC player (located in Download) and writing the sequence of strings shown on each frame to the text file ZwUN_moment_70__transcription.txt in Markor as a comma separated list. For example, if the first frame shows the text ""edna"" and the second frame shows the text ""pineapple"", then the text file should contain only the following text: ""edna, pineapple"".",0,20,21
+android_world/gpt-5-mini/NotesIsTodo,android_world,gpt-5-mini,NotesIsTodo,single_app,joplin,Is the note titled 'To-Do List' in the Joplin app marked as a todo item? Respond with either 'True' if it is a todo or 'False' if not.,1,3,3
+android_world/gpt-5-mini/NotesMeetingAttendeeCount,android_world,gpt-5-mini,NotesMeetingAttendeeCount,single_app,joplin,How many attendees were present in the meeting titled 'Employee Performance Evaluation' in the Joplin app? Express your answer as just a single number.,1,10,11
+android_world/gpt-5-mini/NotesRecipeIngredientCount,android_world,gpt-5-mini,NotesRecipeIngredientCount,single_app,joplin,What quantity of spirulina do I need for the recipe 'Chicken Alfredo' in the Joplin app? Express your answer in the format <amount> <unit> where both the amount and unit exactly match the format in the recipe.,1,10,11
+android_world/gpt-5-mini/NotesTodoItemCount,android_world,gpt-5-mini,NotesTodoItemCount,single_app,joplin,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.,0,10,11
+android_world/gpt-5-mini/OpenAppTaskEval,android_world,gpt-5-mini,OpenAppTaskEval,single_app,contacts,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.,1,5,5
+android_world/gpt-5-mini/OsmAndFavorite,android_world,gpt-5-mini,OsmAndFavorite,single_app,osmand,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.",1,12,12
+android_world/gpt-5-mini/OsmAndMarker,android_world,gpt-5-mini,OsmAndMarker,single_app,osmand,"Add a location marker for Planken, Liechtenstein in the OsmAnd maps app.",0,20,21
+android_world/gpt-5-mini/OsmAndTrack,android_world,gpt-5-mini,OsmAndTrack,single_app,osmand,"Save a track with waypoints Schönberg, Liechtenstein, Triesen, Liechtenstein, Bendern, Liechtenstein in the OsmAnd maps app in the same order as listed.",0,18,18
+android_world/gpt-5-mini/RecipeAddMultipleRecipes,android_world,gpt-5-mini,RecipeAddMultipleRecipes,single_app,broccoli,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Alfredo Pasta
+ description: A delicious and healthy choice for any time of the day.
+ servings: 2 servings
+ preparationTime: 10 mins
+ ingredients: as desired
+ directions: Cook fettuccine pasta, toss with Alfredo sauce and grilled chicken strips. Serve with a sprinkle of Parmesan cheese. Try adding a pinch of your favorite spices for extra flavor.
+
+Recipe: Quinoa Salad with Vegetables
+ description: A quick and easy meal, perfect for busy weekdays.
+ servings: 8 servings
+ preparationTime: 30 mins
+ ingredients: to your liking
+ directions: Mix cooked quinoa with diced vegetables, feta cheese, and a lemon olive oil dressing. Try adding a pinch of your favorite spices for extra flavor.
+
+Recipe: Butternut Squash Soup
+ description: A delicious and healthy choice for any time of the day.
+ servings: 1 serving
+ preparationTime: 45 mins
+ ingredients: per individual taste
+ directions: Sauté onions and garlic, add cubed butternut squash and broth. Puree until smooth and season with nutmeg, salt, and pepper. Feel free to substitute with ingredients you have on hand.",1,39,39
+android_world/gpt-5-mini/RecipeAddMultipleRecipesFromImage,android_world,gpt-5-mini,RecipeAddMultipleRecipesFromImage,single_app,broccoli,Add the recipes from recipes.jpg in Simple Gallery Pro to the Broccoli recipe app.,1,60,61
+android_world/gpt-5-mini/RecipeAddMultipleRecipesFromMarkor,android_world,gpt-5-mini,RecipeAddMultipleRecipesFromMarkor,single_app,broccoli,Add the recipes from recipes.txt in Markor to the Broccoli recipe app.,0,37,37
+android_world/gpt-5-mini/RecipeAddMultipleRecipesFromMarkor2,android_world,gpt-5-mini,RecipeAddMultipleRecipesFromMarkor2,single_app,broccoli,Add the recipes from recipes.txt in Markor that take 10 mins to prepare into the Broccoli recipe app.,0,60,61
+android_world/gpt-5-mini/RecipeAddSingleRecipe,android_world,gpt-5-mini,RecipeAddSingleRecipe,single_app,broccoli,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.",1,11,11
+android_world/gpt-5-mini/RecipeDeleteDuplicateRecipes,android_world,gpt-5-mini,RecipeDeleteDuplicateRecipes,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",1,10,11
+android_world/gpt-5-mini/RecipeDeleteDuplicateRecipes2,android_world,gpt-5-mini,RecipeDeleteDuplicateRecipes2,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",0,24,25
+android_world/gpt-5-mini/RecipeDeleteDuplicateRecipes3,android_world,gpt-5-mini,RecipeDeleteDuplicateRecipes3,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",0,34,35
+android_world/gpt-5-mini/RecipeDeleteMultipleRecipes,android_world,gpt-5-mini,RecipeDeleteMultipleRecipes,single_app,broccoli,"Delete the following recipes from Broccoli app: Zucchini Noodles with Pesto, Garlic Butter Shrimp, Lentil Soup.",1,14,14
+android_world/gpt-5-mini/RecipeDeleteMultipleRecipesWithConstraint,android_world,gpt-5-mini,RecipeDeleteMultipleRecipesWithConstraint,single_app,broccoli,Delete the recipes from Broccoli app that use black garlic in the directions.,1,19,19
+android_world/gpt-5-mini/RecipeDeleteMultipleRecipesWithNoise,android_world,gpt-5-mini,RecipeDeleteMultipleRecipesWithNoise,single_app,broccoli,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.",1,20,20
+android_world/gpt-5-mini/RecipeDeleteSingleRecipe,android_world,gpt-5-mini,RecipeDeleteSingleRecipe,single_app,broccoli,Delete the following recipes from Broccoli app: Thai Peanut Noodle Salad.,1,6,6
+android_world/gpt-5-mini/RecipeDeleteSingleWithRecipeWithNoise,android_world,gpt-5-mini,RecipeDeleteSingleWithRecipeWithNoise,single_app,broccoli,Delete the following recipes from Broccoli app: Classic Margherita Pizza.,1,8,8
+android_world/gpt-5-mini/RetroCreatePlaylist,android_world,gpt-5-mini,RetroCreatePlaylist,single_app,retro_music,"Create a playlist in Retro Music titled ""Hip Hop Bangers 270"" with the following songs, in order: Golden Days, Dreamer's Awake, Hidden Paths",1,24,24
+android_world/gpt-5-mini/RetroPlayingQueue,android_world,gpt-5-mini,RetroPlayingQueue,single_app,retro_music,"Add the following songs, in order, Through the Storm, Hidden Paths, Forever Young, Whispers of the Past, Heartbeat Away to my playing queue in Retro music.",1,28,28
+android_world/qwen2.5-vl-72b/ClockStopWatchRunning,android_world,qwen2.5-vl-72b,ClockStopWatchRunning,single_app,clock,Run the stopwatch.,1,5,5
+android_world/qwen2.5-vl-72b/ClockTimerEntry,android_world,qwen2.5-vl-72b,ClockTimerEntry,single_app,clock,"Create a timer with 0 hours, 16 minutes, and 35 seconds. Do not start the timer.",0,10,10
+android_world/qwen2.5-vl-72b/ContactsAddContact,android_world,qwen2.5-vl-72b,ContactsAddContact,single_app,contacts,Create a new contact for Hugo Pereira. Their number is +13920741751.,1,9,9
+android_world/qwen2.5-vl-72b/ContactsNewContactDraft,android_world,qwen2.5-vl-72b,ContactsNewContactDraft,single_app,contacts,"Go to the new contact screen and enter the following details: First Name: Grace, Last Name: Taylor, Phone: 799-802-1530, Phone Label: Work. Do NOT hit save.",0,12,13
+android_world/qwen2.5-vl-72b/ExpenseAddMultiple,android_world,qwen2.5-vl-72b,ExpenseAddMultiple,single_app,pro_expense,"Add the following expenses into the pro expense:
+Expense: Social Club Dues
+ amount_dollars: $67.41
+ category_name: Social
+ note: Monthly recurring
+
+Expense: Legal Fees
+ amount_dollars: $10.14
+ category_name: Others
+ note: Monthly recurring
+
+Expense: Stationery
+ amount_dollars: $118.93
+ category_name: Others
+ note: Remember to transfer funds",0,24,24
+android_world/qwen2.5-vl-72b/ExpenseAddMultipleFromGallery,android_world,qwen2.5-vl-72b,ExpenseAddMultipleFromGallery,single_app,pro_expense,Add the expenses from expenses.jpg in Simple Gallery Pro to pro expense.,0,15,15
+android_world/qwen2.5-vl-72b/ExpenseAddMultipleFromMarkor,android_world,qwen2.5-vl-72b,ExpenseAddMultipleFromMarkor,single_app,pro_expense,Go through the transactions in my_expenses.txt in Markor. Log the reimbursable transactions in the pro expense.,0,9,9
+android_world/qwen2.5-vl-72b/ExpenseAddSingle,android_world,qwen2.5-vl-72b,ExpenseAddSingle,single_app,pro_expense,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this",0,12,13
+android_world/qwen2.5-vl-72b/ExpenseDeleteDuplicates,android_world,qwen2.5-vl-72b,ExpenseDeleteDuplicates,single_app,pro_expense,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains.",0,12,13
+android_world/qwen2.5-vl-72b/ExpenseDeleteDuplicates2,android_world,qwen2.5-vl-72b,ExpenseDeleteDuplicates2,single_app,pro_expense,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains.",0,18,18
+android_world/qwen2.5-vl-72b/ExpenseDeleteMultiple,android_world,qwen2.5-vl-72b,ExpenseDeleteMultiple,single_app,pro_expense,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.",0,13,13
+android_world/qwen2.5-vl-72b/ExpenseDeleteMultiple2,android_world,qwen2.5-vl-72b,ExpenseDeleteMultiple2,single_app,pro_expense,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.",0,15,15
+android_world/qwen2.5-vl-72b/ExpenseDeleteSingle,android_world,qwen2.5-vl-72b,ExpenseDeleteSingle,single_app,pro_expense,Delete the following expenses from pro expense: Rental Income.,0,10,11
+android_world/qwen2.5-vl-72b/FilesDeleteFile,android_world,qwen2.5-vl-72b,FilesDeleteFile,single_app,files,Delete the file q2a8_fancy_banana.mp3 from the Android filesystem located in the Notifications folder within the sdk_gphone_x86_64 storage area.,0,22,23
+android_world/qwen2.5-vl-72b/FilesMoveFile,android_world,qwen2.5-vl-72b,FilesMoveFile,single_app,files,Move the file holiday_photos.jpg from Podcasts within the sdk_gphone_x86_64 storage area to the DCIM within the same sdk_gphone_x86_64 storage area in the Android filesystem.,0,8,8
+android_world/qwen2.5-vl-72b/MarkorAddNoteHeader,android_world,qwen2.5-vl-72b,MarkorAddNoteHeader,single_app,markor,"Update the Markor note 2023_08_10_neat_wolf.txt by adding the following text, along with a new blank line before the existing content: ""RnI8sP34yDzJQbvkfplR"", and rename it to busy_wolf_2023_07_23.txt.",0,12,13
+android_world/qwen2.5-vl-72b/MarkorChangeNoteContent,android_world,qwen2.5-vl-72b,MarkorChangeNoteContent,single_app,markor,"Update the content of strong_jacket_h1hZ.txt to ""inNqu8UNNtyXBHCZpYp7"" in Markor and change its name to lively_fox_2023_03_22.md.",0,12,12
+android_world/qwen2.5-vl-72b/MarkorCreateFolder,android_world,qwen2.5-vl-72b,MarkorCreateFolder,single_app,markor,Create a new folder in Markor named folder_20251018_235416.,0,10,10
+android_world/qwen2.5-vl-72b/MarkorCreateNote,android_world,qwen2.5-vl-72b,MarkorCreateNote,single_app,markor,Create a new note in Markor named 2023_01_26_wise_yacht.md with the following text: Ignorance is bliss.,1,11,11
+android_world/qwen2.5-vl-72b/MarkorCreateNoteAndSms,android_world,qwen2.5-vl-72b,MarkorCreateNoteAndSms,single_app,markor,Create a new note in Markor named fair_ant_XOdi.txt with the following text: Actions speak louder than words.. Share the entire content of the note with the phone number +13192815309 via SMS using Simple SMS Messenger,0,18,19
+android_world/qwen2.5-vl-72b/MarkorCreateNoteFromClipboard,android_world,qwen2.5-vl-72b,MarkorCreateNoteFromClipboard,single_app,markor,Create a note in Markor named 2023_09_08_active_umbrella.txt. Perform a paste operation in the note and save the note.,0,14,15
+android_world/qwen2.5-vl-72b/MarkorDeleteNewestNote,android_world,qwen2.5-vl-72b,MarkorDeleteNewestNote,single_app,markor,Delete the newest note in Markor.,0,10,11
+android_world/qwen2.5-vl-72b/MarkorDeleteNote,android_world,qwen2.5-vl-72b,MarkorDeleteNote,single_app,markor,Delete the note in Markor named bold_king_edited.,0,10,11
+android_world/qwen2.5-vl-72b/MarkorEditNote,android_world,qwen2.5-vl-72b,MarkorEditNote,single_app,markor,"Edit note_SiFbv.txt in Markor. Add to the top of the note Hello, World!",0,9,9
+android_world/qwen2.5-vl-72b/MarkorMergeNotes,android_world,qwen2.5-vl-72b,MarkorMergeNotes,single_app,markor,"Merge the contents of Markor notes tough_frog_2023_08_05.txt, proud_cat_edited.txt and 2023_08_21_friendly_koala.md (in the same order) into a new Markor note named mIObBbo4 and save it. Add a new line between the content of each note.",0,25,25
+android_world/qwen2.5-vl-72b/MarkorMoveNote,android_world,qwen2.5-vl-72b,MarkorMoveNote,single_app,markor,"In Markor, move the note shy_king_copy.md from StudyGuides to MeetingMinutes.",0,14,15
+android_world/qwen2.5-vl-72b/MarkorTranscribeReceipt,android_world,qwen2.5-vl-72b,MarkorTranscribeReceipt,single_app,markor,"Create a file in Markor, called receipt.md with the transactions from the receipt.png. Use Simple Gallery to view the receipt. Please enter transactions in csv format including the header ""Date, Item, Amount"".",0,18,18
+android_world/qwen2.5-vl-72b/MarkorTranscribeVideo,android_world,qwen2.5-vl-72b,MarkorTranscribeVideo,single_app,markor,"Transcribe the contents of video ZwUN_moment_70_.mp4 by watching it in VLC player (located in Download) and writing the sequence of strings shown on each frame to the text file ZwUN_moment_70__transcription.txt in Markor as a comma separated list. For example, if the first frame shows the text ""edna"" and the second frame shows the text ""pineapple"", then the text file should contain only the following text: ""edna, pineapple"".",0,12,12
+android_world/qwen2.5-vl-72b/NotesIsTodo,android_world,qwen2.5-vl-72b,NotesIsTodo,single_app,joplin,Is the note titled 'To-Do List' in the Joplin app marked as a todo item? Respond with either 'True' if it is a todo or 'False' if not.,1,10,11
+android_world/qwen2.5-vl-72b/NotesMeetingAttendeeCount,android_world,qwen2.5-vl-72b,NotesMeetingAttendeeCount,single_app,joplin,How many attendees were present in the meeting titled 'Employee Performance Evaluation' in the Joplin app? Express your answer as just a single number.,0,7,7
+android_world/qwen2.5-vl-72b/NotesRecipeIngredientCount,android_world,qwen2.5-vl-72b,NotesRecipeIngredientCount,single_app,joplin,What quantity of spirulina do I need for the recipe 'Chicken Alfredo' in the Joplin app? Express your answer in the format <amount> <unit> where both the amount and unit exactly match the format in the recipe.,0,6,6
+android_world/qwen2.5-vl-72b/NotesTodoItemCount,android_world,qwen2.5-vl-72b,NotesTodoItemCount,single_app,joplin,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.,0,10,11
+android_world/qwen2.5-vl-72b/OpenAppTaskEval,android_world,qwen2.5-vl-72b,OpenAppTaskEval,single_app,contacts,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.,0,10,11
+android_world/qwen2.5-vl-72b/OsmAndFavorite,android_world,qwen2.5-vl-72b,OsmAndFavorite,single_app,osmand,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.",0,13,14
+android_world/qwen2.5-vl-72b/OsmAndMarker,android_world,qwen2.5-vl-72b,OsmAndMarker,single_app,osmand,"Add a location marker for Planken, Liechtenstein in the OsmAnd maps app.",0,13,13
+android_world/qwen2.5-vl-72b/OsmAndTrack,android_world,qwen2.5-vl-72b,OsmAndTrack,single_app,osmand,"Save a track with waypoints Schönberg, Liechtenstein, Triesen, Liechtenstein, Bendern, Liechtenstein in the OsmAnd maps app in the same order as listed.",0,120,120
+android_world/qwen2.5-vl-72b/RecipeAddMultipleRecipes,android_world,qwen2.5-vl-72b,RecipeAddMultipleRecipes,single_app,broccoli,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Alfredo Pasta
+ description: A delicious and healthy choice for any time of the day.
+ servings: 2 servings
+ preparationTime: 10 mins
+ ingredients: as desired
+ directions: Cook fettuccine pasta, toss with Alfredo sauce and grilled chicken strips. Serve with a sprinkle of Parmesan cheese. Try adding a pinch of your favorite spices for extra flavor.
+
+Recipe: Quinoa Salad with Vegetables
+ description: A quick and easy meal, perfect for busy weekdays.
+ servings: 8 servings
+ preparationTime: 30 mins
+ ingredients: to your liking
+ directions: Mix cooked quinoa with diced vegetables, feta cheese, and a lemon olive oil dressing. Try adding a pinch of your favorite spices for extra flavor.
+
+Recipe: Butternut Squash Soup
+ description: A delicious and healthy choice for any time of the day.
+ servings: 1 serving
+ preparationTime: 45 mins
+ ingredients: per individual taste
+ directions: Sauté onions and garlic, add cubed butternut squash and broth. Puree until smooth and season with nutmeg, salt, and pepper. Feel free to substitute with ingredients you have on hand.",0,14,14
+android_world/qwen2.5-vl-72b/RecipeAddMultipleRecipesFromImage,android_world,qwen2.5-vl-72b,RecipeAddMultipleRecipesFromImage,single_app,broccoli,Add the recipes from recipes.jpg in Simple Gallery Pro to the Broccoli recipe app.,0,17,17
+android_world/qwen2.5-vl-72b/RecipeAddMultipleRecipesFromMarkor,android_world,qwen2.5-vl-72b,RecipeAddMultipleRecipesFromMarkor,single_app,broccoli,Add the recipes from recipes.txt in Markor to the Broccoli recipe app.,0,60,60
+android_world/qwen2.5-vl-72b/RecipeAddMultipleRecipesFromMarkor2,android_world,qwen2.5-vl-72b,RecipeAddMultipleRecipesFromMarkor2,single_app,broccoli,Add the recipes from recipes.txt in Markor that take 10 mins to prepare into the Broccoli recipe app.,0,9,9
+android_world/qwen2.5-vl-72b/RecipeAddSingleRecipe,android_world,qwen2.5-vl-72b,RecipeAddSingleRecipe,single_app,broccoli,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.",1,18,18
+android_world/qwen2.5-vl-72b/RecipeDeleteDuplicateRecipes,android_world,qwen2.5-vl-72b,RecipeDeleteDuplicateRecipes,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",0,8,8
+android_world/qwen2.5-vl-72b/RecipeDeleteDuplicateRecipes2,android_world,qwen2.5-vl-72b,RecipeDeleteDuplicateRecipes2,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",0,18,18
+android_world/qwen2.5-vl-72b/RecipeDeleteDuplicateRecipes3,android_world,qwen2.5-vl-72b,RecipeDeleteDuplicateRecipes3,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",0,34,35
+android_world/qwen2.5-vl-72b/RecipeDeleteMultipleRecipes,android_world,qwen2.5-vl-72b,RecipeDeleteMultipleRecipes,single_app,broccoli,"Delete the following recipes from Broccoli app: Zucchini Noodles with Pesto, Garlic Butter Shrimp, Lentil Soup.",1,22,22
+android_world/qwen2.5-vl-72b/RecipeDeleteMultipleRecipesWithConstraint,android_world,qwen2.5-vl-72b,RecipeDeleteMultipleRecipesWithConstraint,single_app,broccoli,Delete the recipes from Broccoli app that use black garlic in the directions.,0,40,41
+android_world/qwen2.5-vl-72b/RecipeDeleteMultipleRecipesWithNoise,android_world,qwen2.5-vl-72b,RecipeDeleteMultipleRecipesWithNoise,single_app,broccoli,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.",0,26,26
+android_world/qwen2.5-vl-72b/RecipeDeleteSingleRecipe,android_world,qwen2.5-vl-72b,RecipeDeleteSingleRecipe,single_app,broccoli,Delete the following recipes from Broccoli app: Thai Peanut Noodle Salad.,1,7,7
+android_world/qwen2.5-vl-72b/RecipeDeleteSingleWithRecipeWithNoise,android_world,qwen2.5-vl-72b,RecipeDeleteSingleWithRecipeWithNoise,single_app,broccoli,Delete the following recipes from Broccoli app: Classic Margherita Pizza.,0,19,19
+android_world/qwen2.5-vl-72b/RetroCreatePlaylist,android_world,qwen2.5-vl-72b,RetroCreatePlaylist,single_app,retro_music,"Create a playlist in Retro Music titled ""Hip Hop Bangers 270"" with the following songs, in order: Golden Days, Dreamer's Awake, Hidden Paths",0,16,16
+android_world/qwen2.5-vl-72b/RetroPlayingQueue,android_world,qwen2.5-vl-72b,RetroPlayingQueue,single_app,retro_music,"Add the following songs, in order, Through the Storm, Hidden Paths, Forever Young, Whispers of the Past, Heartbeat Away to my playing queue in Retro music.",0,32,32
+android_world/llama-3.3-70b/ClockStopWatchRunning,android_world,llama-3.3-70b,ClockStopWatchRunning,single_app,clock,Run the stopwatch.,1,4,4
+android_world/llama-3.3-70b/ClockTimerEntry,android_world,llama-3.3-70b,ClockTimerEntry,single_app,clock,"Create a timer with 0 hours, 16 minutes, and 35 seconds. Do not start the timer.",0,10,11
+android_world/llama-3.3-70b/ContactsAddContact,android_world,llama-3.3-70b,ContactsAddContact,single_app,contacts,Create a new contact for Hugo Pereira. Their number is +13920741751.,1,7,7
+android_world/llama-3.3-70b/ContactsNewContactDraft,android_world,llama-3.3-70b,ContactsNewContactDraft,single_app,contacts,"Go to the new contact screen and enter the following details: First Name: Grace, Last Name: Taylor, Phone: 799-802-1530, Phone Label: Work. Do NOT hit save.",1,10,10
+android_world/llama-3.3-70b/ExpenseAddMultiple,android_world,llama-3.3-70b,ExpenseAddMultiple,single_app,pro_expense,"Add the following expenses into the pro expense:
+Expense: Social Club Dues
+ amount_dollars: $67.41
+ category_name: Social
+ note: Monthly recurring
+
+Expense: Legal Fees
+ amount_dollars: $10.14
+ category_name: Others
+ note: Monthly recurring
+
+Expense: Stationery
+ amount_dollars: $118.93
+ category_name: Others
+ note: Remember to transfer funds",0,19,19
+android_world/llama-3.3-70b/ExpenseAddMultipleFromGallery,android_world,llama-3.3-70b,ExpenseAddMultipleFromGallery,single_app,pro_expense,Add the expenses from expenses.jpg in Simple Gallery Pro to pro expense.,0,16,16
+android_world/llama-3.3-70b/ExpenseAddMultipleFromMarkor,android_world,llama-3.3-70b,ExpenseAddMultipleFromMarkor,single_app,pro_expense,Go through the transactions in my_expenses.txt in Markor. Log the reimbursable transactions in the pro expense.,1,18,18
+android_world/llama-3.3-70b/ExpenseAddSingle,android_world,llama-3.3-70b,ExpenseAddSingle,single_app,pro_expense,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this",0,12,12
+android_world/llama-3.3-70b/ExpenseDeleteDuplicates,android_world,llama-3.3-70b,ExpenseDeleteDuplicates,single_app,pro_expense,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains.",0,12,13
+android_world/llama-3.3-70b/ExpenseDeleteDuplicates2,android_world,llama-3.3-70b,ExpenseDeleteDuplicates2,single_app,pro_expense,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains.",0,14,14
+android_world/llama-3.3-70b/ExpenseDeleteMultiple,android_world,llama-3.3-70b,ExpenseDeleteMultiple,single_app,pro_expense,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.",1,12,12
+android_world/llama-3.3-70b/ExpenseDeleteMultiple2,android_world,llama-3.3-70b,ExpenseDeleteMultiple2,single_app,pro_expense,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.",0,11,11
+android_world/llama-3.3-70b/ExpenseDeleteSingle,android_world,llama-3.3-70b,ExpenseDeleteSingle,single_app,pro_expense,Delete the following expenses from pro expense: Rental Income.,1,5,5
+android_world/llama-3.3-70b/FilesDeleteFile,android_world,llama-3.3-70b,FilesDeleteFile,single_app,files,Delete the file q2a8_fancy_banana.mp3 from the Android filesystem located in the Notifications folder within the sdk_gphone_x86_64 storage area.,1,17,17
+android_world/llama-3.3-70b/FilesMoveFile,android_world,llama-3.3-70b,FilesMoveFile,single_app,files,Move the file holiday_photos.jpg from Podcasts within the sdk_gphone_x86_64 storage area to the DCIM within the same sdk_gphone_x86_64 storage area in the Android filesystem.,0,20,21
+android_world/llama-3.3-70b/MarkorAddNoteHeader,android_world,llama-3.3-70b,MarkorAddNoteHeader,single_app,markor,"Update the Markor note 2023_08_10_neat_wolf.txt by adding the following text, along with a new blank line before the existing content: ""RnI8sP34yDzJQbvkfplR"", and rename it to busy_wolf_2023_07_23.txt.",0,12,13
+android_world/llama-3.3-70b/MarkorChangeNoteContent,android_world,llama-3.3-70b,MarkorChangeNoteContent,single_app,markor,"Update the content of strong_jacket_h1hZ.txt to ""inNqu8UNNtyXBHCZpYp7"" in Markor and change its name to lively_fox_2023_03_22.md.",0,12,13
+android_world/llama-3.3-70b/MarkorCreateFolder,android_world,llama-3.3-70b,MarkorCreateFolder,single_app,markor,Create a new folder in Markor named folder_20251019_194159.,1,5,5
+android_world/llama-3.3-70b/MarkorCreateNote,android_world,llama-3.3-70b,MarkorCreateNote,single_app,markor,Create a new note in Markor named 2023_01_26_wise_yacht.md with the following text: Ignorance is bliss.,0,6,6
+android_world/llama-3.3-70b/MarkorCreateNoteAndSms,android_world,llama-3.3-70b,MarkorCreateNoteAndSms,single_app,markor,Create a new note in Markor named fair_ant_XOdi.txt with the following text: Actions speak louder than words.. Share the entire content of the note with the phone number +13192815309 via SMS using Simple SMS Messenger,0,18,19
+android_world/llama-3.3-70b/MarkorCreateNoteFromClipboard,android_world,llama-3.3-70b,MarkorCreateNoteFromClipboard,single_app,markor,Create a note in Markor named 2023_09_08_active_umbrella.txt. Perform a paste operation in the note and save the note.,0,13,13
+android_world/llama-3.3-70b/MarkorDeleteAllNotes,android_world,llama-3.3-70b,MarkorDeleteAllNotes,single_app,markor,Delete all my notes in Markor.,0,14,15
+android_world/llama-3.3-70b/MarkorDeleteNewestNote,android_world,llama-3.3-70b,MarkorDeleteNewestNote,single_app,markor,Delete the newest note in Markor.,0,10,11
+android_world/llama-3.3-70b/MarkorDeleteNote,android_world,llama-3.3-70b,MarkorDeleteNote,single_app,markor,Delete the note in Markor named bold_king_edited.,1,5,5
+android_world/llama-3.3-70b/MarkorEditNote,android_world,llama-3.3-70b,MarkorEditNote,single_app,markor,"Edit note_SiFbv.txt in Markor. Add to the top of the note Hello, World!",0,6,6
+android_world/llama-3.3-70b/MarkorMergeNotes,android_world,llama-3.3-70b,MarkorMergeNotes,single_app,markor,"Merge the contents of Markor notes tough_frog_2023_08_05.txt, proud_cat_edited.txt and 2023_08_21_friendly_koala.md (in the same order) into a new Markor note named mIObBbo4 and save it. Add a new line between the content of each note.",0,33,33
+android_world/llama-3.3-70b/MarkorMoveNote,android_world,llama-3.3-70b,MarkorMoveNote,single_app,markor,"In Markor, move the note shy_king_copy.md from StudyGuides to MeetingMinutes.",0,8,8
+android_world/llama-3.3-70b/MarkorTranscribeReceipt,android_world,llama-3.3-70b,MarkorTranscribeReceipt,single_app,markor,"Create a file in Markor, called receipt.md with the transactions from the receipt.png. Use Simple Gallery to view the receipt. Please enter transactions in csv format including the header ""Date, Item, Amount"".",0,10,10
+android_world/llama-3.3-70b/MarkorTranscribeVideo,android_world,llama-3.3-70b,MarkorTranscribeVideo,single_app,markor,"Transcribe the contents of video ZwUN_moment_70_.mp4 by watching it in VLC player (located in Download) and writing the sequence of strings shown on each frame to the text file ZwUN_moment_70__transcription.txt in Markor as a comma separated list. For example, if the first frame shows the text ""edna"" and the second frame shows the text ""pineapple"", then the text file should contain only the following text: ""edna, pineapple"".",0,20,21
+android_world/llama-3.3-70b/NotesIsTodo,android_world,llama-3.3-70b,NotesIsTodo,single_app,joplin,Is the note titled 'To-Do List' in the Joplin app marked as a todo item? Respond with either 'True' if it is a todo or 'False' if not.,0,3,3
+android_world/llama-3.3-70b/NotesMeetingAttendeeCount,android_world,llama-3.3-70b,NotesMeetingAttendeeCount,single_app,joplin,How many attendees were present in the meeting titled 'Employee Performance Evaluation' in the Joplin app? Express your answer as just a single number.,1,7,7
+android_world/llama-3.3-70b/NotesRecipeIngredientCount,android_world,llama-3.3-70b,NotesRecipeIngredientCount,single_app,joplin,What quantity of spirulina do I need for the recipe 'Chicken Alfredo' in the Joplin app? Express your answer in the format <amount> <unit> where both the amount and unit exactly match the format in the recipe.,0,10,11
+android_world/llama-3.3-70b/NotesTodoItemCount,android_world,llama-3.3-70b,NotesTodoItemCount,single_app,joplin,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.,0,7,7
+android_world/llama-3.3-70b/OpenAppTaskEval,android_world,llama-3.3-70b,OpenAppTaskEval,single_app,contacts,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.,1,10,11
+android_world/llama-3.3-70b/OsmAndFavorite,android_world,llama-3.3-70b,OsmAndFavorite,single_app,osmand,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.",0,10,10
+android_world/llama-3.3-70b/OsmAndMarker,android_world,llama-3.3-70b,OsmAndMarker,single_app,osmand,"Add a location marker for Planken, Liechtenstein in the OsmAnd maps app.",0,10,10
+android_world/llama-3.3-70b/OsmAndTrack,android_world,llama-3.3-70b,OsmAndTrack,single_app,osmand,"Save a track with waypoints Schönberg, Liechtenstein, Triesen, Liechtenstein, Bendern, Liechtenstein in the OsmAnd maps app in the same order as listed.",0,16,16
+android_world/llama-3.3-70b/RecipeAddMultipleRecipes,android_world,llama-3.3-70b,RecipeAddMultipleRecipes,single_app,broccoli,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Alfredo Pasta
+ description: A delicious and healthy choice for any time of the day.
+ servings: 2 servings
+ preparationTime: 10 mins
+ ingredients: as desired
+ directions: Cook fettuccine pasta, toss with Alfredo sauce and grilled chicken strips. Serve with a sprinkle of Parmesan cheese. Try adding a pinch of your favorite spices for extra flavor.
+
+Recipe: Quinoa Salad with Vegetables
+ description: A quick and easy meal, perfect for busy weekdays.
+ servings: 8 servings
+ preparationTime: 30 mins
+ ingredients: to your liking
+ directions: Mix cooked quinoa with diced vegetables, feta cheese, and a lemon olive oil dressing. Try adding a pinch of your favorite spices for extra flavor.
+
+Recipe: Butternut Squash Soup
+ description: A delicious and healthy choice for any time of the day.
+ servings: 1 serving
+ preparationTime: 45 mins
+ ingredients: per individual taste
+ directions: Sauté onions and garlic, add cubed butternut squash and broth. Puree until smooth and season with nutmeg, salt, and pepper. Feel free to substitute with ingredients you have on hand.",1,32,32
+android_world/llama-3.3-70b/RecipeAddMultipleRecipesFromImage,android_world,llama-3.3-70b,RecipeAddMultipleRecipesFromImage,single_app,broccoli,Add the recipes from recipes.jpg in Simple Gallery Pro to the Broccoli recipe app.,0,55,55
+android_world/llama-3.3-70b/RecipeAddMultipleRecipesFromMarkor,android_world,llama-3.3-70b,RecipeAddMultipleRecipesFromMarkor,single_app,broccoli,Add the recipes from recipes.txt in Markor to the Broccoli recipe app.,0,28,28
+android_world/llama-3.3-70b/RecipeAddMultipleRecipesFromMarkor2,android_world,llama-3.3-70b,RecipeAddMultipleRecipesFromMarkor2,single_app,broccoli,Add the recipes from recipes.txt in Markor that take 10 mins to prepare into the Broccoli recipe app.,0,25,25
+android_world/llama-3.3-70b/RecipeAddSingleRecipe,android_world,llama-3.3-70b,RecipeAddSingleRecipe,single_app,broccoli,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.",1,11,11
+android_world/llama-3.3-70b/RecipeDeleteDuplicateRecipes,android_world,llama-3.3-70b,RecipeDeleteDuplicateRecipes,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",0,10,11
+android_world/llama-3.3-70b/RecipeDeleteDuplicateRecipes2,android_world,llama-3.3-70b,RecipeDeleteDuplicateRecipes2,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",0,22,22
+android_world/llama-3.3-70b/RecipeDeleteDuplicateRecipes3,android_world,llama-3.3-70b,RecipeDeleteDuplicateRecipes3,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",0,34,35
+android_world/llama-3.3-70b/RecipeDeleteMultipleRecipes,android_world,llama-3.3-70b,RecipeDeleteMultipleRecipes,single_app,broccoli,"Delete the following recipes from Broccoli app: Zucchini Noodles with Pesto, Garlic Butter Shrimp, Lentil Soup.",1,16,16
+android_world/llama-3.3-70b/RecipeDeleteMultipleRecipesWithConstraint,android_world,llama-3.3-70b,RecipeDeleteMultipleRecipesWithConstraint,single_app,broccoli,Delete the recipes from Broccoli app that use black garlic in the directions.,1,14,14
+android_world/llama-3.3-70b/RecipeDeleteMultipleRecipesWithNoise,android_world,llama-3.3-70b,RecipeDeleteMultipleRecipesWithNoise,single_app,broccoli,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.",1,22,22
+android_world/llama-3.3-70b/RecipeDeleteSingleRecipe,android_world,llama-3.3-70b,RecipeDeleteSingleRecipe,single_app,broccoli,Delete the following recipes from Broccoli app: Thai Peanut Noodle Salad.,1,7,7
+android_world/llama-3.3-70b/RecipeDeleteSingleWithRecipeWithNoise,android_world,llama-3.3-70b,RecipeDeleteSingleWithRecipeWithNoise,single_app,broccoli,Delete the following recipes from Broccoli app: Classic Margherita Pizza.,1,16,16
+android_world/llama-3.3-70b/RetroCreatePlaylist,android_world,llama-3.3-70b,RetroCreatePlaylist,single_app,retro_music,"Create a playlist in Retro Music titled ""Hip Hop Bangers 270"" with the following songs, in order: Golden Days, Dreamer's Awake, Hidden Paths",0,24,25
+android_world/llama-3.3-70b/RetroPlayingQueue,android_world,llama-3.3-70b,RetroPlayingQueue,single_app,retro_music,"Add the following songs, in order, Through the Storm, Hidden Paths, Forever Young, Whispers of the Past, Heartbeat Away to my playing queue in Retro music.",0,9,9
+android_world/ui-tars-72b/ClockStopWatchRunning,android_world,ui-tars-72b,ClockStopWatchRunning,single_app,clock,Run the stopwatch.,1,5,6
+android_world/ui-tars-72b/ClockTimerEntry,android_world,ui-tars-72b,ClockTimerEntry,single_app,clock,"Create a timer with 0 hours, 16 minutes, and 35 seconds. Do not start the timer.",1,7,8
+android_world/ui-tars-72b/ContactsAddContact,android_world,ui-tars-72b,ContactsAddContact,single_app,contacts,Create a new contact for Hugo Pereira. Their number is +13920741751.,1,11,12
+android_world/ui-tars-72b/ContactsNewContactDraft,android_world,ui-tars-72b,ContactsNewContactDraft,single_app,contacts,"Go to the new contact screen and enter the following details: First Name: Grace, Last Name: Taylor, Phone: 799-802-1530, Phone Label: Work. Do NOT hit save.",1,12,13
+android_world/ui-tars-72b/ExpenseAddMultiple,android_world,ui-tars-72b,ExpenseAddMultiple,single_app,pro_expense,"Add the following expenses into the pro expense:
+Expense: Social Club Dues
+ amount_dollars: $67.41
+ category_name: Social
+ note: Monthly recurring
+
+Expense: Legal Fees
+ amount_dollars: $10.14
+ category_name: Others
+ note: Monthly recurring
+
+Expense: Stationery
+ amount_dollars: $118.93
+ category_name: Others
+ note: Remember to transfer funds",0,26,27
+android_world/ui-tars-72b/ExpenseAddMultipleFromGallery,android_world,ui-tars-72b,ExpenseAddMultipleFromGallery,single_app,pro_expense,Add the expenses from expenses.jpg in Simple Gallery Pro to pro expense.,0,18,19
+android_world/ui-tars-72b/ExpenseAddMultipleFromMarkor,android_world,ui-tars-72b,ExpenseAddMultipleFromMarkor,single_app,pro_expense,Go through the transactions in my_expenses.txt in Markor. Log the reimbursable transactions in the pro expense.,0,60,61
+android_world/ui-tars-72b/ExpenseAddSingle,android_world,ui-tars-72b,ExpenseAddSingle,single_app,pro_expense,"Add the following expenses into the pro expense:
+Expense: Therapy Sessions
+ amount_dollars: $307.01
+ category_name: Health Care
+ note: I may repeat this",0,7,8
+android_world/ui-tars-72b/ExpenseDeleteDuplicates,android_world,ui-tars-72b,ExpenseDeleteDuplicates,single_app,pro_expense,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains.",1,7,8
+android_world/ui-tars-72b/ExpenseDeleteDuplicates2,android_world,ui-tars-72b,ExpenseDeleteDuplicates2,single_app,pro_expense,"Delete all but one of any expenses in pro expense that are exact duplicates, ensuring at least one instance of each unique expense remains.",0,7,8
+android_world/ui-tars-72b/ExpenseDeleteMultiple,android_world,ui-tars-72b,ExpenseDeleteMultiple,single_app,pro_expense,"Delete the following expenses from pro expense: Ride-Sharing, Flight Tickets, Taxi Fare.",1,11,12
+android_world/ui-tars-72b/ExpenseDeleteMultiple2,android_world,ui-tars-72b,ExpenseDeleteMultiple2,single_app,pro_expense,"Delete the following expenses from pro expense: Streaming Services, Unexpected Expenses, Pet Supplies.",1,14,15
+android_world/ui-tars-72b/ExpenseDeleteSingle,android_world,ui-tars-72b,ExpenseDeleteSingle,single_app,pro_expense,Delete the following expenses from pro expense: Rental Income.,1,5,6
+android_world/ui-tars-72b/FilesDeleteFile,android_world,ui-tars-72b,FilesDeleteFile,single_app,files,Delete the file q2a8_fancy_banana.mp3 from the Android filesystem located in the Notifications folder within the sdk_gphone_x86_64 storage area.,0,8,9
+android_world/ui-tars-72b/FilesMoveFile,android_world,ui-tars-72b,FilesMoveFile,single_app,files,Move the file holiday_photos.jpg from Podcasts within the sdk_gphone_x86_64 storage area to the DCIM within the same sdk_gphone_x86_64 storage area in the Android filesystem.,0,11,12
+android_world/ui-tars-72b/MarkorAddNoteHeader,android_world,ui-tars-72b,MarkorAddNoteHeader,single_app,markor,"Update the Markor note 2023_08_10_neat_wolf.txt by adding the following text, along with a new blank line before the existing content: ""RnI8sP34yDzJQbvkfplR"", and rename it to busy_wolf_2023_07_23.txt.",0,12,13
+android_world/ui-tars-72b/MarkorChangeNoteContent,android_world,ui-tars-72b,MarkorChangeNoteContent,single_app,markor,"Update the content of strong_jacket_h1hZ.txt to ""inNqu8UNNtyXBHCZpYp7"" in Markor and change its name to lively_fox_2023_03_22.md.",0,12,13
+android_world/ui-tars-72b/MarkorCreateFolder,android_world,ui-tars-72b,MarkorCreateFolder,single_app,markor,Create a new folder in Markor named folder_20251025_002729.,0,7,8
+android_world/ui-tars-72b/MarkorCreateNote,android_world,ui-tars-72b,MarkorCreateNote,single_app,markor,Create a new note in Markor named 2023_01_26_wise_yacht.md with the following text: Ignorance is bliss.,0,13,14
+android_world/ui-tars-72b/MarkorCreateNoteAndSms,android_world,ui-tars-72b,MarkorCreateNoteAndSms,single_app,markor,Create a new note in Markor named fair_ant_XOdi.txt with the following text: Actions speak louder than words.. Share the entire content of the note with the phone number +13192815309 via SMS using Simple SMS Messenger,0,18,19
+android_world/ui-tars-72b/MarkorCreateNoteFromClipboard,android_world,ui-tars-72b,MarkorCreateNoteFromClipboard,single_app,markor,Create a note in Markor named 2023_09_08_active_umbrella.txt. Perform a paste operation in the note and save the note.,0,14,15
+android_world/ui-tars-72b/MarkorDeleteAllNotes,android_world,ui-tars-72b,MarkorDeleteAllNotes,single_app,markor,Delete all my notes in Markor.,0,11,12
+android_world/ui-tars-72b/MarkorDeleteNewestNote,android_world,ui-tars-72b,MarkorDeleteNewestNote,single_app,markor,Delete the newest note in Markor.,0,10,11
+android_world/ui-tars-72b/MarkorDeleteNote,android_world,ui-tars-72b,MarkorDeleteNote,single_app,markor,Delete the note in Markor named bold_king_edited.,1,7,8
+android_world/ui-tars-72b/MarkorEditNote,android_world,ui-tars-72b,MarkorEditNote,single_app,markor,"Edit note_SiFbv.txt in Markor. Add to the top of the note Hello, World!",0,9,10
+android_world/ui-tars-72b/MarkorMergeNotes,android_world,ui-tars-72b,MarkorMergeNotes,single_app,markor,"Merge the contents of Markor notes tough_frog_2023_08_05.txt, proud_cat_edited.txt and 2023_08_21_friendly_koala.md (in the same order) into a new Markor note named mIObBbo4 and save it. Add a new line between the content of each note.",0,78,79
+android_world/ui-tars-72b/MarkorMoveNote,android_world,ui-tars-72b,MarkorMoveNote,single_app,markor,"In Markor, move the note shy_king_copy.md from StudyGuides to MeetingMinutes.",0,14,15
+android_world/ui-tars-72b/MarkorTranscribeReceipt,android_world,ui-tars-72b,MarkorTranscribeReceipt,single_app,markor,"Create a file in Markor, called receipt.md with the transactions from the receipt.png. Use Simple Gallery to view the receipt. Please enter transactions in csv format including the header ""Date, Item, Amount"".",0,18,19
+android_world/ui-tars-72b/MarkorTranscribeVideo,android_world,ui-tars-72b,MarkorTranscribeVideo,single_app,markor,"Transcribe the contents of video ZwUN_moment_70_.mp4 by watching it in VLC player (located in Download) and writing the sequence of strings shown on each frame to the text file ZwUN_moment_70__transcription.txt in Markor as a comma separated list. For example, if the first frame shows the text ""edna"" and the second frame shows the text ""pineapple"", then the text file should contain only the following text: ""edna, pineapple"".",0,20,21
+android_world/ui-tars-72b/NotesIsTodo,android_world,ui-tars-72b,NotesIsTodo,single_app,joplin,Is the note titled 'To-Do List' in the Joplin app marked as a todo item? Respond with either 'True' if it is a todo or 'False' if not.,0,10,11
+android_world/ui-tars-72b/NotesMeetingAttendeeCount,android_world,ui-tars-72b,NotesMeetingAttendeeCount,single_app,joplin,How many attendees were present in the meeting titled 'Employee Performance Evaluation' in the Joplin app? Express your answer as just a single number.,1,7,8
+android_world/ui-tars-72b/NotesRecipeIngredientCount,android_world,ui-tars-72b,NotesRecipeIngredientCount,single_app,joplin,What quantity of spirulina do I need for the recipe 'Chicken Alfredo' in the Joplin app? Express your answer in the format <amount> <unit> where both the amount and unit exactly match the format in the recipe.,1,9,10
+android_world/ui-tars-72b/NotesTodoItemCount,android_world,ui-tars-72b,NotesTodoItemCount,single_app,joplin,How many to-dos do I have in the 'Ideas' folder in the Joplin app? Express your answer as just a single number.,1,5,6
+android_world/ui-tars-72b/OpenAppTaskEval,android_world,ui-tars-72b,OpenAppTaskEval,single_app,contacts,Open the contacts app. Clear any pop-ups that may appear by granting all permissions that are required.,1,2,3
+android_world/ui-tars-72b/OsmAndFavorite,android_world,ui-tars-72b,OsmAndFavorite,single_app,osmand,"Add a favorite location marker for 47.1303814, 9.5930117 in the OsmAnd maps app.",0,13,14
+android_world/ui-tars-72b/OsmAndTrack,android_world,ui-tars-72b,OsmAndTrack,single_app,osmand,"Save a track with waypoints Schönberg, Liechtenstein, Triesen, Liechtenstein, Bendern, Liechtenstein in the OsmAnd maps app in the same order as listed.",0,29,30
+android_world/ui-tars-72b/RecipeAddMultipleRecipes,android_world,ui-tars-72b,RecipeAddMultipleRecipes,single_app,broccoli,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Alfredo Pasta
+ description: A delicious and healthy choice for any time of the day.
+ servings: 2 servings
+ preparationTime: 10 mins
+ ingredients: as desired
+ directions: Cook fettuccine pasta, toss with Alfredo sauce and grilled chicken strips. Serve with a sprinkle of Parmesan cheese. Try adding a pinch of your favorite spices for extra flavor.
+
+Recipe: Quinoa Salad with Vegetables
+ description: A quick and easy meal, perfect for busy weekdays.
+ servings: 8 servings
+ preparationTime: 30 mins
+ ingredients: to your liking
+ directions: Mix cooked quinoa with diced vegetables, feta cheese, and a lemon olive oil dressing. Try adding a pinch of your favorite spices for extra flavor.
+
+Recipe: Butternut Squash Soup
+ description: A delicious and healthy choice for any time of the day.
+ servings: 1 serving
+ preparationTime: 45 mins
+ ingredients: per individual taste
+ directions: Sauté onions and garlic, add cubed butternut squash and broth. Puree until smooth and season with nutmeg, salt, and pepper. Feel free to substitute with ingredients you have on hand.",0,16,17
+android_world/ui-tars-72b/RecipeAddMultipleRecipesFromImage,android_world,ui-tars-72b,RecipeAddMultipleRecipesFromImage,single_app,broccoli,Add the recipes from recipes.jpg in Simple Gallery Pro to the Broccoli recipe app.,0,6,7
+android_world/ui-tars-72b/RecipeAddMultipleRecipesFromMarkor,android_world,ui-tars-72b,RecipeAddMultipleRecipesFromMarkor,single_app,broccoli,Add the recipes from recipes.txt in Markor to the Broccoli recipe app.,0,60,61
+android_world/ui-tars-72b/RecipeAddMultipleRecipesFromMarkor2,android_world,ui-tars-72b,RecipeAddMultipleRecipesFromMarkor2,single_app,broccoli,Add the recipes from recipes.txt in Markor that take 10 mins to prepare into the Broccoli recipe app.,0,60,61
+android_world/ui-tars-72b/RecipeAddSingleRecipe,android_world,ui-tars-72b,RecipeAddSingleRecipe,single_app,broccoli,"Add the following recipes into the Broccoli app:
+Recipe: Chicken Caesar Salad Wrap
+ description: An ideal recipe for experimenting with different flavors and ingredients.
+ servings: 3-4 servings
+ preparationTime: 2 hrs
+ ingredients: as desired
+ directions: Toss chopped romaine lettuce with Caesar dressing, grilled chicken strips, and Parmesan cheese. Wrap in a large tortilla. Feel free to substitute with ingredients you have on hand.",1,18,19
+android_world/ui-tars-72b/RecipeDeleteDuplicateRecipes,android_world,ui-tars-72b,RecipeDeleteDuplicateRecipes,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",0,7,8
+android_world/ui-tars-72b/RecipeDeleteDuplicateRecipes2,android_world,ui-tars-72b,RecipeDeleteDuplicateRecipes2,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",0,24,25
+android_world/ui-tars-72b/RecipeDeleteDuplicateRecipes3,android_world,ui-tars-72b,RecipeDeleteDuplicateRecipes3,single_app,broccoli,"Delete all but one of any recipes in the Broccoli app that are exact duplicates, ensuring at least one instance of each unique recipe remains",0,34,35
+android_world/ui-tars-72b/RecipeDeleteMultipleRecipes,android_world,ui-tars-72b,RecipeDeleteMultipleRecipes,single_app,broccoli,"Delete the following recipes from Broccoli app: Zucchini Noodles with Pesto, Garlic Butter Shrimp, Lentil Soup.",1,15,16
+android_world/ui-tars-72b/RecipeDeleteMultipleRecipesWithNoise,android_world,ui-tars-72b,RecipeDeleteMultipleRecipesWithNoise,single_app,broccoli,"Delete the following recipes from Broccoli app: Chicken Alfredo Pasta, Tomato Basil Bruschetta, Grilled Cheese with Tomato and Basil.",0,34,35
+android_world/ui-tars-72b/RecipeDeleteSingleRecipe,android_world,ui-tars-72b,RecipeDeleteSingleRecipe,single_app,broccoli,Delete the following recipes from Broccoli app: Thai Peanut Noodle Salad.,1,6,7
+android_world/ui-tars-72b/RecipeDeleteSingleWithRecipeWithNoise,android_world,ui-tars-72b,RecipeDeleteSingleWithRecipeWithNoise,single_app,broccoli,Delete the following recipes from Broccoli app: Classic Margherita Pizza.,1,9,10
+android_world/ui-tars-72b/RetroCreatePlaylist,android_world,ui-tars-72b,RetroCreatePlaylist,single_app,retro_music,"Create a playlist in Retro Music titled ""Hip Hop Bangers 270"" with the following songs, in order: Golden Days, Dreamer's Awake, Hidden Paths",0,24,25
+android_world/ui-tars-72b/RetroPlayingQueue,android_world,ui-tars-72b,RetroPlayingQueue,single_app,retro_music,"Add the following songs, in order, Through the Storm, Hidden Paths, Forever Young, Whispers of the Past, Heartbeat Away to my playing queue in Retro music.",0,14,15
+a3/gpt-5-mini/CNN_task3,a3,gpt-5-mini,CNN_task3,single_app,cnn,What is the current headline in the top news.,0,2,2
+a3/gpt-5-mini/CNN_task4,a3,gpt-5-mini,CNN_task4,single_app,cnn,What is the current headline in U.S. politics.,0,15,16
+a3/gpt-5-mini/CNN_task5,a3,gpt-5-mini,CNN_task5,single_app,cnn,Open the current headline in U.S. politics in CNN.,1,10,10
+a3/gpt-5-mini/Gmail_task7,a3,gpt-5-mini,Gmail_task7,single_app,gmail,Open the Settings in Gmail and tell me all email accounts.,1,5,5
+a3/gpt-5-mini/Gmail_task8,a3,gpt-5-mini,Gmail_task8,single_app,gmail,Open the first e-mail in Gmail and retrieve its content.,1,6,6
+a3/gpt-5-mini/Gmail_task9,a3,gpt-5-mini,Gmail_task9,single_app,gmail,"View the first email in Gmail, open the sender's profile, and retrieve their email address.",1,8,8
+a3/gpt-5-mini/GooglePlayBooks_task7,a3,gpt-5-mini,GooglePlayBooks_task7,single_app,google_play_books,Open wishlist in Google Play Books and sort items by price,1,6,6
+a3/gpt-5-mini/GooglePlayBooks_task8,a3,gpt-5-mini,GooglePlayBooks_task8,single_app,google_play_books,Open 'shelves' in Google Play Books.,1,5,5
+a3/gpt-5-mini/GooglePlayBooks_task9,a3,gpt-5-mini,GooglePlayBooks_task9,single_app,google_play_books,"Open Google play books and tell me what is the top selling book now, who is the author, what is its overall rating and how much is it.",1,8,8
+a3/gpt-5-mini/YTmusic_task12,a3,gpt-5-mini,YTmusic_task12,single_app,youtube_music,"Search for the song 'Bad Guy' in YouTube Music. Tell me who is the singer, how long it lasts, and how many times it has been played.",0,15,16
+a3/gpt-5-mini/YTmusic_task13,a3,gpt-5-mini,YTmusic_task13,single_app,youtube_music,Find the Top Song on the YouTube Music 'Video Global Chart',1,8,8
+a3/gpt-5-mini/YTmusic_task14,a3,gpt-5-mini,YTmusic_task14,single_app,youtube_music,How long is the duration of the current playing song on YouTube Music.,0,3,3
+a3/gpt-5-mini/YTmusic_task15,a3,gpt-5-mini,YTmusic_task15,single_app,youtube_music,"In Youtube music, evaluates the top 3 songs from Taylor Swift's '1989' album with their comment counts, tell me which one is the highest",0,20,21
+a3/gpt-5-mini/bluecoins_task10,a3,gpt-5-mini,bluecoins_task10,single_app,bluecoins,Clear the 'Trash' section in bluecoins app.,1,4,4
+a3/gpt-5-mini/bluecoins_task11,a3,gpt-5-mini,bluecoins_task11,single_app,bluecoins,Find settings in bluecoins app.,1,4,4
+a3/gpt-5-mini/bluecoins_task9,a3,gpt-5-mini,bluecoins_task9,single_app,bluecoins,What is the most recently deleted transaction in the bluecoins app?,1,15,16
+a3/gpt-5-mini/booking_task11,a3,gpt-5-mini,booking_task11,single_app,booking,"Open booking.com and search for one-way flights for 1 adault, economy class from Hong Kong to London on Aug 31. Which flight is the cheapest? How much is it?",0,25,26
+a3/gpt-5-mini/booking_task12,a3,gpt-5-mini,booking_task12,single_app,booking,"In Booking.com, search for one night stay for one-bed room at Hilton Gardon Inn Hong Kong in the next week. Which day is the cheapest? How much is it?",1,25,26
+a3/gpt-5-mini/coursera_task11,a3,gpt-5-mini,coursera_task11,single_app,coursera,Open 'Downloads' section tab in coursera. How much storage does it take.,1,15,16
+a3/gpt-5-mini/coursera_task12,a3,gpt-5-mini,coursera_task12,single_app,coursera,"Open 'Downloads' section tab in coursera, and delete all downloaded items to ensure the 'download' tab is empty.",1,6,6
+a3/gpt-5-mini/fitbit_task10,a3,gpt-5-mini,fitbit_task10,single_app,fitbit,"Start an exercise in Fitbit, then select 'Walk' to begin the activity.",1,7,7
+a3/gpt-5-mini/fitbit_task11,a3,gpt-5-mini,fitbit_task11,single_app,fitbit,Report today's calorie consumption from Fitbit.,1,4,4
+a3/gpt-5-mini/fitbit_task12,a3,gpt-5-mini,fitbit_task12,single_app,fitbit,Report today's running distance in kilometers from Fitbit.,1,15,16
+a3/gpt-5-mini/google_calendar_task8,a3,gpt-5-mini,google_calendar_task8,single_app,google_calendar,Check the number of scheduled items for December 25 in Google Calendar.,0,15,15
+a3/gpt-5-mini/google_play_task6,a3,gpt-5-mini,google_play_task6,single_app,google_play,what is the number of new notifications in the Google Play Notifications section.,1,20,21
+a3/gpt-5-mini/google_play_task7,a3,gpt-5-mini,google_play_task7,single_app,google_play,What is the top-ranked app in Google Play's paid Top Charts.,1,7,7
+a3/gpt-5-mini/google_play_task8,a3,gpt-5-mini,google_play_task8,single_app,google_play,Retrieve the download counts of the top 3 paid apps from the Google Play charts,0,20,21
+a3/gpt-5-mini/instagram_task6,a3,gpt-5-mini,instagram_task6,single_app,instagram,"In Instagram, go to 'my following' section and then select 'Taylor Swift' and like her latest post. How many likes are there for the post?",1,19,19
+a3/gpt-5-mini/instagram_task7,a3,gpt-5-mini,instagram_task7,single_app,instagram,"In Instagram, post a photo in the album with any text.",1,9,9
+a3/gpt-5-mini/quora_task5,a3,gpt-5-mini,quora_task5,single_app,quora,"On the Quora space page, select all spaces I might like.",1,20,21
+a3/gpt-5-mini/quora_task8,a3,gpt-5-mini,quora_task8,single_app,quora,"In Quora, navigate to Adam D'Angelo's profile and follow him",1,9,9
+a3/gpt-5-mini/smart_news_task6,a3,gpt-5-mini,smart_news_task6,single_app,smart_news,What is the release time of the headline of the top news in SmartNews,1,4,4
+a3/gpt-5-mini/smart_news_task9,a3,gpt-5-mini,smart_news_task9,single_app,smart_news,Retrieve the names of all sections in the SmartNews personalized news section.,1,16,16
+a3/gpt-5-mini/target_task8,a3,gpt-5-mini,target_task8,single_app,target,"After sorting by 'Best selling', retrieve the name and price of the first sausage in Target.",1,9,9
+a3/gpt-5-mini/wish_task6,a3,gpt-5-mini,wish_task6,single_app,wish,Navigate to 'recently viewed' in Wish app,1,8,8
+a3/gpt-5-mini/wish_task7,a3,gpt-5-mini,wish_task7,single_app,wish,"In wish app, go to 'best sellers'. Choose the first item and view comments, then tell me the overall rating",1,8,8
+a3/gpt-5-mini/wish_task8,a3,gpt-5-mini,wish_task8,single_app,wish,Go to 'best sellers' in Wish app and then choose the first item. Finally go to 'related items'.,1,10,10
+a3/gpt-5-mini/yelp_task4,a3,gpt-5-mini,yelp_task4,single_app,yelp,"IN Yelp, search for 'burger' at current location. Then sort results by distance and filter by 'open at 11:00 pm'",1,16,16
+a3/gpt-5-mini/yelp_task5,a3,gpt-5-mini,yelp_task5,single_app,yelp,"Search for burger at current location in Yelp, and filter results by 'good for kids'",1,12,12
+a3/gpt-5-mini/yelp_task6,a3,gpt-5-mini,yelp_task6,single_app,yelp,"In yelp, find home cleanning around current location. What is the overall rating of first result?",1,20,21
+a3/gpt-5-mini/yelp_task7,a3,gpt-5-mini,yelp_task7,single_app,yelp,Open the 'collections' section tab in Yelp,1,3,3
+a3/gpt-5-mini/youtube_task10,a3,gpt-5-mini,youtube_task10,single_app,youtube,Get the latest video titles of the top 3 YouTubers from the subscriptions page,1,10,10
+a3/gpt-5-mini/youtube_task7,a3,gpt-5-mini,youtube_task7,single_app,youtube,Open the comments section in a YouTube Shorts video and like the first comment.,0,11,11
+a3/gpt-5-mini/youtube_task8,a3,gpt-5-mini,youtube_task8,single_app,youtube,Provide details about the most recent video from my YouTube subscriptions.,1,15,16
+a3/gpt-5-mini/youtube_task9,a3,gpt-5-mini,youtube_task9,single_app,youtube,Open the Shorts section on YouTube and tell me the number of comments on the currently playing video.,1,4,4
+a3/qwen2.5-vl-72b/CNN_task3,a3,qwen2.5-vl-72b,CNN_task3,single_app,cnn,What is the current headline in the top news.,1,3,3
+a3/qwen2.5-vl-72b/CNN_task4,a3,qwen2.5-vl-72b,CNN_task4,single_app,cnn,What is the current headline in U.S. politics.,0,6,6
+a3/qwen2.5-vl-72b/CNN_task5,a3,qwen2.5-vl-72b,CNN_task5,single_app,cnn,Open the current headline in U.S. politics in CNN.,0,10,10
+a3/qwen2.5-vl-72b/Gmail_task7,a3,qwen2.5-vl-72b,Gmail_task7,single_app,gmail,Open the Settings in Gmail and tell me all email accounts.,1,5,5
+a3/qwen2.5-vl-72b/Gmail_task8,a3,qwen2.5-vl-72b,Gmail_task8,single_app,gmail,Open the first e-mail in Gmail and retrieve its content.,0,3,3
+a3/qwen2.5-vl-72b/Gmail_task9,a3,qwen2.5-vl-72b,Gmail_task9,single_app,gmail,"View the first email in Gmail, open the sender's profile, and retrieve their email address.",1,4,4
+a3/qwen2.5-vl-72b/GooglePlayBooks_task7,a3,qwen2.5-vl-72b,GooglePlayBooks_task7,single_app,google_play_books,Open wishlist in Google Play Books and sort items by price,0,7,7
+a3/qwen2.5-vl-72b/GooglePlayBooks_task8,a3,qwen2.5-vl-72b,GooglePlayBooks_task8,single_app,google_play_books,Open 'shelves' in Google Play Books.,1,4,4
+a3/qwen2.5-vl-72b/GooglePlayBooks_task9,a3,qwen2.5-vl-72b,GooglePlayBooks_task9,single_app,google_play_books,"Open Google play books and tell me what is the top selling book now, who is the author, what is its overall rating and how much is it.",1,4,4
+a3/qwen2.5-vl-72b/YTmusic_task12,a3,qwen2.5-vl-72b,YTmusic_task12,single_app,youtube_music,"Search for the song 'Bad Guy' in YouTube Music. Tell me who is the singer, how long it lasts, and how many times it has been played.",0,6,6
+a3/qwen2.5-vl-72b/YTmusic_task13,a3,qwen2.5-vl-72b,YTmusic_task13,single_app,youtube_music,Find the Top Song on the YouTube Music 'Video Global Chart',0,10,10
+a3/qwen2.5-vl-72b/YTmusic_task15,a3,qwen2.5-vl-72b,YTmusic_task15,single_app,youtube_music,"In Youtube music, evaluates the top 3 songs from Taylor Swift's '1989' album with their comment counts, tell me which one is the highest",0,6,6
+a3/qwen2.5-vl-72b/bluecoins_task10,a3,qwen2.5-vl-72b,bluecoins_task10,single_app,bluecoins,Clear the 'Trash' section in bluecoins app.,1,4,4
+a3/qwen2.5-vl-72b/bluecoins_task11,a3,qwen2.5-vl-72b,bluecoins_task11,single_app,bluecoins,Find settings in bluecoins app.,1,5,5
+a3/qwen2.5-vl-72b/bluecoins_task9,a3,qwen2.5-vl-72b,bluecoins_task9,single_app,bluecoins,What is the most recently deleted transaction in the bluecoins app?,0,3,3
+a3/qwen2.5-vl-72b/booking_task10,a3,qwen2.5-vl-72b,booking_task10,single_app,booking,"In booking.com, search for one-way flights for 1 adault, economy class from Hong Kong to Beijing for the next 3 days starting from Aug 30. What is the lowest price and on which date?",0,20,21
+a3/qwen2.5-vl-72b/booking_task11,a3,qwen2.5-vl-72b,booking_task11,single_app,booking,"Open booking.com and search for one-way flights for 1 adault, economy class from Hong Kong to London on Aug 31. Which flight is the cheapest? How much is it?",0,18,18
+a3/qwen2.5-vl-72b/fitbit_task10,a3,qwen2.5-vl-72b,fitbit_task10,single_app,fitbit,"Start an exercise in Fitbit, then select 'Walk' to begin the activity.",1,9,9
+a3/qwen2.5-vl-72b/fitbit_task11,a3,qwen2.5-vl-72b,fitbit_task11,single_app,fitbit,Report today's calorie consumption from Fitbit.,1,7,7
+a3/qwen2.5-vl-72b/google_calendar_task10,a3,qwen2.5-vl-72b,google_calendar_task10,single_app,google_calendar,Count the total number of tasks and events for December in Google Calendar.,1,5,5
+a3/qwen2.5-vl-72b/google_maps_task7,a3,qwen2.5-vl-72b,google_maps_task7,single_app,google_maps,Tell me where is and how far is the nearest McDonald's on Google Maps.,0,10,11
+a3/qwen2.5-vl-72b/google_maps_task8,a3,qwen2.5-vl-72b,google_maps_task8,single_app,google_maps,Search for 'cafe' in Google Maps and tell me the store names sorted by both Distance and Relevance,0,15,15
+a3/qwen2.5-vl-72b/google_play_task6,a3,qwen2.5-vl-72b,google_play_task6,single_app,google_play,what is the number of new notifications in the Google Play Notifications section.,0,4,4
+a3/qwen2.5-vl-72b/google_play_task8,a3,qwen2.5-vl-72b,google_play_task8,single_app,google_play,Retrieve the download counts of the top 3 paid apps from the Google Play charts,0,15,16
+a3/qwen2.5-vl-72b/quora_task6,a3,qwen2.5-vl-72b,quora_task6,single_app,quora,Search for 'Artificial Intelligence' in Quora. And set filter to show topics only.,1,8,8
+a3/qwen2.5-vl-72b/quora_task7,a3,qwen2.5-vl-72b,quora_task7,single_app,quora,Search for 'Artificial Intelligence' on Quora and set filter to show topics only. Then follow the topic 'Artificial Intellegence'.,0,4,4
+a3/qwen2.5-vl-72b/quora_task8,a3,qwen2.5-vl-72b,quora_task8,single_app,quora,"In Quora, navigate to Adam D'Angelo's profile and follow him",1,5,5
+a3/qwen2.5-vl-72b/smart_news_task6,a3,qwen2.5-vl-72b,smart_news_task6,single_app,smart_news,What is the release time of the headline of the top news in SmartNews,1,4,4
+a3/qwen2.5-vl-72b/smart_news_task7,a3,qwen2.5-vl-72b,smart_news_task7,single_app,smart_news,What is the headline of the top news in the Sports section in SmartNews.,1,10,10
+a3/qwen2.5-vl-72b/smart_news_task9,a3,qwen2.5-vl-72b,smart_news_task9,single_app,smart_news,Retrieve the names of all sections in the SmartNews personalized news section.,0,4,4
+a3/qwen2.5-vl-72b/target_task7,a3,qwen2.5-vl-72b,target_task7,single_app,target,Display the barcode in the wallet section for checkout in Target.,1,8,8
+a3/qwen2.5-vl-72b/target_task8,a3,qwen2.5-vl-72b,target_task8,single_app,target,"After sorting by 'Best selling', retrieve the name and price of the first sausage in Target.",1,10,10
+a3/qwen2.5-vl-72b/wish_task6,a3,qwen2.5-vl-72b,wish_task6,single_app,wish,Navigate to 'recently viewed' in Wish app,0,10,10
+a3/qwen2.5-vl-72b/wish_task7,a3,qwen2.5-vl-72b,wish_task7,single_app,wish,"In wish app, go to 'best sellers'. Choose the first item and view comments, then tell me the overall rating",0,6,6
+a3/qwen2.5-vl-72b/wish_task9,a3,qwen2.5-vl-72b,wish_task9,single_app,wish,Navigate to 'best sellers' on Wish app and choose the first item.,1,7,7
+a3/qwen2.5-vl-72b/yelp_task6,a3,qwen2.5-vl-72b,yelp_task6,single_app,yelp,"In yelp, find home cleanning around current location. What is the overall rating of first result?",1,8,8
+a3/qwen2.5-vl-72b/yelp_task7,a3,qwen2.5-vl-72b,yelp_task7,single_app,yelp,Open the 'collections' section tab in Yelp,1,4,4
+a3/qwen2.5-vl-72b/youtube_task10,a3,qwen2.5-vl-72b,youtube_task10,single_app,youtube,Get the latest video titles of the top 3 YouTubers from the subscriptions page,0,7,7
+a3/qwen2.5-vl-72b/youtube_task7,a3,qwen2.5-vl-72b,youtube_task7,single_app,youtube,Open the comments section in a YouTube Shorts video and like the first comment.,1,5,5
+a3/qwen2.5-vl-72b/youtube_task8,a3,qwen2.5-vl-72b,youtube_task8,single_app,youtube,Provide details about the most recent video from my YouTube subscriptions.,1,6,6
+a3/qwen2.5-vl-72b/youtube_task9,a3,qwen2.5-vl-72b,youtube_task9,single_app,youtube,Open the Shorts section on YouTube and tell me the number of comments on the currently playing video.,1,4,4
+a3/llama-3.3-70b/CNN_task3,a3,llama-3.3-70b,CNN_task3,single_app,cnn,What is the current headline in the top news.,1,8,8
+a3/llama-3.3-70b/Gmail_task8,a3,llama-3.3-70b,Gmail_task8,single_app,gmail,Open the first e-mail in Gmail and retrieve its content.,1,6,6
+a3/llama-3.3-70b/Gmail_task9,a3,llama-3.3-70b,Gmail_task9,single_app,gmail,"View the first email in Gmail, open the sender's profile, and retrieve their email address.",1,6,6
+a3/llama-3.3-70b/GoogleTasks_task8,a3,llama-3.3-70b,GoogleTasks_task8,single_app,google_tasks,Delete the 'Python Assignment1' task under 'Homework' list in Google Tasks.,0,12,12
+a3/llama-3.3-70b/YTmusic_task12,a3,llama-3.3-70b,YTmusic_task12,single_app,youtube_music,"Search for the song 'Bad Guy' in YouTube Music. Tell me who is the singer, how long it lasts, and how many times it has been played.",0,9,9
+a3/llama-3.3-70b/YTmusic_task13,a3,llama-3.3-70b,YTmusic_task13,single_app,youtube_music,Find the Top Song on the YouTube Music 'Video Global Chart',0,6,6
+a3/llama-3.3-70b/YTmusic_task14,a3,llama-3.3-70b,YTmusic_task14,single_app,youtube_music,How long is the duration of the current playing song on YouTube Music.,0,9,9
+a3/llama-3.3-70b/YTmusic_task15,a3,llama-3.3-70b,YTmusic_task15,single_app,youtube_music,"In Youtube music, evaluates the top 3 songs from Taylor Swift's '1989' album with their comment counts, tell me which one is the highest",0,12,12
+a3/llama-3.3-70b/google_calendar_task8,a3,llama-3.3-70b,google_calendar_task8,single_app,google_calendar,Check the number of scheduled items for December 25 in Google Calendar.,0,6,6
+a3/llama-3.3-70b/google_maps_task7,a3,llama-3.3-70b,google_maps_task7,single_app,google_maps,Tell me where is and how far is the nearest McDonald's on Google Maps.,0,9,9
+a3/llama-3.3-70b/google_play_task6,a3,llama-3.3-70b,google_play_task6,single_app,google_play,what is the number of new notifications in the Google Play Notifications section.,1,15,16
+a3/llama-3.3-70b/google_play_task8,a3,llama-3.3-70b,google_play_task8,single_app,google_play,Retrieve the download counts of the top 3 paid apps from the Google Play charts,0,12,12
+a3/llama-3.3-70b/instagram_task6,a3,llama-3.3-70b,instagram_task6,single_app,instagram,"In Instagram, go to 'my following' section and then select 'Taylor Swift' and like her latest post. How many likes are there for the post?",0,20,21
+a3/llama-3.3-70b/quora_task6,a3,llama-3.3-70b,quora_task6,single_app,quora,Search for 'Artificial Intelligence' in Quora. And set filter to show topics only.,1,11,11
+a3/llama-3.3-70b/quora_task7,a3,llama-3.3-70b,quora_task7,single_app,quora,Search for 'Artificial Intelligence' on Quora and set filter to show topics only. Then follow the topic 'Artificial Intellegence'.,1,8,8
+a3/llama-3.3-70b/smart_news_task6,a3,llama-3.3-70b,smart_news_task6,single_app,smart_news,What is the release time of the headline of the top news in SmartNews,0,10,11
+a3/llama-3.3-70b/smart_news_task7,a3,llama-3.3-70b,smart_news_task7,single_app,smart_news,What is the headline of the top news in the Sports section in SmartNews.,0,10,11
+a3/llama-3.3-70b/smart_news_task9,a3,llama-3.3-70b,smart_news_task9,single_app,smart_news,Retrieve the names of all sections in the SmartNews personalized news section.,0,2,2
+a3/llama-3.3-70b/target_task6,a3,llama-3.3-70b,target_task6,single_app,target,"In Target, remove all items from the Delivery section of the shopping cart.",0,3,3
+a3/llama-3.3-70b/wish_task7,a3,llama-3.3-70b,wish_task7,single_app,wish,"In wish app, go to 'best sellers'. Choose the first item and view comments, then tell me the overall rating",0,7,7
+a3/llama-3.3-70b/wish_task8,a3,llama-3.3-70b,wish_task8,single_app,wish,Go to 'best sellers' in Wish app and then choose the first item. Finally go to 'related items'.,1,5,5
+a3/llama-3.3-70b/wish_task9,a3,llama-3.3-70b,wish_task9,single_app,wish,Navigate to 'best sellers' on Wish app and choose the first item.,1,10,11
+a3/llama-3.3-70b/yelp_task5,a3,llama-3.3-70b,yelp_task5,single_app,yelp,"Search for burger at current location in Yelp, and filter results by 'good for kids'",0,7,7
+a3/llama-3.3-70b/yelp_task6,a3,llama-3.3-70b,yelp_task6,single_app,yelp,"In yelp, find home cleanning around current location. What is the overall rating of first result?",0,15,16
+a3/llama-3.3-70b/yelp_task7,a3,llama-3.3-70b,yelp_task7,single_app,yelp,Open the 'collections' section tab in Yelp,1,5,5
+a3/llama-3.3-70b/youtube_task10,a3,llama-3.3-70b,youtube_task10,single_app,youtube,Get the latest video titles of the top 3 YouTubers from the subscriptions page,0,15,16
+a3/llama-3.3-70b/youtube_task7,a3,llama-3.3-70b,youtube_task7,single_app,youtube,Open the comments section in a YouTube Shorts video and like the first comment.,1,12,12
+a3/llama-3.3-70b/youtube_task9,a3,llama-3.3-70b,youtube_task9,single_app,youtube,Open the Shorts section on YouTube and tell me the number of comments on the currently playing video.,0,12,12
+a3/ui-tars-72b/CNN_task3,a3,ui-tars-72b,CNN_task3,single_app,cnn,What is the current headline in the top news.,1,10,11
+a3/ui-tars-72b/CNN_task4,a3,ui-tars-72b,CNN_task4,single_app,cnn,What is the current headline in U.S. politics.,0,10,11
+a3/ui-tars-72b/CNN_task5,a3,ui-tars-72b,CNN_task5,single_app,cnn,Open the current headline in U.S. politics in CNN.,0,10,11
+a3/ui-tars-72b/Gmail_task7,a3,ui-tars-72b,Gmail_task7,single_app,gmail,Open the Settings in Gmail and tell me all email accounts.,1,5,6
+a3/ui-tars-72b/Gmail_task8,a3,ui-tars-72b,Gmail_task8,single_app,gmail,Open the first e-mail in Gmail and retrieve its content.,1,4,5
+a3/ui-tars-72b/Gmail_task9,a3,ui-tars-72b,Gmail_task9,single_app,gmail,"View the first email in Gmail, open the sender's profile, and retrieve their email address.",1,7,8
+a3/ui-tars-72b/YTmusic_task12,a3,ui-tars-72b,YTmusic_task12,single_app,youtube_music,"Search for the song 'Bad Guy' in YouTube Music. Tell me who is the singer, how long it lasts, and how many times it has been played.",0,6,7
+a3/ui-tars-72b/YTmusic_task13,a3,ui-tars-72b,YTmusic_task13,single_app,youtube_music,Find the Top Song on the YouTube Music 'Video Global Chart',0,10,11
+a3/ui-tars-72b/YTmusic_task14,a3,ui-tars-72b,YTmusic_task14,single_app,youtube_music,How long is the duration of the current playing song on YouTube Music.,0,5,6
+a3/ui-tars-72b/YTmusic_task15,a3,ui-tars-72b,YTmusic_task15,single_app,youtube_music,"In Youtube music, evaluates the top 3 songs from Taylor Swift's '1989' album with their comment counts, tell me which one is the highest",0,15,16
+a3/ui-tars-72b/bluecoins_task10,a3,ui-tars-72b,bluecoins_task10,single_app,bluecoins,Clear the 'Trash' section in bluecoins app.,1,4,5
+a3/ui-tars-72b/bluecoins_task11,a3,ui-tars-72b,bluecoins_task11,single_app,bluecoins,Find settings in bluecoins app.,1,4,5
+a3/ui-tars-72b/bluecoins_task9,a3,ui-tars-72b,bluecoins_task9,single_app,bluecoins,What is the most recently deleted transaction in the bluecoins app?,1,5,6
+a3/ui-tars-72b/booking_task10,a3,ui-tars-72b,booking_task10,single_app,booking,"In booking.com, search for one-way flights for 1 adault, economy class from Hong Kong to Beijing for the next 3 days starting from Aug 30. What is the lowest price and on which date?",0,18,19
+a3/ui-tars-72b/booking_task12,a3,ui-tars-72b,booking_task12,single_app,booking,"In Booking.com, search for one night stay for one-bed room at Hilton Gardon Inn Hong Kong in the next week. Which day is the cheapest? How much is it?",0,16,17
+a3/ui-tars-72b/fitbit_task10,a3,ui-tars-72b,fitbit_task10,single_app,fitbit,"Start an exercise in Fitbit, then select 'Walk' to begin the activity.",1,8,9
+a3/ui-tars-72b/fitbit_task11,a3,ui-tars-72b,fitbit_task11,single_app,fitbit,Report today's calorie consumption from Fitbit.,1,5,6
+a3/ui-tars-72b/fitbit_task12,a3,ui-tars-72b,fitbit_task12,single_app,fitbit,Report today's running distance in kilometers from Fitbit.,0,10,11
+a3/ui-tars-72b/google_maps_task7,a3,ui-tars-72b,google_maps_task7,single_app,google_maps,Tell me where is and how far is the nearest McDonald's on Google Maps.,0,10,11
+a3/ui-tars-72b/google_play_task6,a3,ui-tars-72b,google_play_task6,single_app,google_play,what is the number of new notifications in the Google Play Notifications section.,0,5,6
+a3/ui-tars-72b/google_play_task7,a3,ui-tars-72b,google_play_task7,single_app,google_play,What is the top-ranked app in Google Play's paid Top Charts.,1,5,6
+a3/ui-tars-72b/quora_task5,a3,ui-tars-72b,quora_task5,single_app,quora,"On the Quora space page, select all spaces I might like.",1,15,16
+a3/ui-tars-72b/quora_task6,a3,ui-tars-72b,quora_task6,single_app,quora,Search for 'Artificial Intelligence' in Quora. And set filter to show topics only.,1,7,8
+a3/ui-tars-72b/smart_news_task6,a3,ui-tars-72b,smart_news_task6,single_app,smart_news,What is the release time of the headline of the top news in SmartNews,1,3,4
+a3/ui-tars-72b/smart_news_task7,a3,ui-tars-72b,smart_news_task7,single_app,smart_news,What is the headline of the top news in the Sports section in SmartNews.,1,7,8
+a3/ui-tars-72b/smart_news_task8,a3,ui-tars-72b,smart_news_task8,single_app,smart_news,Search for 'Trump' in SmartNews and retrieves the publishers of the top 3 news articles,1,10,11
+a3/ui-tars-72b/smart_news_task9,a3,ui-tars-72b,smart_news_task9,single_app,smart_news,Retrieve the names of all sections in the SmartNews personalized news section.,0,15,16
+a3/ui-tars-72b/target_task6,a3,ui-tars-72b,target_task6,single_app,target,"In Target, remove all items from the Delivery section of the shopping cart.",1,3,4
+a3/ui-tars-72b/target_task7,a3,ui-tars-72b,target_task7,single_app,target,Display the barcode in the wallet section for checkout in Target.,1,4,5
+a3/ui-tars-72b/target_task8,a3,ui-tars-72b,target_task8,single_app,target,"After sorting by 'Best selling', retrieve the name and price of the first sausage in Target.",1,8,9
+a3/ui-tars-72b/target_task9,a3,ui-tars-72b,target_task9,single_app,target,Retrieve the subtotal and item count from the Cart in Target shopping cart page.,1,3,4
+a3/ui-tars-72b/wish_task6,a3,ui-tars-72b,wish_task6,single_app,wish,Navigate to 'recently viewed' in Wish app,1,4,5
+a3/ui-tars-72b/wish_task7,a3,ui-tars-72b,wish_task7,single_app,wish,"In wish app, go to 'best sellers'. Choose the first item and view comments, then tell me the overall rating",1,9,10
+a3/ui-tars-72b/wish_task8,a3,ui-tars-72b,wish_task8,single_app,wish,Go to 'best sellers' in Wish app and then choose the first item. Finally go to 'related items'.,1,6,7
+a3/ui-tars-72b/wish_task9,a3,ui-tars-72b,wish_task9,single_app,wish,Navigate to 'best sellers' on Wish app and choose the first item.,1,5,6
+a3/ui-tars-72b/yelp_task5,a3,ui-tars-72b,yelp_task5,single_app,yelp,"Search for burger at current location in Yelp, and filter results by 'good for kids'",1,15,16
+a3/ui-tars-72b/yelp_task7,a3,ui-tars-72b,yelp_task7,single_app,yelp,Open the 'collections' section tab in Yelp,1,3,4
+a3/ui-tars-72b/youtube_task10,a3,ui-tars-72b,youtube_task10,single_app,youtube,Get the latest video titles of the top 3 YouTubers from the subscriptions page,0,15,16
+a3/ui-tars-72b/youtube_task7,a3,ui-tars-72b,youtube_task7,single_app,youtube,Open the comments section in a YouTube Shorts video and like the first comment.,1,5,6
+a3/ui-tars-72b/youtube_task9,a3,ui-tars-72b,youtube_task9,single_app,youtube,Open the Shorts section on YouTube and tell me the number of comments on the currently playing video.,1,4,5
+android_arena/gpt-5-mini/calendar_3,android_arena,gpt-5-mini,calendar_3,single_app,google_calendar,"Change the start date of an existing event on Google Calendar with the title ""meeting"" to the 12th of next month.",1,18,18
+android_arena/gpt-5-mini/calendar_5,android_arena,gpt-5-mini,calendar_5,single_app,google_calendar,Present all events on Google Calendar for this week.,0,11,11
+android_arena/gpt-5-mini/calendar_6,android_arena,gpt-5-mini,calendar_6,single_app,google_calendar,Present all events on Google Calendar for this month.,1,20,21
+android_arena/gpt-5-mini/camera_11,android_arena,gpt-5-mini,camera_11,single_app,camera,"Set the resolution to ""HD 720p"" for the Camera.",1,6,6
+android_arena/gpt-5-mini/camera_12,android_arena,gpt-5-mini,camera_12,single_app,camera,"Set the resolution to ""QVGA"" for the Camera.",1,8,8
+android_arena/gpt-5-mini/camera_13,android_arena,gpt-5-mini,camera_13,single_app,camera,Change the timer to 10 seconds for the Camera.,1,5,5
+android_arena/gpt-5-mini/camera_14,android_arena,gpt-5-mini,camera_14,single_app,camera,Change the timer to 3 seconds for the Camera.,1,5,5
+android_arena/gpt-5-mini/clock_11,android_arena,gpt-5-mini,clock_11,single_app,clock,Reset the stopwatch using Google Clock.,1,2,2
+android_arena/gpt-5-mini/clock_12,android_arena,gpt-5-mini,clock_12,single_app,clock,View the current time in London in Google Clock.,1,6,6
+android_arena/gpt-5-mini/clock_13,android_arena,gpt-5-mini,clock_13,single_app,clock,Add a new city Beijing to World Clock in Google Clock.,1,5,5
+android_arena/gpt-5-mini/clock_14,android_arena,gpt-5-mini,clock_14,single_app,clock,Delete the city Beijing to World Clock in Google Clock.,1,19,19
+android_arena/gpt-5-mini/contacts_11,android_arena,gpt-5-mini,contacts_11,single_app,contacts,Sort contacts by first name in Google Contacts.,1,14,14
+android_arena/gpt-5-mini/contacts_8,android_arena,gpt-5-mini,contacts_8,single_app,contacts,"Search for contacts with the name ""John"" in Google Contacts.",0,5,5
+android_arena/gpt-5-mini/contacts_9,android_arena,gpt-5-mini,contacts_9,single_app,contacts,Merge duplicate contacts in Google Contacts.,1,10,10
+android_arena/gpt-5-mini/cross_app_13,android_arena,gpt-5-mini,cross_app_13,cross_app,contacts;google_maps,"Find the company address of a Google contact of ""John"" and create a Google Maps route to their location.",1,28,28
+android_arena/gpt-5-mini/firefox_2,android_arena,gpt-5-mini,firefox_2,single_app,firefox,"Navigate to the webpage ""https://www.wikipedia.org/"".",1,11,11
+android_arena/gpt-5-mini/firefox_3,android_arena,gpt-5-mini,firefox_3,single_app,firefox,"Search the key word ""GPT"" in website ""https://openai.com/blog"".",1,6,6
+android_arena/gpt-5-mini/firefox_4,android_arena,gpt-5-mini,firefox_4,single_app,firefox,View my bookmarks in Firefox.,1,20,21
+android_arena/gpt-5-mini/firefox_5,android_arena,gpt-5-mini,firefox_5,single_app,firefox,View my history in Firefox.,1,3,3
+android_arena/gpt-5-mini/gmail_15,android_arena,gpt-5-mini,gmail_15,single_app,gmail,Open Gmail settings.,1,6,6
+android_arena/gpt-5-mini/gmail_16,android_arena,gpt-5-mini,gmail_16,single_app,gmail,Turn off notifications of the current account for Gmail.,1,8,8
+android_arena/gpt-5-mini/gmail_17,android_arena,gpt-5-mini,gmail_17,single_app,gmail,"Change the conversation list density of emails to ""Comfortable"" in Gmail.",1,9,9
+android_arena/gpt-5-mini/gmail_18,android_arena,gpt-5-mini,gmail_18,single_app,gmail,"Change the theme to ""Dark"" of Gmail.",1,8,8
+android_arena/gpt-5-mini/google_drive_10,android_arena,gpt-5-mini,google_drive_10,single_app,google_drive,"Delete the ""test"" folder on Google Drive.",1,6,6
+android_arena/gpt-5-mini/google_drive_11,android_arena,gpt-5-mini,google_drive_11,single_app,google_drive,Set the layout of Google Drive to dark theme.,1,6,6
+android_arena/gpt-5-mini/google_drive_12,android_arena,gpt-5-mini,google_drive_12,single_app,google_drive,Set the layout of Google Drive to light theme.,1,8,8
+android_arena/gpt-5-mini/google_drive_3,android_arena,gpt-5-mini,google_drive_3,single_app,google_drive,"Create a new folder ""test"" on Google Drive.",0,20,21
+android_arena/gpt-5-mini/google_maps_11,android_arena,gpt-5-mini,google_maps_11,single_app,google_maps,Find the nearest ATM.,1,6,6
+android_arena/gpt-5-mini/google_maps_12,android_arena,gpt-5-mini,google_maps_12,single_app,google_maps,Find the nearest parking lot.,1,8,8
+android_arena/gpt-5-mini/google_maps_13,android_arena,gpt-5-mini,google_maps_13,single_app,google_maps,Find the nearest hospital.,1,8,8
+android_arena/gpt-5-mini/google_maps_14,android_arena,gpt-5-mini,google_maps_14,single_app,google_maps,Find the nearest hotel.,1,11,11
+android_arena/gpt-5-mini/messages_11,android_arena,gpt-5-mini,messages_11,single_app,messages,"Pin the specific chat ""work"" to the top of my chat list using Google Messages.",1,4,4
+android_arena/gpt-5-mini/messages_12,android_arena,gpt-5-mini,messages_12,single_app,messages,"Delete the chat group called ""work"" in Google Messages.",1,5,5
+android_arena/gpt-5-mini/messages_13,android_arena,gpt-5-mini,messages_13,single_app,messages,Mute notifications for all chats using Google Messages.,1,7,7
+android_arena/gpt-5-mini/messages_14,android_arena,gpt-5-mini,messages_14,single_app,messages,Unmute notifications for all chats using Google Messages.,1,20,21
+android_arena/gpt-5-mini/photos_6,android_arena,gpt-5-mini,photos_6,single_app,photos,"View my Google Photos information, including storage usage and account settings.",1,8,8
+android_arena/gpt-5-mini/settings_17,android_arena,gpt-5-mini,settings_17,single_app,settings,Check for system updates on my Android device.,1,7,7
+android_arena/gpt-5-mini/settings_18,android_arena,gpt-5-mini,settings_18,single_app,settings,Change the default web browser to chrome on my Android device.,1,3,3
+android_arena/gpt-5-mini/settings_19,android_arena,gpt-5-mini,settings_19,single_app,settings,Change the default web browser to firefox on my Android device.,1,6,6
+android_arena/gpt-5-mini/weather_12,android_arena,gpt-5-mini,weather_12,single_app,the_weather_channel,"Get the weather for ""London"" by searching for it.",1,4,4
+android_arena/gpt-5-mini/weather_13,android_arena,gpt-5-mini,weather_13,single_app,the_weather_channel,Turn on significant weather forecast alerts for severe weather conditions.,1,16,16
+android_arena/gpt-5-mini/weather_14,android_arena,gpt-5-mini,weather_14,single_app,the_weather_channel,Turn off significant weather forecast alerts for severe weather conditions.,0,11,11
+android_arena/gpt-5-mini/youtube_10,android_arena,gpt-5-mini,youtube_10,single_app,youtube,"Remove the video titled ""ChatGPT Explained Completely"" from the YouTube playlist ""work"".",1,7,7
+android_arena/gpt-5-mini/youtube_11,android_arena,gpt-5-mini,youtube_11,single_app,youtube,"Rename the YouTube playlist ""work"" to ""test"".",0,20,21
+android_arena/qwen2.5-vl-72b/calendar_3,android_arena,qwen2.5-vl-72b,calendar_3,single_app,google_calendar,"Change the start date of an existing event on Google Calendar with the title ""meeting"" to the 12th of next month.",0,15,15
+android_arena/qwen2.5-vl-72b/calendar_4,android_arena,qwen2.5-vl-72b,calendar_4,single_app,google_calendar,"Invite ""bob@example.com"" to the existing event with the title ""meeting"" on Google Calendar.",1,12,12
+android_arena/qwen2.5-vl-72b/calendar_5,android_arena,qwen2.5-vl-72b,calendar_5,single_app,google_calendar,Present all events on Google Calendar for this week.,1,4,4
+android_arena/qwen2.5-vl-72b/calendar_6,android_arena,qwen2.5-vl-72b,calendar_6,single_app,google_calendar,Present all events on Google Calendar for this month.,0,2,2
+android_arena/qwen2.5-vl-72b/camera_11,android_arena,qwen2.5-vl-72b,camera_11,single_app,camera,"Set the resolution to ""HD 720p"" for the Camera.",0,5,5
+android_arena/qwen2.5-vl-72b/camera_12,android_arena,qwen2.5-vl-72b,camera_12,single_app,camera,"Set the resolution to ""QVGA"" for the Camera.",0,9,9
+android_arena/qwen2.5-vl-72b/camera_13,android_arena,qwen2.5-vl-72b,camera_13,single_app,camera,Change the timer to 10 seconds for the Camera.,1,5,5
+android_arena/qwen2.5-vl-72b/camera_14,android_arena,qwen2.5-vl-72b,camera_14,single_app,camera,Change the timer to 3 seconds for the Camera.,1,5,5
+android_arena/qwen2.5-vl-72b/clock_11,android_arena,qwen2.5-vl-72b,clock_11,single_app,clock,Reset the stopwatch using Google Clock.,1,2,2
+android_arena/qwen2.5-vl-72b/clock_12,android_arena,qwen2.5-vl-72b,clock_12,single_app,clock,View the current time in London in Google Clock.,1,7,7
+android_arena/qwen2.5-vl-72b/clock_13,android_arena,qwen2.5-vl-72b,clock_13,single_app,clock,Add a new city Beijing to World Clock in Google Clock.,1,5,5
+android_arena/qwen2.5-vl-72b/clock_14,android_arena,qwen2.5-vl-72b,clock_14,single_app,clock,Delete the city Beijing to World Clock in Google Clock.,0,8,8
+android_arena/qwen2.5-vl-72b/contacts_10,android_arena,qwen2.5-vl-72b,contacts_10,single_app,contacts,"Delete ""John"" from Google Contacts.",1,11,11
+android_arena/qwen2.5-vl-72b/cross_app_14,android_arena,qwen2.5-vl-72b,cross_app_14,cross_app,contacts;the_weather_channel,"Check the current weather forecast for the location of ""John"" in Google Contacts.",0,18,18
+android_arena/qwen2.5-vl-72b/cross_app_15,android_arena,qwen2.5-vl-72b,cross_app_15,cross_app,google_maps;messages,"Search for the nearest gas station in Google Maps and send the address to the ""john@example.com"" in Google Messages.",1,14,14
+android_arena/qwen2.5-vl-72b/firefox_2,android_arena,qwen2.5-vl-72b,firefox_2,single_app,firefox,"Navigate to the webpage ""https://www.wikipedia.org/"".",0,15,15
+android_arena/qwen2.5-vl-72b/firefox_3,android_arena,qwen2.5-vl-72b,firefox_3,single_app,firefox,"Search the key word ""GPT"" in website ""https://openai.com/blog"".",0,12,12
+android_arena/qwen2.5-vl-72b/firefox_4,android_arena,qwen2.5-vl-72b,firefox_4,single_app,firefox,View my bookmarks in Firefox.,0,15,15
+android_arena/qwen2.5-vl-72b/firefox_5,android_arena,qwen2.5-vl-72b,firefox_5,single_app,firefox,View my history in Firefox.,0,15,15
+android_arena/qwen2.5-vl-72b/gmail_15,android_arena,qwen2.5-vl-72b,gmail_15,single_app,gmail,Open Gmail settings.,1,5,5
+android_arena/qwen2.5-vl-72b/gmail_16,android_arena,qwen2.5-vl-72b,gmail_16,single_app,gmail,Turn off notifications of the current account for Gmail.,1,7,7
+android_arena/qwen2.5-vl-72b/gmail_17,android_arena,qwen2.5-vl-72b,gmail_17,single_app,gmail,"Change the conversation list density of emails to ""Comfortable"" in Gmail.",0,15,16
+android_arena/qwen2.5-vl-72b/gmail_18,android_arena,qwen2.5-vl-72b,gmail_18,single_app,gmail,"Change the theme to ""Dark"" of Gmail.",0,15,16
+android_arena/qwen2.5-vl-72b/google_drive_11,android_arena,qwen2.5-vl-72b,google_drive_11,single_app,google_drive,Set the layout of Google Drive to dark theme.,1,12,12
+android_arena/qwen2.5-vl-72b/google_drive_12,android_arena,qwen2.5-vl-72b,google_drive_12,single_app,google_drive,Set the layout of Google Drive to light theme.,1,11,11
+android_arena/qwen2.5-vl-72b/google_drive_3,android_arena,qwen2.5-vl-72b,google_drive_3,single_app,google_drive,"Create a new folder ""test"" on Google Drive.",0,15,15
+android_arena/qwen2.5-vl-72b/google_maps_12,android_arena,qwen2.5-vl-72b,google_maps_12,single_app,google_maps,Find the nearest parking lot.,1,8,8
+android_arena/qwen2.5-vl-72b/google_maps_13,android_arena,qwen2.5-vl-72b,google_maps_13,single_app,google_maps,Find the nearest hospital.,0,15,15
+android_arena/qwen2.5-vl-72b/google_maps_14,android_arena,qwen2.5-vl-72b,google_maps_14,single_app,google_maps,Find the nearest hotel.,0,15,15
+android_arena/qwen2.5-vl-72b/messages_13,android_arena,qwen2.5-vl-72b,messages_13,single_app,messages,Mute notifications for all chats using Google Messages.,1,6,6
+android_arena/qwen2.5-vl-72b/messages_14,android_arena,qwen2.5-vl-72b,messages_14,single_app,messages,Unmute notifications for all chats using Google Messages.,1,6,6
+android_arena/qwen2.5-vl-72b/photos_6,android_arena,qwen2.5-vl-72b,photos_6,single_app,photos,"View my Google Photos information, including storage usage and account settings.",1,9,9
+android_arena/llama-3.3-70b/calendar_3,android_arena,llama-3.3-70b,calendar_3,single_app,google_calendar,"Change the start date of an existing event on Google Calendar with the title ""meeting"" to the 12th of next month.",0,15,16
+android_arena/llama-3.3-70b/calendar_4,android_arena,llama-3.3-70b,calendar_4,single_app,google_calendar,"Invite ""bob@example.com"" to the existing event with the title ""meeting"" on Google Calendar.",1,13,13
+android_arena/llama-3.3-70b/calendar_5,android_arena,llama-3.3-70b,calendar_5,single_app,google_calendar,Present all events on Google Calendar for this week.,1,15,16
+android_arena/llama-3.3-70b/calendar_6,android_arena,llama-3.3-70b,calendar_6,single_app,google_calendar,Present all events on Google Calendar for this month.,0,12,12
+android_arena/llama-3.3-70b/camera_11,android_arena,llama-3.3-70b,camera_11,single_app,camera,"Set the resolution to ""HD 720p"" for the Camera.",1,15,16
+android_arena/llama-3.3-70b/camera_12,android_arena,llama-3.3-70b,camera_12,single_app,camera,"Set the resolution to ""QVGA"" for the Camera.",0,15,16
+android_arena/llama-3.3-70b/camera_13,android_arena,llama-3.3-70b,camera_13,single_app,camera,Change the timer to 10 seconds for the Camera.,1,7,7
+android_arena/llama-3.3-70b/camera_14,android_arena,llama-3.3-70b,camera_14,single_app,camera,Change the timer to 3 seconds for the Camera.,1,14,14
+android_arena/llama-3.3-70b/contacts_9,android_arena,llama-3.3-70b,contacts_9,single_app,contacts,Merge duplicate contacts in Google Contacts.,0,15,16
+android_arena/llama-3.3-70b/firefox_2,android_arena,llama-3.3-70b,firefox_2,single_app,firefox,"Navigate to the webpage ""https://www.wikipedia.org/"".",1,3,3
+android_arena/llama-3.3-70b/firefox_3,android_arena,llama-3.3-70b,firefox_3,single_app,firefox,"Search the key word ""GPT"" in website ""https://openai.com/blog"".",1,8,8
+android_arena/llama-3.3-70b/firefox_4,android_arena,llama-3.3-70b,firefox_4,single_app,firefox,View my bookmarks in Firefox.,1,4,4
+android_arena/llama-3.3-70b/firefox_5,android_arena,llama-3.3-70b,firefox_5,single_app,firefox,View my history in Firefox.,1,6,6
+android_arena/llama-3.3-70b/gmail_15,android_arena,llama-3.3-70b,gmail_15,single_app,gmail,Open Gmail settings.,1,5,5
+android_arena/llama-3.3-70b/gmail_16,android_arena,llama-3.3-70b,gmail_16,single_app,gmail,Turn off notifications of the current account for Gmail.,0,13,13
+android_arena/llama-3.3-70b/gmail_17,android_arena,llama-3.3-70b,gmail_17,single_app,gmail,"Change the conversation list density of emails to ""Comfortable"" in Gmail.",1,10,10
+android_arena/llama-3.3-70b/gmail_18,android_arena,llama-3.3-70b,gmail_18,single_app,gmail,"Change the theme to ""Dark"" of Gmail.",1,15,16
+android_arena/llama-3.3-70b/google_drive_11,android_arena,llama-3.3-70b,google_drive_11,single_app,google_drive,Set the layout of Google Drive to dark theme.,1,12,12
+android_arena/llama-3.3-70b/google_drive_12,android_arena,llama-3.3-70b,google_drive_12,single_app,google_drive,Set the layout of Google Drive to light theme.,1,11,11
+android_arena/llama-3.3-70b/google_drive_3,android_arena,llama-3.3-70b,google_drive_3,single_app,google_drive,"Create a new folder ""test"" on Google Drive.",0,15,16
+android_arena/llama-3.3-70b/google_maps_11,android_arena,llama-3.3-70b,google_maps_11,single_app,google_maps,Find the nearest ATM.,1,5,5
+android_arena/llama-3.3-70b/google_maps_12,android_arena,llama-3.3-70b,google_maps_12,single_app,google_maps,Find the nearest parking lot.,1,15,16
+android_arena/llama-3.3-70b/google_maps_13,android_arena,llama-3.3-70b,google_maps_13,single_app,google_maps,Find the nearest hospital.,1,10,10
+android_arena/llama-3.3-70b/google_maps_14,android_arena,llama-3.3-70b,google_maps_14,single_app,google_maps,Find the nearest hotel.,0,4,4
+android_arena/llama-3.3-70b/messages_13,android_arena,llama-3.3-70b,messages_13,single_app,messages,Mute notifications for all chats using Google Messages.,1,10,10
+android_arena/llama-3.3-70b/messages_14,android_arena,llama-3.3-70b,messages_14,single_app,messages,Unmute notifications for all chats using Google Messages.,1,6,6
+android_arena/llama-3.3-70b/photos_3,android_arena,llama-3.3-70b,photos_3,single_app,photos,"Delete the album named ""animals"" in Photos.",0,7,7
+android_arena/llama-3.3-70b/photos_4,android_arena,llama-3.3-70b,photos_4,single_app,photos,Create a quick video from first two photos using the animation feature.,0,15,16
+android_arena/llama-3.3-70b/settings_17,android_arena,llama-3.3-70b,settings_17,single_app,settings,Check for system updates on my Android device.,1,5,5
+android_arena/llama-3.3-70b/settings_18,android_arena,llama-3.3-70b,settings_18,single_app,settings,Change the default web browser to chrome on my Android device.,1,5,5
+android_arena/llama-3.3-70b/settings_19,android_arena,llama-3.3-70b,settings_19,single_app,settings,Change the default web browser to firefox on my Android device.,0,15,16
+android_arena/llama-3.3-70b/weather_12,android_arena,llama-3.3-70b,weather_12,single_app,the_weather_channel,"Get the weather for ""London"" by searching for it.",0,15,16
+android_arena/llama-3.3-70b/weather_13,android_arena,llama-3.3-70b,weather_13,single_app,the_weather_channel,Turn on significant weather forecast alerts for severe weather conditions.,0,12,12
+android_arena/llama-3.3-70b/weather_14,android_arena,llama-3.3-70b,weather_14,single_app,the_weather_channel,Turn off significant weather forecast alerts for severe weather conditions.,0,15,16
+android_arena/ui-tars-72b/calendar_5,android_arena,ui-tars-72b,calendar_5,single_app,google_calendar,Present all events on Google Calendar for this week.,1,4,5
+android_arena/ui-tars-72b/calendar_6,android_arena,ui-tars-72b,calendar_6,single_app,google_calendar,Present all events on Google Calendar for this month.,1,4,5
+android_arena/ui-tars-72b/camera_11,android_arena,ui-tars-72b,camera_11,single_app,camera,"Set the resolution to ""HD 720p"" for the Camera.",0,15,16
+android_arena/ui-tars-72b/camera_12,android_arena,ui-tars-72b,camera_12,single_app,camera,"Set the resolution to ""QVGA"" for the Camera.",0,15,16
+android_arena/ui-tars-72b/camera_13,android_arena,ui-tars-72b,camera_13,single_app,camera,Change the timer to 10 seconds for the Camera.,1,5,6
+android_arena/ui-tars-72b/camera_14,android_arena,ui-tars-72b,camera_14,single_app,camera,Change the timer to 3 seconds for the Camera.,1,5,6
+android_arena/ui-tars-72b/clock_11,android_arena,ui-tars-72b,clock_11,single_app,clock,Reset the stopwatch using Google Clock.,1,5,6
+android_arena/ui-tars-72b/clock_12,android_arena,ui-tars-72b,clock_12,single_app,clock,View the current time in London in Google Clock.,1,6,7
+android_arena/ui-tars-72b/clock_13,android_arena,ui-tars-72b,clock_13,single_app,clock,Add a new city Beijing to World Clock in Google Clock.,1,5,6
+android_arena/ui-tars-72b/clock_14,android_arena,ui-tars-72b,clock_14,single_app,clock,Delete the city Beijing to World Clock in Google Clock.,0,15,16
+android_arena/ui-tars-72b/contacts_11,android_arena,ui-tars-72b,contacts_11,single_app,contacts,Sort contacts by first name in Google Contacts.,0,9,10
+android_arena/ui-tars-72b/contacts_8,android_arena,ui-tars-72b,contacts_8,single_app,contacts,"Search for contacts with the name ""John"" in Google Contacts.",1,6,7
+android_arena/ui-tars-72b/contacts_9,android_arena,ui-tars-72b,contacts_9,single_app,contacts,Merge duplicate contacts in Google Contacts.,0,15,16
+android_arena/ui-tars-72b/cross_app_14,android_arena,ui-tars-72b,cross_app_14,cross_app,contacts;the_weather_channel,"Check the current weather forecast for the location of ""John"" in Google Contacts.",0,13,14
+android_arena/ui-tars-72b/cross_app_15,android_arena,ui-tars-72b,cross_app_15,cross_app,google_maps;messages,"Search for the nearest gas station in Google Maps and send the address to the ""john@example.com"" in Google Messages.",0,17,18
+android_arena/ui-tars-72b/firefox_2,android_arena,ui-tars-72b,firefox_2,single_app,firefox,"Navigate to the webpage ""https://www.wikipedia.org/"".",0,13,14
+android_arena/ui-tars-72b/firefox_3,android_arena,ui-tars-72b,firefox_3,single_app,firefox,"Search the key word ""GPT"" in website ""https://openai.com/blog"".",1,15,16
+android_arena/ui-tars-72b/firefox_4,android_arena,ui-tars-72b,firefox_4,single_app,firefox,View my bookmarks in Firefox.,1,6,7
+android_arena/ui-tars-72b/firefox_5,android_arena,ui-tars-72b,firefox_5,single_app,firefox,View my history in Firefox.,1,5,6
+android_arena/ui-tars-72b/gmail_15,android_arena,ui-tars-72b,gmail_15,single_app,gmail,Open Gmail settings.,1,5,6
+android_arena/ui-tars-72b/gmail_16,android_arena,ui-tars-72b,gmail_16,single_app,gmail,Turn off notifications of the current account for Gmail.,1,8,9
+android_arena/ui-tars-72b/gmail_17,android_arena,ui-tars-72b,gmail_17,single_app,gmail,"Change the conversation list density of emails to ""Comfortable"" in Gmail.",0,15,16
+android_arena/ui-tars-72b/gmail_18,android_arena,ui-tars-72b,gmail_18,single_app,gmail,"Change the theme to ""Dark"" of Gmail.",1,8,9
+android_arena/ui-tars-72b/google_drive_11,android_arena,ui-tars-72b,google_drive_11,single_app,google_drive,Set the layout of Google Drive to dark theme.,1,6,7
+android_arena/ui-tars-72b/google_drive_12,android_arena,ui-tars-72b,google_drive_12,single_app,google_drive,Set the layout of Google Drive to light theme.,1,6,7
+android_arena/ui-tars-72b/google_drive_3,android_arena,ui-tars-72b,google_drive_3,single_app,google_drive,"Create a new folder ""test"" on Google Drive.",1,5,6
+android_arena/ui-tars-72b/google_maps_11,android_arena,ui-tars-72b,google_maps_11,single_app,google_maps,Find the nearest ATM.,0,4,5
+android_arena/ui-tars-72b/google_maps_12,android_arena,ui-tars-72b,google_maps_12,single_app,google_maps,Find the nearest parking lot.,0,5,6
+android_arena/ui-tars-72b/google_maps_13,android_arena,ui-tars-72b,google_maps_13,single_app,google_maps,Find the nearest hospital.,0,5,6
+android_arena/ui-tars-72b/google_maps_14,android_arena,ui-tars-72b,google_maps_14,single_app,google_maps,Find the nearest hotel.,0,6,7
+android_arena/ui-tars-72b/messages_13,android_arena,ui-tars-72b,messages_13,single_app,messages,Mute notifications for all chats using Google Messages.,1,6,7
+android_arena/ui-tars-72b/messages_14,android_arena,ui-tars-72b,messages_14,single_app,messages,Unmute notifications for all chats using Google Messages.,1,6,7
+android_arena/ui-tars-72b/photos_6,android_arena,ui-tars-72b,photos_6,single_app,photos,"View my Google Photos information, including storage usage and account settings.",1,5,6
+android_arena/ui-tars-72b/settings_17,android_arena,ui-tars-72b,settings_17,single_app,settings,Check for system updates on my Android device.,1,7,8
+android_arena/ui-tars-72b/settings_18,android_arena,ui-tars-72b,settings_18,single_app,settings,Change the default web browser to chrome on my Android device.,1,5,6
+android_arena/ui-tars-72b/settings_19,android_arena,ui-tars-72b,settings_19,single_app,settings,Change the default web browser to firefox on my Android device.,1,6,7
+android_arena/ui-tars-72b/weather_12,android_arena,ui-tars-72b,weather_12,single_app,the_weather_channel,"Get the weather for ""London"" by searching for it.",1,8,9
+android_arena/ui-tars-72b/weather_13,android_arena,ui-tars-72b,weather_13,single_app,the_weather_channel,Turn on significant weather forecast alerts for severe weather conditions.,1,5,6
+android_arena/ui-tars-72b/weather_14,android_arena,ui-tars-72b,weather_14,single_app,the_weather_channel,Turn off significant weather forecast alerts for severe weather conditions.,1,7,8
+android_arena/ui-tars-72b/youtube_11,android_arena,ui-tars-72b,youtube_11,single_app,youtube,"Rename the YouTube playlist ""work"" to ""test"".",1,12,13
+android_arena/ui-tars-72b/youtube_12,android_arena,ui-tars-72b,youtube_12,single_app,youtube,"Delete the YouTube playlist ""test"".",1,6,7
+bmoca/gpt-5-mini/calculator_15,bmoca,gpt-5-mini,calculator_15,single_app,calculator,input square root of 25 in Calculator,1,5,5
+bmoca/gpt-5-mini/calculator_16,bmoca,gpt-5-mini,calculator_16,single_app,calculator,input the formula for computing sum of the first 5 Fibonacci numbers in Calculator,1,12,12
+bmoca/gpt-5-mini/calculator_17,bmoca,gpt-5-mini,calculator_17,single_app,calculator,input the formula for computing sum of the first 5 prime numbers in Calculator,1,12,12
+bmoca/gpt-5-mini/calculator_18,bmoca,gpt-5-mini,calculator_18,single_app,calculator,input the formula for converting 45 degrees to radians ('45xπ÷180') in Calculator,1,9,9
+bmoca/gpt-5-mini/chrome_3,bmoca,gpt-5-mini,chrome_3,single_app,chrome,open a new tab in Chrome,1,3,3
+bmoca/gpt-5-mini/clock_21,bmoca,gpt-5-mini,clock_21,single_app,clock,go to the timer page in clock,1,3,3
+bmoca/gpt-5-mini/clock_23,bmoca,gpt-5-mini,clock_23,single_app,clock,start the stopwatch in clock,1,4,4
+bmoca/gpt-5-mini/clock_24,bmoca,gpt-5-mini,clock_24,single_app,clock,turn on alarm at 9 am,0,11,12
+bmoca/gpt-5-mini/clock_25,bmoca,gpt-5-mini,clock_25,single_app,clock,turn on alarm at 9 am in clock and increase alarm volume in setting,1,14,14
+bmoca/gpt-5-mini/contacts_2,bmoca,gpt-5-mini,contacts_2,single_app,contacts,activate the insert page in contact,1,4,4
+bmoca/gpt-5-mini/files_2,bmoca,gpt-5-mini,files_2,single_app,files,list download files in file manager,1,11,12
+bmoca/gpt-5-mini/files_3,bmoca,gpt-5-mini,files_3,single_app,files,list image files in file manager,1,7,7
+bmoca/gpt-5-mini/files_4,bmoca,gpt-5-mini,files_4,single_app,files,list video files in file manager,0,11,12
+bmoca/gpt-5-mini/instagram_2,bmoca,gpt-5-mini,instagram_2,single_app,instagram,go to reels tab in Instagram,1,4,4
+bmoca/gpt-5-mini/instagram_3,bmoca,gpt-5-mini,instagram_3,single_app,instagram,go to search tab in Instagram,1,3,3
+bmoca/gpt-5-mini/messages_2,bmoca,gpt-5-mini,messages_2,single_app,messages,start chatting in message,1,8,8
+bmoca/gpt-5-mini/phone_10,bmoca,gpt-5-mini,phone_10,single_app,phone,call the US national contact center (800-333-4636),1,5,5
+bmoca/gpt-5-mini/phone_11,bmoca,gpt-5-mini,phone_11,single_app,phone,call the national weather service (301-713-0622),1,10,10
+bmoca/gpt-5-mini/phone_12,bmoca,gpt-5-mini,phone_12,single_app,phone,call the social security administration (800-772-1213),1,10,10
+bmoca/gpt-5-mini/phone_13,bmoca,gpt-5-mini,phone_13,single_app,phone,call the white house (202-456-1111),1,20,20
+bmoca/gpt-5-mini/settings_13,bmoca,gpt-5-mini,settings_13,single_app,settings,turn off wifi,1,5,5
+bmoca/gpt-5-mini/settings_14,bmoca,gpt-5-mini,settings_14,single_app,settings,turn on airplane mode,1,2,2
+bmoca/gpt-5-mini/settings_15,bmoca,gpt-5-mini,settings_15,single_app,settings,turn on wifi,1,3,3
+bmoca/gpt-5-mini/snapseed_10,bmoca,gpt-5-mini,snapseed_10,single_app,snapseed,set format quality to JPG 100% in Snapseed,0,14,15
+bmoca/gpt-5-mini/snapseed_8,bmoca,gpt-5-mini,snapseed_8,single_app,snapseed,open image in Snapseed,1,11,11
+bmoca/gpt-5-mini/snapseed_9,bmoca,gpt-5-mini,snapseed_9,single_app,snapseed,set dark theme in Snapseed,1,4,4
+bmoca/gpt-5-mini/wikipedia_11,bmoca,gpt-5-mini,wikipedia_11,single_app,wikipedia,disable the topics with odd-numbered indices in the feed customization settings on Wikipedia and go back to the feed,0,18,19
+bmoca/gpt-5-mini/wikipedia_12,bmoca,gpt-5-mini,wikipedia_12,single_app,wikipedia,disable the topics with prime-numbered indices in the feed customization settings on Wikipedia and go back to the feed,0,19,20
+bmoca/gpt-5-mini/wikipedia_13,bmoca,gpt-5-mini,wikipedia_13,single_app,wikipedia,go to saved tab in Wikipedia,1,3,3
+bmoca/gpt-5-mini/wikipedia_14,bmoca,gpt-5-mini,wikipedia_14,single_app,wikipedia,go to search tab in Wikipedia,1,4,4
+bmoca/gpt-5-mini/wikipedia_15,bmoca,gpt-5-mini,wikipedia_15,single_app,wikipedia,increase the text size to 180% in Wikipedia,0,20,21
+bmoca/qwen2.5-vl-72b/calculator_15,bmoca,qwen2.5-vl-72b,calculator_15,single_app,calculator,input square root of 25 in Calculator,0,8,8
+bmoca/qwen2.5-vl-72b/calculator_16,bmoca,qwen2.5-vl-72b,calculator_16,single_app,calculator,input the formula for computing sum of the first 5 Fibonacci numbers in Calculator,0,7,7
+bmoca/qwen2.5-vl-72b/calculator_17,bmoca,qwen2.5-vl-72b,calculator_17,single_app,calculator,input the formula for computing sum of the first 5 prime numbers in Calculator,0,14,15
+bmoca/qwen2.5-vl-72b/calculator_18,bmoca,qwen2.5-vl-72b,calculator_18,single_app,calculator,input the formula for converting 45 degrees to radians ('45xπ÷180') in Calculator,0,13,13
+bmoca/qwen2.5-vl-72b/chrome_3,bmoca,qwen2.5-vl-72b,chrome_3,single_app,chrome,open a new tab in Chrome,0,3,3
+bmoca/qwen2.5-vl-72b/clock_21,bmoca,qwen2.5-vl-72b,clock_21,single_app,clock,go to the timer page in clock,0,5,5
+bmoca/qwen2.5-vl-72b/clock_23,bmoca,qwen2.5-vl-72b,clock_23,single_app,clock,start the stopwatch in clock,1,3,3
+bmoca/qwen2.5-vl-72b/clock_24,bmoca,qwen2.5-vl-72b,clock_24,single_app,clock,turn on alarm at 9 am,0,6,6
+bmoca/qwen2.5-vl-72b/clock_25,bmoca,qwen2.5-vl-72b,clock_25,single_app,clock,turn on alarm at 9 am in clock and increase alarm volume in setting,0,12,13
+bmoca/qwen2.5-vl-72b/contacts_2,bmoca,qwen2.5-vl-72b,contacts_2,single_app,contacts,activate the insert page in contact,0,5,6
+bmoca/qwen2.5-vl-72b/files_2,bmoca,qwen2.5-vl-72b,files_2,single_app,files,list download files in file manager,1,2,2
+bmoca/qwen2.5-vl-72b/files_3,bmoca,qwen2.5-vl-72b,files_3,single_app,files,list image files in file manager,0,3,3
+bmoca/qwen2.5-vl-72b/files_4,bmoca,qwen2.5-vl-72b,files_4,single_app,files,list video files in file manager,0,3,3
+bmoca/qwen2.5-vl-72b/instagram_2,bmoca,qwen2.5-vl-72b,instagram_2,single_app,instagram,go to reels tab in Instagram,1,3,3
+bmoca/qwen2.5-vl-72b/instagram_3,bmoca,qwen2.5-vl-72b,instagram_3,single_app,instagram,go to search tab in Instagram,1,3,3
+bmoca/qwen2.5-vl-72b/messages_2,bmoca,qwen2.5-vl-72b,messages_2,single_app,messages,start chatting in message,1,5,6
+bmoca/qwen2.5-vl-72b/phone_10,bmoca,qwen2.5-vl-72b,phone_10,single_app,phone,call the US national contact center (800-333-4636),1,12,12
+bmoca/qwen2.5-vl-72b/phone_11,bmoca,qwen2.5-vl-72b,phone_11,single_app,phone,call the national weather service (301-713-0622),0,14,14
+bmoca/qwen2.5-vl-72b/phone_12,bmoca,qwen2.5-vl-72b,phone_12,single_app,phone,call the social security administration (800-772-1213),0,14,14
+bmoca/qwen2.5-vl-72b/phone_13,bmoca,qwen2.5-vl-72b,phone_13,single_app,phone,call the white house (202-456-1111),1,14,14
+bmoca/qwen2.5-vl-72b/settings_12,bmoca,qwen2.5-vl-72b,settings_12,single_app,settings,turn off airplane mode,1,3,3
+bmoca/qwen2.5-vl-72b/settings_13,bmoca,qwen2.5-vl-72b,settings_13,single_app,settings,turn off wifi,1,5,5
+bmoca/qwen2.5-vl-72b/settings_15,bmoca,qwen2.5-vl-72b,settings_15,single_app,settings,turn on wifi,1,4,4
+bmoca/qwen2.5-vl-72b/snapseed_10,bmoca,qwen2.5-vl-72b,snapseed_10,single_app,snapseed,set format quality to JPG 100% in Snapseed,1,7,7
+bmoca/qwen2.5-vl-72b/snapseed_9,bmoca,qwen2.5-vl-72b,snapseed_9,single_app,snapseed,set dark theme in Snapseed,1,6,6
+bmoca/qwen2.5-vl-72b/walmart_4,bmoca,qwen2.5-vl-72b,walmart_4,single_app,walmart,go to my items tab in Walmart,1,4,4
+bmoca/qwen2.5-vl-72b/walmart_5,bmoca,qwen2.5-vl-72b,walmart_5,single_app,walmart,go to search tab in Walmart,1,4,4
+bmoca/qwen2.5-vl-72b/walmart_6,bmoca,qwen2.5-vl-72b,walmart_6,single_app,walmart,go to services tab in Walmart,1,5,5
+bmoca/qwen2.5-vl-72b/wikipedia_11,bmoca,qwen2.5-vl-72b,wikipedia_11,single_app,wikipedia,disable the topics with odd-numbered indices in the feed customization settings on Wikipedia and go back to the feed,0,10,10
+bmoca/qwen2.5-vl-72b/wikipedia_12,bmoca,qwen2.5-vl-72b,wikipedia_12,single_app,wikipedia,disable the topics with prime-numbered indices in the feed customization settings on Wikipedia and go back to the feed,0,9,9
+bmoca/qwen2.5-vl-72b/wikipedia_13,bmoca,qwen2.5-vl-72b,wikipedia_13,single_app,wikipedia,go to saved tab in Wikipedia,1,3,3
+bmoca/qwen2.5-vl-72b/wikipedia_14,bmoca,qwen2.5-vl-72b,wikipedia_14,single_app,wikipedia,go to search tab in Wikipedia,1,3,3
+bmoca/qwen2.5-vl-72b/wikipedia_15,bmoca,qwen2.5-vl-72b,wikipedia_15,single_app,wikipedia,increase the text size to 180% in Wikipedia,0,9,9
+bmoca/llama-3.3-70b/calculator_15,bmoca,llama-3.3-70b,calculator_15,single_app,calculator,input square root of 25 in Calculator,0,8,9
+bmoca/llama-3.3-70b/calculator_17,bmoca,llama-3.3-70b,calculator_17,single_app,calculator,input the formula for computing sum of the first 5 prime numbers in Calculator,0,10,10
+bmoca/llama-3.3-70b/calculator_18,bmoca,llama-3.3-70b,calculator_18,single_app,calculator,input the formula for converting 45 degrees to radians ('45xπ÷180') in Calculator,0,13,14
+bmoca/llama-3.3-70b/chrome_3,bmoca,llama-3.3-70b,chrome_3,single_app,chrome,open a new tab in Chrome,0,5,6
+bmoca/llama-3.3-70b/clock_21,bmoca,llama-3.3-70b,clock_21,single_app,clock,go to the timer page in clock,1,3,3
+bmoca/llama-3.3-70b/clock_23,bmoca,llama-3.3-70b,clock_23,single_app,clock,start the stopwatch in clock,1,4,4
+bmoca/llama-3.3-70b/clock_24,bmoca,llama-3.3-70b,clock_24,single_app,clock,turn on alarm at 9 am,1,6,6
+bmoca/llama-3.3-70b/clock_25,bmoca,llama-3.3-70b,clock_25,single_app,clock,turn on alarm at 9 am in clock and increase alarm volume in setting,0,11,11
+bmoca/llama-3.3-70b/contacts_2,bmoca,llama-3.3-70b,contacts_2,single_app,contacts,activate the insert page in contact,1,4,4
+bmoca/llama-3.3-70b/files_2,bmoca,llama-3.3-70b,files_2,single_app,files,list download files in file manager,1,5,5
+bmoca/llama-3.3-70b/files_3,bmoca,llama-3.3-70b,files_3,single_app,files,list image files in file manager,1,6,7
+bmoca/llama-3.3-70b/files_4,bmoca,llama-3.3-70b,files_4,single_app,files,list video files in file manager,0,6,7
+bmoca/llama-3.3-70b/instagram_3,bmoca,llama-3.3-70b,instagram_3,single_app,instagram,go to search tab in Instagram,1,3,3
+bmoca/llama-3.3-70b/messages_2,bmoca,llama-3.3-70b,messages_2,single_app,messages,start chatting in message,1,5,6
+bmoca/llama-3.3-70b/phone_10,bmoca,llama-3.3-70b,phone_10,single_app,phone,call the US national contact center (800-333-4636),0,16,17
+bmoca/llama-3.3-70b/phone_11,bmoca,llama-3.3-70b,phone_11,single_app,phone,call the national weather service (301-713-0622),1,5,5
+bmoca/llama-3.3-70b/phone_12,bmoca,llama-3.3-70b,phone_12,single_app,phone,call the social security administration (800-772-1213),0,14,15
+bmoca/llama-3.3-70b/phone_13,bmoca,llama-3.3-70b,phone_13,single_app,phone,call the white house (202-456-1111),1,5,5
+bmoca/llama-3.3-70b/settings_12,bmoca,llama-3.3-70b,settings_12,single_app,settings,turn off airplane mode,0,6,7
+bmoca/llama-3.3-70b/settings_13,bmoca,llama-3.3-70b,settings_13,single_app,settings,turn off wifi,0,6,7
+bmoca/llama-3.3-70b/settings_15,bmoca,llama-3.3-70b,settings_15,single_app,settings,turn on wifi,1,6,7
+bmoca/llama-3.3-70b/snapseed_10,bmoca,llama-3.3-70b,snapseed_10,single_app,snapseed,set format quality to JPG 100% in Snapseed,0,9,10
+bmoca/llama-3.3-70b/snapseed_9,bmoca,llama-3.3-70b,snapseed_9,single_app,snapseed,set dark theme in Snapseed,1,7,8
+bmoca/llama-3.3-70b/wikipedia_11,bmoca,llama-3.3-70b,wikipedia_11,single_app,wikipedia,disable the topics with odd-numbered indices in the feed customization settings on Wikipedia and go back to the feed,0,13,14
+bmoca/llama-3.3-70b/wikipedia_12,bmoca,llama-3.3-70b,wikipedia_12,single_app,wikipedia,disable the topics with prime-numbered indices in the feed customization settings on Wikipedia and go back to the feed,0,13,13
+bmoca/llama-3.3-70b/wikipedia_13,bmoca,llama-3.3-70b,wikipedia_13,single_app,wikipedia,go to saved tab in Wikipedia,1,4,4
+bmoca/llama-3.3-70b/wikipedia_14,bmoca,llama-3.3-70b,wikipedia_14,single_app,wikipedia,go to search tab in Wikipedia,1,3,3
+bmoca/llama-3.3-70b/wikipedia_15,bmoca,llama-3.3-70b,wikipedia_15,single_app,wikipedia,increase the text size to 180% in Wikipedia,0,15,16
+bmoca/ui-tars-72b/calculator_15,bmoca,ui-tars-72b,calculator_15,single_app,calculator,input square root of 25 in Calculator,1,6,7
+bmoca/ui-tars-72b/calculator_16,bmoca,ui-tars-72b,calculator_16,single_app,calculator,input the formula for computing sum of the first 5 Fibonacci numbers in Calculator,0,13,14
+bmoca/ui-tars-72b/calculator_17,bmoca,ui-tars-72b,calculator_17,single_app,calculator,input the formula for computing sum of the first 5 prime numbers in Calculator,0,12,13
+bmoca/ui-tars-72b/calculator_18,bmoca,ui-tars-72b,calculator_18,single_app,calculator,input the formula for converting 45 degrees to radians ('45xπ÷180') in Calculator,0,12,13
+bmoca/ui-tars-72b/chrome_3,bmoca,ui-tars-72b,chrome_3,single_app,chrome,open a new tab in Chrome,1,3,4
+bmoca/ui-tars-72b/clock_21,bmoca,ui-tars-72b,clock_21,single_app,clock,go to the timer page in clock,1,3,4
+bmoca/ui-tars-72b/clock_23,bmoca,ui-tars-72b,clock_23,single_app,clock,start the stopwatch in clock,1,4,5
+bmoca/ui-tars-72b/clock_24,bmoca,ui-tars-72b,clock_24,single_app,clock,turn on alarm at 9 am,1,6,7
+bmoca/ui-tars-72b/clock_25,bmoca,ui-tars-72b,clock_25,single_app,clock,turn on alarm at 9 am in clock and increase alarm volume in setting,0,9,10
+bmoca/ui-tars-72b/contacts_2,bmoca,ui-tars-72b,contacts_2,single_app,contacts,activate the insert page in contact,1,5,6
+bmoca/ui-tars-72b/files_2,bmoca,ui-tars-72b,files_2,single_app,files,list download files in file manager,1,2,3
+bmoca/ui-tars-72b/files_3,bmoca,ui-tars-72b,files_3,single_app,files,list image files in file manager,0,3,4
+bmoca/ui-tars-72b/files_4,bmoca,ui-tars-72b,files_4,single_app,files,list video files in file manager,0,3,4
+bmoca/ui-tars-72b/instagram_2,bmoca,ui-tars-72b,instagram_2,single_app,instagram,go to reels tab in Instagram,0,5,6
+bmoca/ui-tars-72b/instagram_3,bmoca,ui-tars-72b,instagram_3,single_app,instagram,go to search tab in Instagram,0,5,6
+bmoca/ui-tars-72b/messages_2,bmoca,ui-tars-72b,messages_2,single_app,messages,start chatting in message,1,4,5
+bmoca/ui-tars-72b/phone_10,bmoca,ui-tars-72b,phone_10,single_app,phone,call the US national contact center (800-333-4636),0,12,13
+bmoca/ui-tars-72b/phone_11,bmoca,ui-tars-72b,phone_11,single_app,phone,call the national weather service (301-713-0622),0,14,15
+bmoca/ui-tars-72b/phone_12,bmoca,ui-tars-72b,phone_12,single_app,phone,call the social security administration (800-772-1213),0,14,15
+bmoca/ui-tars-72b/phone_13,bmoca,ui-tars-72b,phone_13,single_app,phone,call the white house (202-456-1111),0,14,15
+bmoca/ui-tars-72b/settings_12,bmoca,ui-tars-72b,settings_12,single_app,settings,turn off airplane mode,1,4,5
+bmoca/ui-tars-72b/settings_13,bmoca,ui-tars-72b,settings_13,single_app,settings,turn off wifi,1,5,6
+bmoca/ui-tars-72b/settings_15,bmoca,ui-tars-72b,settings_15,single_app,settings,turn on wifi,1,5,6
+bmoca/ui-tars-72b/snapseed_10,bmoca,ui-tars-72b,snapseed_10,single_app,snapseed,set format quality to JPG 100% in Snapseed,1,6,7
+bmoca/ui-tars-72b/snapseed_8,bmoca,ui-tars-72b,snapseed_8,single_app,snapseed,open image in Snapseed,1,4,5
+bmoca/ui-tars-72b/snapseed_9,bmoca,ui-tars-72b,snapseed_9,single_app,snapseed,set dark theme in Snapseed,1,4,5
+bmoca/ui-tars-72b/wikipedia_11,bmoca,ui-tars-72b,wikipedia_11,single_app,wikipedia,disable the topics with odd-numbered indices in the feed customization settings on Wikipedia and go back to the feed,0,12,13
+bmoca/ui-tars-72b/wikipedia_12,bmoca,ui-tars-72b,wikipedia_12,single_app,wikipedia,disable the topics with prime-numbered indices in the feed customization settings on Wikipedia and go back to the feed,0,11,12
+bmoca/ui-tars-72b/wikipedia_13,bmoca,ui-tars-72b,wikipedia_13,single_app,wikipedia,go to saved tab in Wikipedia,1,3,4
+bmoca/ui-tars-72b/wikipedia_14,bmoca,ui-tars-72b,wikipedia_14,single_app,wikipedia,go to search tab in Wikipedia,1,3,4
+bmoca/ui-tars-72b/wikipedia_15,bmoca,ui-tars-72b,wikipedia_15,single_app,wikipedia,increase the text size to 180% in Wikipedia,0,15,16
+android_lab/gpt-5-mini/bluecoins_10,android_lab,gpt-5-mini,bluecoins_10,single_app,bluecoins,"You should use bluecoins to complete the following task: For May 14, 2024, record an expenditure of 256 CNY, marked as 'eating'.",0,20,21
+android_lab/gpt-5-mini/bluecoins_8,android_lab,gpt-5-mini,bluecoins_8,single_app,bluecoins,"You should use bluecoins to complete the following task: Note down an expense of 768 CNY for May 11, 2024.",1,20,20
+android_lab/gpt-5-mini/bluecoins_9,android_lab,gpt-5-mini,bluecoins_9,single_app,bluecoins,"You should use bluecoins to complete the following task: For March 8, 2024, jot down an income of 3.14 CNY with 'Weixin red packet' as the note.",0,20,21
+android_lab/gpt-5-mini/calendar_13,android_lab,gpt-5-mini,calendar_13,single_app,google_calendar,"You should use calendar to complete the following task: Arrange an event titled ""exam"".",1,6,6
+android_lab/gpt-5-mini/calendar_14,android_lab,gpt-5-mini,calendar_14,single_app,google_calendar,"You should use calendar to complete the following task: Edit the event titled ""exam"" and make it an all-day event.",1,6,6
+android_lab/gpt-5-mini/clock_22,android_lab,gpt-5-mini,clock_22,single_app,clock,You should use clock to complete the following task: Set alarm style to Analog,1,6,6
+android_lab/gpt-5-mini/clock_23,android_lab,gpt-5-mini,clock_23,single_app,clock,You should use clock to complete the following task: Change home time zone to Tokyo in clock,1,11,11
+android_lab/gpt-5-mini/clock_24,android_lab,gpt-5-mini,clock_24,single_app,clock,You should use clock to complete the following task: Modify silence after to 5 minutes,1,6,6
+android_lab/gpt-5-mini/clock_27,android_lab,gpt-5-mini,clock_27,single_app,clock,You should use clock to complete the following task: Set an alarm at 3PM,1,2,2
+android_lab/gpt-5-mini/contacts_2,android_lab,gpt-5-mini,contacts_2,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts whose first name is ""John"", last name is ""Smith"", mobile phone number is 12345678, and working email as 123456@gmail.com",1,12,12
+android_lab/gpt-5-mini/contacts_3,android_lab,gpt-5-mini,contacts_3,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts whose name is Xu, set the working phone number to be 12345678 and mobile phone number to be 87654321",0,20,21
+android_lab/gpt-5-mini/contacts_4,android_lab,gpt-5-mini,contacts_4,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts named Chen, whose company is Tsinghua University",1,6,6
+android_lab/gpt-5-mini/pimusic_9,android_lab,gpt-5-mini,pimusic_9,single_app,pi_music_player,You should use Pi Music Player to complete the following task: Create a playlist named 'Creepy' for me.,1,6,6
+android_lab/gpt-5-mini/setting_17,android_lab,gpt-5-mini,setting_17,single_app,settings,You should use Settings to complete the following task: Check Android Version,1,6,6
+android_lab/gpt-5-mini/setting_18,android_lab,gpt-5-mini,setting_18,single_app,settings,You should use Settings to complete the following task: Disable Contacts' APP notifications,1,6,6
+android_lab/gpt-5-mini/zoom_1,android_lab,gpt-5-mini,zoom_1,single_app,zoom,"You should use zoom to complete the following task: Join meeting 1234567890. (You should not click join button, and leave it to user)",1,6,6
+android_lab/gpt-5-mini/zoom_2,android_lab,gpt-5-mini,zoom_2,single_app,zoom,"You should use zoom to complete the following task: Join meeting 0987654321, and set my name as 'Alice'. (You should not click join button, and leave it to user)",1,13,13
+android_lab/gpt-5-mini/zoom_3,android_lab,gpt-5-mini,zoom_3,single_app,zoom,"You should use zoom to complete the following task: I need to join meeting 1234567890 without audio and video. (You should not click join button, and leave it to user)",1,6,6
+android_lab/gpt-5-mini/zoom_4,android_lab,gpt-5-mini,zoom_4,single_app,zoom,You should use zoom to complete the following task: Set auto connect to audio when wifi is connected in zoom settings.,0,10,10
+android_lab/gpt-5-mini/zoom_5,android_lab,gpt-5-mini,zoom_5,single_app,zoom,You should use zoom to complete the following task: Change my reaction skin to Medium-light in zoom settings.,1,12,12
+android_lab/qwen2.5-vl-72b/bluecoins_10,android_lab,qwen2.5-vl-72b,bluecoins_10,single_app,bluecoins,"You should use bluecoins to complete the following task: For May 14, 2024, record an expenditure of 256 CNY, marked as 'eating'.",0,15,15
+android_lab/qwen2.5-vl-72b/calendar_12,android_lab,qwen2.5-vl-72b,calendar_12,single_app,google_calendar,"You should use calendar to complete the following task: Help me add a note ""Hello"" to the event titled ""Today"".",0,15,16
+android_lab/qwen2.5-vl-72b/calendar_13,android_lab,qwen2.5-vl-72b,calendar_13,single_app,google_calendar,"You should use calendar to complete the following task: Arrange an event titled ""exam"".",0,15,15
+android_lab/qwen2.5-vl-72b/clock_22,android_lab,qwen2.5-vl-72b,clock_22,single_app,clock,You should use clock to complete the following task: Set alarm style to Analog,0,15,15
+android_lab/qwen2.5-vl-72b/clock_23,android_lab,qwen2.5-vl-72b,clock_23,single_app,clock,You should use clock to complete the following task: Change home time zone to Tokyo in clock,1,15,16
+android_lab/qwen2.5-vl-72b/clock_24,android_lab,qwen2.5-vl-72b,clock_24,single_app,clock,You should use clock to complete the following task: Modify silence after to 5 minutes,1,6,6
+android_lab/qwen2.5-vl-72b/clock_25,android_lab,qwen2.5-vl-72b,clock_25,single_app,clock,You should use clock to complete the following task: Open clock app,1,2,2
+android_lab/qwen2.5-vl-72b/contacts_2,android_lab,qwen2.5-vl-72b,contacts_2,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts whose first name is ""John"", last name is ""Smith"", mobile phone number is 12345678, and working email as 123456@gmail.com",0,15,15
+android_lab/qwen2.5-vl-72b/contacts_3,android_lab,qwen2.5-vl-72b,contacts_3,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts whose name is Xu, set the working phone number to be 12345678 and mobile phone number to be 87654321",0,15,15
+android_lab/qwen2.5-vl-72b/contacts_4,android_lab,qwen2.5-vl-72b,contacts_4,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts named Chen, whose company is Tsinghua University",1,6,6
+android_lab/qwen2.5-vl-72b/pimusic_9,android_lab,qwen2.5-vl-72b,pimusic_9,single_app,pi_music_player,You should use Pi Music Player to complete the following task: Create a playlist named 'Creepy' for me.,0,11,11
+android_lab/qwen2.5-vl-72b/setting_17,android_lab,qwen2.5-vl-72b,setting_17,single_app,settings,You should use Settings to complete the following task: Check Android Version,1,6,6
+android_lab/qwen2.5-vl-72b/setting_18,android_lab,qwen2.5-vl-72b,setting_18,single_app,settings,You should use Settings to complete the following task: Disable Contacts' APP notifications,0,15,15
+android_lab/qwen2.5-vl-72b/setting_22,android_lab,qwen2.5-vl-72b,setting_22,single_app,settings,You should use Settings to complete the following task: Does my airplane mode open or not,1,2,2
+android_lab/qwen2.5-vl-72b/zoom_1,android_lab,qwen2.5-vl-72b,zoom_1,single_app,zoom,"You should use zoom to complete the following task: Join meeting 1234567890. (You should not click join button, and leave it to user)",0,8,8
+android_lab/qwen2.5-vl-72b/zoom_2,android_lab,qwen2.5-vl-72b,zoom_2,single_app,zoom,"You should use zoom to complete the following task: Join meeting 0987654321, and set my name as 'Alice'. (You should not click join button, and leave it to user)",0,15,16
+android_lab/qwen2.5-vl-72b/zoom_3,android_lab,qwen2.5-vl-72b,zoom_3,single_app,zoom,"You should use zoom to complete the following task: I need to join meeting 1234567890 without audio and video. (You should not click join button, and leave it to user)",1,15,16
+android_lab/qwen2.5-vl-72b/zoom_4,android_lab,qwen2.5-vl-72b,zoom_4,single_app,zoom,You should use zoom to complete the following task: Set auto connect to audio when wifi is connected in zoom settings.,0,15,16
+android_lab/qwen2.5-vl-72b/zoom_5,android_lab,qwen2.5-vl-72b,zoom_5,single_app,zoom,You should use zoom to complete the following task: Change my reaction skin to Medium-light in zoom settings.,0,15,16
+android_lab/llama-3.3-70b/bluecoins_10,android_lab,llama-3.3-70b,bluecoins_10,single_app,bluecoins,"You should use bluecoins to complete the following task: For May 14, 2024, record an expenditure of 256 CNY, marked as 'eating'.",0,2,2
+android_lab/llama-3.3-70b/bluecoins_11,android_lab,llama-3.3-70b,bluecoins_11,single_app,bluecoins,"You should use bluecoins to complete the following task: Adjust the expenditure on May 15, 2024, to 500 CNY.",0,15,16
+android_lab/llama-3.3-70b/bluecoins_8,android_lab,llama-3.3-70b,bluecoins_8,single_app,bluecoins,"You should use bluecoins to complete the following task: Note down an expense of 768 CNY for May 11, 2024.",0,15,16
+android_lab/llama-3.3-70b/bluecoins_9,android_lab,llama-3.3-70b,bluecoins_9,single_app,bluecoins,"You should use bluecoins to complete the following task: For March 8, 2024, jot down an income of 3.14 CNY with 'Weixin red packet' as the note.",0,15,16
+android_lab/llama-3.3-70b/clock_22,android_lab,llama-3.3-70b,clock_22,single_app,clock,You should use clock to complete the following task: Set alarm style to Analog,1,13,13
+android_lab/llama-3.3-70b/clock_23,android_lab,llama-3.3-70b,clock_23,single_app,clock,You should use clock to complete the following task: Change home time zone to Tokyo in clock,0,10,10
+android_lab/llama-3.3-70b/clock_24,android_lab,llama-3.3-70b,clock_24,single_app,clock,You should use clock to complete the following task: Modify silence after to 5 minutes,1,6,6
+android_lab/llama-3.3-70b/clock_27,android_lab,llama-3.3-70b,clock_27,single_app,clock,You should use clock to complete the following task: Set an alarm at 3PM,0,15,16
+android_lab/llama-3.3-70b/contacts_2,android_lab,llama-3.3-70b,contacts_2,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts whose first name is ""John"", last name is ""Smith"", mobile phone number is 12345678, and working email as 123456@gmail.com",0,9,9
+android_lab/llama-3.3-70b/contacts_3,android_lab,llama-3.3-70b,contacts_3,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts whose name is Xu, set the working phone number to be 12345678 and mobile phone number to be 87654321",0,9,9
+android_lab/llama-3.3-70b/contacts_4,android_lab,llama-3.3-70b,contacts_4,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts named Chen, whose company is Tsinghua University",0,15,16
+android_lab/llama-3.3-70b/pimusic_9,android_lab,llama-3.3-70b,pimusic_9,single_app,pi_music_player,You should use Pi Music Player to complete the following task: Create a playlist named 'Creepy' for me.,1,15,15
+android_lab/llama-3.3-70b/setting_17,android_lab,llama-3.3-70b,setting_17,single_app,settings,You should use Settings to complete the following task: Check Android Version,0,6,6
+android_lab/llama-3.3-70b/setting_18,android_lab,llama-3.3-70b,setting_18,single_app,settings,You should use Settings to complete the following task: Disable Contacts' APP notifications,0,15,16
+android_lab/llama-3.3-70b/zoom_1,android_lab,llama-3.3-70b,zoom_1,single_app,zoom,"You should use zoom to complete the following task: Join meeting 1234567890. (You should not click join button, and leave it to user)",1,6,6
+android_lab/llama-3.3-70b/zoom_2,android_lab,llama-3.3-70b,zoom_2,single_app,zoom,"You should use zoom to complete the following task: Join meeting 0987654321, and set my name as 'Alice'. (You should not click join button, and leave it to user)",0,5,5
+android_lab/llama-3.3-70b/zoom_3,android_lab,llama-3.3-70b,zoom_3,single_app,zoom,"You should use zoom to complete the following task: I need to join meeting 1234567890 without audio and video. (You should not click join button, and leave it to user)",1,6,6
+android_lab/llama-3.3-70b/zoom_4,android_lab,llama-3.3-70b,zoom_4,single_app,zoom,You should use zoom to complete the following task: Set auto connect to audio when wifi is connected in zoom settings.,0,15,16
+android_lab/llama-3.3-70b/zoom_5,android_lab,llama-3.3-70b,zoom_5,single_app,zoom,You should use zoom to complete the following task: Change my reaction skin to Medium-light in zoom settings.,0,15,16
+android_lab/ui-tars-72b/bluecoins_10,android_lab,ui-tars-72b,bluecoins_10,single_app,bluecoins,"You should use bluecoins to complete the following task: For May 14, 2024, record an expenditure of 256 CNY, marked as 'eating'.",0,15,16
+android_lab/ui-tars-72b/bluecoins_11,android_lab,ui-tars-72b,bluecoins_11,single_app,bluecoins,"You should use bluecoins to complete the following task: Adjust the expenditure on May 15, 2024, to 500 CNY.",0,15,16
+android_lab/ui-tars-72b/bluecoins_8,android_lab,ui-tars-72b,bluecoins_8,single_app,bluecoins,"You should use bluecoins to complete the following task: Note down an expense of 768 CNY for May 11, 2024.",0,15,16
+android_lab/ui-tars-72b/bluecoins_9,android_lab,ui-tars-72b,bluecoins_9,single_app,bluecoins,"You should use bluecoins to complete the following task: For March 8, 2024, jot down an income of 3.14 CNY with 'Weixin red packet' as the note.",0,15,16
+android_lab/ui-tars-72b/clock_22,android_lab,ui-tars-72b,clock_22,single_app,clock,You should use clock to complete the following task: Set alarm style to Analog,1,7,8
+android_lab/ui-tars-72b/clock_23,android_lab,ui-tars-72b,clock_23,single_app,clock,You should use clock to complete the following task: Change home time zone to Tokyo in clock,1,11,12
+android_lab/ui-tars-72b/clock_24,android_lab,ui-tars-72b,clock_24,single_app,clock,You should use clock to complete the following task: Modify silence after to 5 minutes,1,6,7
+android_lab/ui-tars-72b/clock_27,android_lab,ui-tars-72b,clock_27,single_app,clock,You should use clock to complete the following task: Set an alarm at 3PM,0,4,5
+android_lab/ui-tars-72b/contacts_2,android_lab,ui-tars-72b,contacts_2,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts whose first name is ""John"", last name is ""Smith"", mobile phone number is 12345678, and working email as 123456@gmail.com",0,15,16
+android_lab/ui-tars-72b/contacts_3,android_lab,ui-tars-72b,contacts_3,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts whose name is Xu, set the working phone number to be 12345678 and mobile phone number to be 87654321",0,15,16
+android_lab/ui-tars-72b/contacts_4,android_lab,ui-tars-72b,contacts_4,single_app,contacts,"You should use Contacts to complete the following task: Add a contacts named Chen, whose company is Tsinghua University",1,8,9
+android_lab/ui-tars-72b/pimusic_9,android_lab,ui-tars-72b,pimusic_9,single_app,pi_music_player,You should use Pi Music Player to complete the following task: Create a playlist named 'Creepy' for me.,1,10,11
+android_lab/ui-tars-72b/setting_17,android_lab,ui-tars-72b,setting_17,single_app,settings,You should use Settings to complete the following task: Check Android Version,1,9,10
+android_lab/ui-tars-72b/setting_18,android_lab,ui-tars-72b,setting_18,single_app,settings,You should use Settings to complete the following task: Disable Contacts' APP notifications,1,15,16
+android_lab/ui-tars-72b/setting_22,android_lab,ui-tars-72b,setting_22,single_app,settings,You should use Settings to complete the following task: Does my airplane mode open or not,1,9,10
+android_lab/ui-tars-72b/zoom_1,android_lab,ui-tars-72b,zoom_1,single_app,zoom,"You should use zoom to complete the following task: Join meeting 1234567890. (You should not click join button, and leave it to user)",1,10,11
+android_lab/ui-tars-72b/zoom_2,android_lab,ui-tars-72b,zoom_2,single_app,zoom,"You should use zoom to complete the following task: Join meeting 0987654321, and set my name as 'Alice'. (You should not click join button, and leave it to user)",0,15,16
+android_lab/ui-tars-72b/zoom_3,android_lab,ui-tars-72b,zoom_3,single_app,zoom,"You should use zoom to complete the following task: I need to join meeting 1234567890 without audio and video. (You should not click join button, and leave it to user)",0,8,9
+android_lab/ui-tars-72b/zoom_4,android_lab,ui-tars-72b,zoom_4,single_app,zoom,You should use zoom to complete the following task: Set auto connect to audio when wifi is connected in zoom settings.,1,10,11
+android_lab/ui-tars-72b/zoom_5,android_lab,ui-tars-72b,zoom_5,single_app,zoom,You should use zoom to complete the following task: Change my reaction skin to Medium-light in zoom settings.,0,15,16
